@@ -24,7 +24,7 @@ I view writing software as a creative endeavor, free from physical limits and ma
 
 According to the definition of “open-source software,” it does not require royalties or other fees. However, I want to emphasize that while you may not pay monetarily, developing and maintaining open-source software still requires significant effort.
 
-Some support comes from non-profit foundations, some from research funding, and some from the passion of developers. I believe nothing is truly “free” nowadays, much like how we pay for better daylighting even though no one owns the sunshine. Respect to the contributorss time and efforts, and contribute back when you are ready.
+Some support comes from non-profit foundations, some from research funding, and some from the passion of developers. I believe nothing is truly “free” nowadays, much like how we pay for better daylighting even though no one owns the sunshine. Respect to the contributors' time and efforts, and contribute back when you are ready.
 
 # Open-source as Bug-Free
 
