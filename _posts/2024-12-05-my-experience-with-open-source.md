@@ -6,13 +6,13 @@ description: It is more than free of charge
 tags: [opinion, open-source]
 categories: blog
 thumbnail:
-featured: true
+featured: false
 giscus_comments: true
 toc:
   sidebar: false
 ---
 
-A detailed definition of “open-source software” is available at https://opensource.org/osd, version 1.9, last modified on 2007-03-22
+A detailed definition of “open-source software” is available at [https://opensource.org/osd](https://opensource.org/osd), version 1.9, last modified on 2007-03-22
 
 # Background
 
