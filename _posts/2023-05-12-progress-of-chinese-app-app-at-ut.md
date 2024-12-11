@@ -16,6 +16,13 @@ toc:
 
 Published on May 12, 2023, and last updated on October 14, 2024.
 
+Change logs:
+
+- 2024-12-11: Fix broken URLs
+- 2024-10-24: Rename blog file, fix several typos
+- 2023-05-13: Add Chinese translation
+- 2023-05-04: Initial post
+
 Quick Links:
 [SB0843][SB0843] | [Amendment1][Amendment1] | [TikTok Law][TikTok Law]
 
@@ -207,7 +214,7 @@ On **May 3**, Jinning Wang shared his opinion on the University of Tennessee's C
 
 Interview on the impacted Chinese community
 
-On **April 18**, the [UT Daily Beacon][UT Daily Beacon] conducted a timely interview shedding light on the Chinese community directly impacted by the recent Chinese app ban. In the interview, Chinese students, who have been stripped of their communication tools due to state law, express their concerns regarding the perceived lack of support from the university.
+On **April 18**, the [UT Daily Beacon][Beacon] conducted a timely interview shedding light on the Chinese community directly impacted by the recent Chinese app ban. In the interview, Chinese students, who have been stripped of their communication tools due to state law, express their concerns regarding the perceived lack of support from the university.
 Read more about their experiences in the article, [Chinese students stripped of communications by state law claim lack of university support][Interview].
 
 ## Apr 14, UT implemented Chinese app ban
@@ -472,18 +479,17 @@ SB0843于1月30日提交，旨在禁止向学生、教职员工或公众提供�
 
 **1月30日**，参议员 [Jon Lundberg][Jon Lundberg] 提出 [SB0843][SB0843] 以禁止为学生、教职员工或公众提供互联网访问的高等教育公共机构允许个人使用总部位于美国以外的公司拥有的视频平台通过该机构的网络进行访问。
 
-[Jon Lundberg]: https://wapp.capitol.tn.gov/apps/legislatorinfo/member.aspx?district=S4
-[Bill Lee]: https://www.tn.gov/governor/about-bill-lee.html
-[Donde Plowman]: https://chancellor.utk.edu/about-the-chancellor/
-[Ramon Padilla]: https://president.tennessee.edu/biography/ramon-padilla/
-[Cabinet]: https://chancellor.utk.edu/university-leadership/cabinet/
+[Jon Lundberg]: https://archive.is/DQwPi
+[Bill Lee]: https://archive.is/njVXg
+[Donde Plowman]: https://archive.fo/KhdDr
+[Ramon Padilla]: https://archive.fo/yBVLZ
+[Cabinet]: https://archive.fo/BsXcO
 [CGE]: https://cge.utk.edu/
-[SB0843]: https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB0834
-[Amendment1]: https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB0834
-[TikTok Law]: https://techsolutions.tennessee.edu/tik-tok-law/
+[SB0843]: https://wapp.capitol.tn.gov/apps/Billinfo/default.aspx?BillNumber=SB0834&ga=113
+[Amendment1]: https://www.capitol.tn.gov/Bills/113/Amend/SA0050.pdf
+[TikTok Law]: https://archive.is/PEjDU
 [Beacon]: https://www.utdailybeacon.com
-[Interview]: https://www.utdailybeacon.com/campus_news/administration/chinese-students-stripped-of-communications-by-state-law-claim-lack-of-university-support/article_b8d11e74-de3d-11ed-9edc-aba1b50f24ff.html
+[Interview]: https://archive.is/fezqN
 [SB0834 Video]: https://tnga.granicus.com/player/clip/27648?view_id=703&redirect=true&h=9e8d2468950790d57d94e8fdf25e2075
 [Amendment1 Video]: https://tnga.granicus.com/player/clip/27755?view_id=703&redirect=true&h=f7f662fdb098d67fa755d9bde64ad287
-[CGE Details]: https://cge.utk.edu/2023/12/06/details-regarding-tennessee-law-sb-0834-hb-1445-a-k-a-tik-tok-ban-law/
-[UT Daily Beacon]: https://www.utdailybeacon.com
+[CGE Details]: https://archive.is/frTjZ
