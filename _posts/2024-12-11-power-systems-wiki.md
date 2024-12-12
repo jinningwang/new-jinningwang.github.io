@@ -72,6 +72,8 @@ toc:
 
 ## Ancillary Services
 
+---
+
 **_Ancillary services_** Those services necessary to support the transmission of electric power from seller to purchaser, given the obligations of control areas and transmitting utilities within those control areas, to maintain reliable operations of the interconnected transmission system. Ancillary services supplied with generation include load following, reactive power-voltage regulation, system protective services, loss compensation service, system control, load dispatch services, and energy imbalance services. [6]
 
 More details about this can be found in Reference [7] - Appendix I: Regional Practices for Ancillary Services
@@ -79,6 +81,8 @@ More details about this can be found in Reference [7] - Appendix I: Regional Pra
 ---
 
 ## Frequency
+
+---
 
 **_Frequency Deviation_** A change in Interconnection frequency. [1]
 
@@ -149,6 +153,8 @@ In short, **_Secondary Control_** maintains the minute-to-minute balance through
 
 ## Entities
 
+---
+
 **_Balancing Authorities_** The responsible entity that integrates resource plans ahead of time, maintains Demand and resource balance within a Balancing Authority Area, and supports Interconnection frequency in real time. [1]
 
 ---
@@ -162,6 +168,8 @@ In short, **_Secondary Control_** maintains the minute-to-minute balance through
 ---
 
 ## Reserve
+
+---
 
 **_Spinning Reserve_** Unloaded generation that is synchronized and ready to serve additional demand. [1]
 
@@ -197,6 +205,8 @@ In short, **_Secondary Control_** maintains the minute-to-minute balance through
 ---
 
 ## Reliability, Security, and Stability
+
+---
 
 **_Stability Limit_** The maximum power flow possible through some particular point in the system while maintaining stability in the entire system or the part of the system to which the stability limit refers. [1]
 
@@ -235,6 +245,8 @@ Their relationships [3]:
 
 ### Stability
 
+---
+
 **_Rotor angle stability_** is concerned with the ability of the interconnected synchronous machines in a power system to remain in synchronism under normal operating conditions and to regain synchronism after being subjected to a small or large disturbance. [4]
 
 ---
@@ -253,6 +265,8 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 ## Contingency
 
+---
+
 **_Most Severe Single Contingency_** The Balancing Contingency Event, due to a single contingency identified using system models maintained within the Reserve Sharing Group (RSG) or a Balancing Authority’s area that is not part of a Reserve Sharing Group, that would result in **the greatest loss** (measured in MW) of resource output used by the RSG or a Balancing Authority that is not participating as a member of a RSG at the time of the event to meet Firm Demand and export obligation (excluding export obligation for which Contingency Reserve obligations are being met by the Sink Balancing Authority). [1]
 
 ---
@@ -263,6 +277,8 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 ## Horizon
 
+---
+
 **_Near-Term Transmission Planning Horizon_** The transmission planning period that covers Year One through five. [1]
 
 ---
@@ -272,6 +288,8 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 ---
 
 ## Factors
+
+---
 
 **_Outage Transfer Distribution Factor (OTDF)_** In the post-contingency configuration of a system under study, the electric Power Transfer Distribution Factor (PTDF) with one or more system Facilities removed from service (outaged). [1]
 
@@ -299,6 +317,17 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 - Maintain, within the limits of Good Utility Practice, scheduled interchange with other Control Areas.
 - Maintain the frequency of the electric power system(s) within reasonable limits in accordance with Good Utility Practice.
 - Provide sufficient generating capacity to maintain operating reserves in accordance with Good Utility Practice.
+
+---
+
+**_loss_zone_** In MATPOEWR, there is a bus parameter named "ZONE", and it means loss zone. [9]
+
+**_Zone_** Zone: There is no clear definition, but my best guess is that it refers to different areas within the Bulk-Power System.
+
+<div style="text-align: ;left;">
+  <img src="/assets/img/poster/PJM_zone_map.png" alt="PJM Zone Map" style="width: 700px; height: auto;">
+  <p><em>PJM Transmission Zones Map (from [10]) </em></p>
+</div>
 
 ---
 
@@ -340,3 +369,7 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 [7] North American Electric Reliability Corporation, "Ancillary Service and Balancing Authority Area Solutions to Integrate Variable Generation," Mar. 2011. [Online]. Available: https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/IVGTF2-3.pdf
 
 [8] North American Electric Reliability Corporation, "Technical Rationale and Justification for TPL-008-1,", Oct. 2024. [Online]. Available: https://www.nerc.com/pa/Stand/Project202307ModtoTPL00151TransSystPlanPerfReqExWe2023-07_TPL-008-1%20Technical%20Rationale%20-%20Draft_3_100724.pdf
+
+[9] MATPOWER, "MATPOWER User’s Manuals," https://matpower.org/doc-original/manuals/
+
+[10] PJM, "Transmission Zones Map," https://www.pjm.com/-/media/DotCom/about-pjm/pjm-zones.pdf
