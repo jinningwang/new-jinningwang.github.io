@@ -317,6 +317,14 @@ toc:
 
 # Quotes
 
+> 假作真时真亦假，无为有处有还无。
+> —曹雪芹，《红楼梦》
+
+> When the lie is taken as truth, the truth becomes a lie; when the fiction is taken as fact, the fact becomes a fiction.
+> —Translation by Yi Wang
+
+---
+
 > 如果你站在四岁的O的位置瞻望未来，你会说她前途未卜，你会说她前途无限，要是你站在她的终点看这个生命的轨迹你看到的只是一条路，你就只能看见一条命定之途。所有的生命都一样，所有的人都是这样。  
 > —史铁生，《务虚笔记》
 
