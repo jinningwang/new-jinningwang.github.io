@@ -129,7 +129,7 @@ In short, **_Secondary Control_** maintains the minute-to-minute balance through
   alt="Typical Frequency Trend for the Loss of a Generating Resource"
   style="width: 700px; height: auto;">
   <p><em>
-    Typical Frequency Trend for the Loss of a Generating Resource (copied from [2]).
+    Typical Frequency Trend for the Loss of a Generating Resource (from [2]).
      Point A is defined as the pre-disturbance frequency;
      Point C or Nadir is the maximum deviation due to loss of resource;
      Point B is defined as the stabilizing frequency and;
@@ -195,7 +195,7 @@ In short, **_Secondary Control_** maintains the minute-to-minute balance through
 
 <div style="text-align: ;left;">
   <img src="/assets/img/poster/operating_reserve.png" alt="Operating Reserves" style="width: 700px; height: auto;">
-  <p><em>Operating Reserves (from referenced document) </em></p>
+  <p><em>Operating Reserves (from [1]) </em></p>
 </div>
 
 ---
@@ -295,6 +295,21 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 ---
 
+**_Region_** NERC divides North America into several regions for the purpose of reliability and coordination. Each region is responsible for ensuring the reliability of the bulk power system within its boundaries [8]. The six regions are:
+- MRO: Midwest Reliability Organization
+- NPCC: Northeast Power Coordinating Council
+- RF: ReliabilityFirst
+- SERC: SERC Reliability Corporation
+- Rexas RE: Texas Reliability Entity
+- WECC: Western Electricity Coordinating Council
+
+<div style="text-align: ;left;">
+  <img src="/assets/img/poster/six_region.png" alt="Regional Maps" style="width: 700px; height: auto;">
+  <p><em>Regional Maps (from [8]) </em></p>
+</div>
+
+---
+
 **_Balancing Authority Area_** The collection of generation, transmission, and loads within the metered boundaries of the Balancing Authority. The Balancing Authority maintains load-resource balance within this area. [1]
 
 ---
@@ -319,3 +334,5 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 [6] Federal Energy Regulatory Commission, “Glossary,” Market Assessments. Accessed: Aug. 31, 2020. [Online]. Available: https://www.ferc.gov/industries-data/market-assessments/overview/glossary
 
 [7] North American Electric Reliability Corporation, "Ancillary Service and Balancing Authority Area Solutions to Integrate Variable Generation," Mar. 2011. [Online]. Available: https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/IVGTF2-3.pdf
+
+[8] North American Electric Reliability Corporation, "Technical Rationale and Justification for TPL-008-1,", Oct. 2024. [Online]. Available: https://www.nerc.com/pa/Stand/Project202307ModtoTPL00151TransSystPlanPerfReqExWe2023-07_TPL-008-1%20Technical%20Rationale%20-%20Draft_3_100724.pdf
