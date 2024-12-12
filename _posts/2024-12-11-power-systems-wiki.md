@@ -289,7 +289,7 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 ---
 
-**_Reliability Coordinator Area_** The collection of generation, transmission, and loads within the boundaries of the Reliability Coordinator. Its boundary coincides with one or more Balancing Authority Areas.
+**_Reliability Coordinator Area_** The collection of generation, transmission, and loads within the boundaries of the Reliability Coordinator. Its boundary coincides with one or more Balancing Authority Areas. [1]
 
 ---
 
