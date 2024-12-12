@@ -294,6 +294,7 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 ---
 
 **_Control area_** An electric power system or combination of electric power systems to which a common automatic control scheme is applied in order to [6]:
+
 - Match, at all times, the power output of the generators within the electric power system(s) and capacity and energy purchased from entities outside the electric power system(s), with the load in the electric power system(s).
 - Maintain, within the limits of Good Utility Practice, scheduled interchange with other Control Areas.
 - Maintain the frequency of the electric power system(s) within reasonable limits in accordance with Good Utility Practice.
@@ -302,6 +303,7 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 ---
 
 **_Region_** NERC divides North America into several regions for the purpose of reliability and coordination. Each region is responsible for ensuring the reliability of the bulk power system within its boundaries [8]. The six regions are:
+
 - MRO: Midwest Reliability Organization
 - NPCC: Northeast Power Coordinating Council
 - RF: ReliabilityFirst
