@@ -157,10 +157,6 @@ In short, **_Secondary Control_** maintains the minute-to-minute balance through
 
 ---
 
-**_Reliability Coordinator Area_** The collection of generation, transmission, and loads within the boundaries of the Reliability Coordinator. Its boundary coincides with one or more Balancing Authority Areas.
-
----
-
 **_Interchange_** Energy transfers that cross Balancing Authority boundaries. [1]
 
 ---
@@ -287,6 +283,16 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 ## Area, Zone, and Region
 
+---
+
+**_Balancing Authority Area_** The collection of generation, transmission, and loads within the metered boundaries of the Balancing Authority. The Balancing Authority maintains load-resource balance within this area. [1]
+
+---
+
+**_Reliability Coordinator Area_** The collection of generation, transmission, and loads within the boundaries of the Reliability Coordinator. Its boundary coincides with one or more Balancing Authority Areas.
+
+---
+
 **_Control area_** An electric power system or combination of electric power systems to which a common automatic control scheme is applied in order to [6]:
 - Match, at all times, the power output of the generators within the electric power system(s) and capacity and energy purchased from entities outside the electric power system(s), with the load in the electric power system(s).
 - Maintain, within the limits of Good Utility Practice, scheduled interchange with other Control Areas.
@@ -307,10 +313,6 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
   <img src="/assets/img/poster/six_region.png" alt="Regional Maps" style="width: 700px; height: auto;">
   <p><em>Regional Maps (from [8]) </em></p>
 </div>
-
----
-
-**_Balancing Authority Area_** The collection of generation, transmission, and loads within the metered boundaries of the Balancing Authority. The Balancing Authority maintains load-resource balance within this area. [1]
 
 ---
 
