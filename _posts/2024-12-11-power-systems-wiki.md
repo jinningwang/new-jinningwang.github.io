@@ -50,6 +50,10 @@ toc:
 
 ---
 
+**_Wholesale electricity markets_** The purchase and sale of electricity from **generators to resellers** (who sell to retail customers) along with the ancillary services needed to maintain reliability and power quality at the transmission level. [6]
+
+---
+
 **_Financial transmission right_** A contract that entitles the holder to receive or pay compensation for transmission charges that arise when grid congestions cases price differences due to the redispatch of generators. [6]
 
 ---
@@ -58,13 +62,19 @@ toc:
 
 ---
 
-**_Wholesale electricity markets_** The purchase and sale of electricity from **generators to resellers** (who sell to retail customers) along with the ancillary services needed to maintain reliability and power quality at the transmission level. [6]
+**_Bilateral transaction_** A direct contract between a seller and buyer outside of a centralized market or exchange (e.g. Nymex or an RTO/ISO). In energy markets, the buyer or seller usually finds his or her matching counter-party through a broker (e.g. voice brokers, ICE, etc.).
+
+---
+
+**_Zonal price_** A pricing mechanism for a **specific zone** within a **control area**.
 
 ---
 
 ## Ancillary Services
 
 **_Ancillary services_** Those services necessary to support the transmission of electric power from seller to purchaser, given the obligations of control areas and transmitting utilities within those control areas, to maintain reliable operations of the interconnected transmission system. Ancillary services supplied with generation include load following, reactive power-voltage regulation, system protective services, loss compensation service, system control, load dispatch services, and energy imbalance services. [6]
+
+More details about this can be found in Reference [7] - Appendix I: Regional Practices for Ancillary Services
 
 ---
 
@@ -307,3 +317,5 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 [5] North American Electric Reliability Corporation, "Reliability Guideline - Operating Reserve Management: Version 3," Jun. 8, 2021. [Online]. Available: https://www.nerc.com/comm/RSTC_Reliability_Guidelines/Reliability_Guideline_Template_Operating_Reserve_Management_Version_3.pdf
 
 [6] Federal Energy Regulatory Commission, “Glossary,” Market Assessments. Accessed: Aug. 31, 2020. [Online]. Available: https://www.ferc.gov/industries-data/market-assessments/overview/glossary
+
+[7] North American Electric Reliability Corporation, "Ancillary Service and Balancing Authority Area Solutions to Integrate Variable Generation," Mar. 2011. [Online]. Available: https://www.nerc.com/pa/RAPA/ra/Reliability%20Assessments%20DL/IVGTF2-3.pdf
