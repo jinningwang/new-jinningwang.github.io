@@ -2,7 +2,7 @@
 layout: post
 title: Power Systems Wiki
 date: 2024-12-11 10:00:00
-description: Some terminology related to power systems for my own reference.
+description: Some terminology for my own reference.
 tags: [frequency, terminology, NERC]
 categories: blog
 thumbnail:
