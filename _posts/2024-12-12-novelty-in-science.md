@@ -53,7 +53,7 @@ The most common misconception of reviewers is that novelty pertains to technical
 
 Novelty reveals itself in as many ways as beauty. Before critiquing a paper for a lack to technical novelty ask yourself if the true novelty lies elsewhere.
 
-# Novelty as usefulness or value
+## Novelty as usefulness or value
 
 Not all novel ideas are useful. Just the property of being new does not connote value. We want new ideas that lead us somewhere. Here, reviewers need to be very careful. It's very hard to know where a new idea will take the field because any predictions that we make are based on the field as it is today.
 
@@ -63,7 +63,7 @@ A common review I get is
 
 Lack of utility is indeed an issue but it is very hard to assess with a new idea. Reviewers should be careful here and aware that we all have limited imagination.
 
-# A personal note
+## A personal note
 
 My early career was built on seeing and formalizing connections between two established fields: robust statistics and Markov random fields. The novelty arose from the fact that nobody had put these ideas together before. It turned out to be a fertile space with many surprising connections that led to new theory. Fortunately, these connections also turned out to be valuable, resulting in practical algorithms that were state of the art.
 
