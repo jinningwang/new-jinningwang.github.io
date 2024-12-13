@@ -17,7 +17,7 @@ Reviewers have strong ideas about what makes a paper acceptable in top conferenc
 
 I see reviewers regularly mistake complexity, difficulty, and technicality for novelty. In science reviewing, novelty seems to imply these things. We might be better served by removing the word "novelty" from the review instructions and replacing it with beauty.
 
-Beauty removes the notions of "technical" and "complex" and gets more to the heart of scientific novelty.  A painting can be beautiful even if it is simple and the technical complexity is low. So can a paper. A little squiggle of paint by Picasso can be as beautiful as an intricate painting by Rembrandt.
+Beauty removes the notions of "technical" and "complex" and gets more to the heart of scientific novelty. A painting can be beautiful even if it is simple and the technical complexity is low. So can a paper. A little squiggle of paint by Picasso can be as beautiful as an intricate painting by Rembrandt.
 
 Keeping beauty in mind, let's look at some common reviewer misunderstandings about novelty.
 
