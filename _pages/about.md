@@ -9,7 +9,7 @@ profile:
   image: jinning.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Jinning Wang</p>
+    <p>Wang, Jinning</p>
     <p>"王晋宁"</p>
 
 news: true # includes a list of news items
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Jinning Wang is currently pursuing a Ph.D. degree in electrical engineering at the University of Tennessee, Knoxville, TN, USA.
+Jinning is currently pursuing a Ph.D. degree in electrical engineering at the University of Tennessee, Knoxville, TN, USA.
 His research interests include Data Mining, Scientific Computation, and Power System Simulation.
 
 Jinning is the author of power system scheduling simulator [AMS](https://github.com/CURENT/ams), which is a key component of the [CURENT Large-scale Testbed (LTB)](https://github.com/CURENT).
