@@ -43,4 +43,16 @@ jobs:
         with:
           fail: true
           # only check local links
-          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _posts/2023-04-24-videos.md --exclude-path _posts/2023-05-12-progress-of-chinese-app-app-at-ut.md --verbose --no-progress '_site/**/*.html'
+          args: >
+            --offline
+            --remap '_site(/?.*)/assets/(.*) _site/assets/$2'
+            --exclude-path README.md
+            --exclude-path _pages/404.md
+            --exclude-path _pages/blog.md
+            --exclude-path _posts/2018-12-22-distill.md
+            --exclude-path _posts/2023-04-24-videos.md
+            --exclude-path _posts/2023-05-12-progress-of-chinese-app-app-at-ut.md
+            --exclude-path _posts/2024-12-11-power-systems-wiki.md
+            --verbose
+            --no-progress
+            '_site/**/*.html'
