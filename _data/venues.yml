@@ -51,3 +51,7 @@
 "IJEEPS":
   url: https://www.sciencedirect.com/journal/international-journal-of-electrical-power-and-energy-systems
   color: "#edb91c"
+
+"MPCE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265
+  color: "#006699"
