@@ -1,4 +1,65 @@
 ---
+@INPROCEEDINGS{10741657,
+  abbr = {NAPS},
+  author={Alonize, Mishal and Wang, Jinning and Malkmus, Zackery and Li, Fangxing Fran},
+  booktitle={2024 56th North American Power Symposium (NAPS)}, 
+  title={Modeling and Validating System Dynamics in Saudi Synthetic Electric Grid}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  abstract={This paper introduces a modeling approach for creating a synthetic Saudi power grid, designed to simulate the transient dynamics of a real power grid. This synthetic grid model, created from open-source data, is available for open sharing and can be utilized for educational, and research purposes. The cases are built to match a detailed model of Saudi power system elements, Saudi code requirements, and statistical characteristics found in actual power grids. First, we describe how we built, tested, tuned, and validated this synthetic Saudi grid model by using statistics from currently available data. The CURENT Large-scale Testbed (LTB) and its ANDES package enabled power flow calculations, simulations of transient stability, and analysis of small-signal stability in transmission systems. Second, we describe our use of the ANDES package for dynamic simulation and testing, and our use of the LTB's AGVis package for grid visualization. This Saudi synthetic grid model has 223 buses that have been tested, tuned and validated to ensure that they are realistic and are practical for various studies. Also, it greatly enhances the diversity of existing collections of synthetic grids in the current literature.},
+  keywords={Codes;System dynamics;Power system dynamics;Power system stability;Power grids;Stability analysis;Data models;Transient analysis;North America;Testing;Synthetic grid;grid code requirements;generator dynamics;model and validation;Large-scale Testbed},
+  doi={10.1109/NAPS61145.2024.10741657},
+  ISSN={2833-003X},
+  month={Oct},
+  dimensions = {true},
+  bibtex_show = {true},
+  html = {https://ieeexplore.ieee.org/document/10741657/},
+  pdf = {/assets/pdf/10741657.pdf},
+}
+
+@ARTICLE{10729702,
+  abbr = {TSTE},
+  author={She, Buxin and Li, Fangxing and Wang, Jinning and Cui, Hantao and Wang, Xiaofei and Bo, Rui},
+  journal={IEEE Transactions on Sustainable Energy}, 
+  title={Virtual Inertia Scheduling (VIS) for Microgrids with Static and Dynamic Security Constraints}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-12},
+  abstract={Microgrids feature a high penetration of inverter-interfaced distributed energy resources (DERs). The low inertia characteristic and fast dynamics of DERs pose challenges to conventional decoupled static economic operation and dynamic control design within microgrids. Hence, this paper proposed virtual inertia scheduling (VIS) for microgrids, aiming to ensure both economy and security. First, a unified framework for device-level control and grid-level operation is introduced, with VIS serving as a key application to address low inertia issues. VIS actively harnesses the controllability and flexibility of DERs to effectively manage microgrid inertia. It updates the conventional economic operation framework by incorporating the virtual inertia/damping cost, transient performance constraints, and stability constraints. Control parameters for DERs are formulated as additional decision variables. Then, VIS is specified in microgrids, followed by explication and linearization of dynamic constraints. An efficient workflow is developed to facilitate the integration of data-driven methods into microgrid-VIS, involving data generation, cleaning, and labeling to alleviate computational burdens. Time-domain simulations are further integrated for correction, validation, and performance guarantee. Finally, VIS is verified in an islanded microgrid modified from the IEEE 123-bus system. Results demonstrate that VIS effectively addresses the low inertia challenges in DER-penetrated microgrids, balancing economic considerations and dynamic performance.},
+  keywords={Microgrids;Power system stability;Stability criteria;Costs;Power system dynamics;Circuit stability;Transient analysis;Damping;Security;Vehicle dynamics;Economic dispatch;virtual inertia scheduling (VIS);stability constraints;microgrid;distributed energy resource (DER)},
+  doi={10.1109/TSTE.2024.3481239},
+  ISSN={1949-3037},
+  month={},
+  dimensions = {true},
+  bibtex_show = {true},
+  html = {https://ieeexplore.ieee.org/document/10729702/},
+  pdf = {/assets/pdf/10729702.pdf},
+  selected = {true},
+}
+
+@ARTICLE{10495852,
+  abbr = {MPCE},
+  author={Shuai, Hang and She, Buxin and Wang, Jinning and Li, Fangxing},
+  journal={Journal of Modern Power Systems and Clean Energy}, 
+  title={Safe Reinforcement Learning for Grid-Forming Inverter Based Frequency Regulation with Stability Guarantee}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-8},
+  abstract={This letter investigates a safe reinforcement learning strategy for grid-forming (GFM) inverter based frequency regulation. To guarantee stability of the inverter based resource (IBR) system under the learned control policy, a model based reinforcement learning (MBRL) technique is combined with Lyapunov approach which determines safe region of states and actions. To obtain near optimal control strategy, the control performance is safely improved by approximate dynamic programming (ADP) using data sampled from the region of attraction (ROA). Moreover, to enhance the control robustness against parameter uncertainty in the inverter, a Gaussian process (GP) model is adopted by the proposed MBRL to effectively learn system dynamics from measurements. Numerical simulations validate the effectiveness of the proposed method.},
+  keywords={Frequency control;Power system stability;Power system dynamics;Lyapunov methods;Stability criteria;Inverter-based resource;Numerical stability;Inverter based resource (IBR);virtual synchronous generator (VSG);safe reinforcement learning;Lyapunov function},
+  doi={10.35833/MPCE.2023.000882},
+  ISSN={2196-5420},
+  month={},
+  dimensions = {true},
+  bibtex_show = {true},
+  html = {https://ieeexplore.ieee.org/document/10495852/},
+  pdf = {/assets/pdf/10495852.pdf},
+}
+
 @article{wang_electric_2024,
   	abbr = {TSG},
 	title = {Electric {Vehicles} {Charging} {Time} {Constrained} {Deliverable} {Provision} of {Secondary} {Frequency} {Regulation}},
@@ -9,13 +70,15 @@
 	urldate = {2024-01-23},
 	journal = {IEEE Transactions on Smart Grid},
 	author = {Wang, Jinning and Li, Fangxing and Fang, Xin and Wang, Wenbo and Cui, Hantao and Zhang, Qiwei and She, Buxin},
-	year = {2024},
-	keywords = {AMS, JWang},
-	pages = {1--1},
+	year={2024},
+	volume={15},
+	number={4},
+	pages={3892-3903},
 	dimensions = {true},
   	bibtex_show = {true},
 	html = {https://ieeexplore.ieee.org/document/10411057/},
-	selected = {true}
+	selected = {true},
+	pdf = {/assets/pdf/10411057.pdf},
 }
 
 @article{du_distributed_2024,
@@ -38,7 +101,7 @@
 	dimensions = {true},
 	html = {https://www.sciencedirect.com/science/article/pii/S0142061523007019?via%3Dihub},
   	bibtex_show = {true},
-	altmetric = {true},
+	pdf = {/assets/pdf/1-s2.0-S0142061523007019-main.pdf},
 }
 
 @article{li_siting_2024,
@@ -52,12 +115,14 @@
 	urldate = {2024-01-18},
 	journal = {IEEE Transactions on Smart Grid},
 	author = {Li, Chenchen and Li, Fangxing and Jiang, Sufan and Wang, Xiaofei and Wang, Jinning},
-	year = {2024},
-	keywords = {JWang, distribution, planning},
-	pages = {1--1},
+  	year={2024},
+  	volume={15},
+  	number={4},
+  	pages={3681-3693},
 	dimensions = {true},
 	html = {https://ieeexplore.ieee.org/document/10382640/},
   	bibtex_show = {true},
+	pdf = {/assets/pdf/10382640.pdf},
 }
 
 @inproceedings{parsly_dime_2023,
@@ -80,7 +145,8 @@
 	dimensions = {true},
 	html = {https://ieeexplore.ieee.org/document/10318583/},
   	bibtex_show = {true},
-	selected = {true}
+	selected = {true},
+	pdf = {/assets/pdf/10318583.pdf},
 }
 
 @article{cui_disturbance_2022,
@@ -93,18 +159,25 @@
 	urldate = {2022-05-25},
 	journal = {Proceedings of the IEEE},
 	author = {Cui, Hantao and Konstantinopoulos, Stavros and Osipov, Denis and Wang, Jinning and Li, Fangxing and Tomsovic, Kevin L. and Chow, Joe H.},
-	year = {2022},
-	keywords = {AMS, JWang},
-	pages = {1--18},
+	year={2023},
+	volume={111},
+	number={7},
+	pages={873-890},
 	dimensions = {true},
   	bibtex_show = {true},
 	html = {https://ieeexplore.ieee.org/document/9777891/},
-	selected = {true}
+	selected = {true},
+	pdf = {/assets/pdf/9777891.pdf},
+	video = {https://youtu.be/EPEy3ocCDUk},
 }
 
 @article{she_virtual_2023,
   	abbr = {TSTE},
-	title = {Virtual {Inertia} {Scheduling} ({VIS}) for {Real}-time {Economic} {Dispatch} of {IBRs}-penetrated {Power} {Systems}},
+	title={Virtual Inertia Scheduling (VIS) for Real-Time Economic Dispatch of IBR-Penetrated Power Systems}, 
+	year={2024},
+	volume={15},
+	number={2},
+	pages={938-951},
 	issn = {1949-3029, 1949-3037},
 	url = {https://ieeexplore.ieee.org/document/10264213/},
 	doi = {10.1109/TSTE.2023.3319307},
@@ -112,12 +185,10 @@
 	urldate = {2023-10-20},
 	journal = {IEEE Transactions on Sustainable Energy},
 	author = {She, Buxin and Li, Fangxing and Cui, Hantao and Wang, Jinning and Zhang, Qiwei and Bo, Rui},
-	year = {2023},
-	keywords = {AMS, JWang},
-	pages = {1--14},
 	dimensions = {true},
 	html = {https://ieeexplore.ieee.org/document/10264213/},
   	bibtex_show = {true},
+	pdf = {/assets/pdf/10264213.pdf},
 }
 
 @inproceedings{liu_transmission-distribution_2022,
@@ -140,6 +211,7 @@
 	dimensions = {true},
 	html = {https://ieeexplore.ieee.org/document/9917027/},
   	bibtex_show = {true},
+	pdf = {/assets/pdf/9917027.pdf},
 }
 
 @inproceedings{wang_impacts_2021,
@@ -161,6 +233,7 @@
 	dimensions = {true},
 	html = {https://ieeexplore.ieee.org/document/9712880/},
   	bibtex_show = {true},
+	pdf = {/assets/pdf/9712880.pdf},
 }
 
 @article{she_decentralized_2023,
@@ -182,6 +255,7 @@
 	dimensions = {true},
 	html = {https://ieeexplore.ieee.org/document/10078029/},
   	bibtex_show = {true},
+	pdf = {/assets/pdf/10078029.pdf},
 }
 
 @techreport{wang_cyber-physical_2022,
@@ -201,6 +275,7 @@
 	dimensions={true},
 	html = {https://www.osti.gov/servlets/purl/1882191/},
   	bibtex_show = {true},
+	pdf = {/assets/pdf/82644.pdf},
 }
 
 @article{wang_electricity_2022,
@@ -221,9 +296,11 @@
 	keywords = {JWang, nature},
 	pages = {7122},
 	dimensions = {true},
+	altmetric = {true},
 	html = {https://www.nature.com/articles/s41467-022-34447-7},
   	bibtex_show = {true},
-	selected = {true}
+	selected = {true},
+  	pdf = {/assets/pdf/s41467-022-34447-7.pdf},
 }
 
 @article{wang_profit-oriented_2022,
@@ -242,4 +319,5 @@
 	dimensions = {true},
 	html = {https://ieeexplore.ieee.org/document/9711558/},
   	bibtex_show = {true},
+	pdf = {/assets/pdf/9711558.pdf},
 }

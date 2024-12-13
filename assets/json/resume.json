@@ -6,7 +6,7 @@
     "email": "jwang175@vols.utk.edu",
     "phone": "",
     "url": "https://jinningwang.github.io",
-    "summary": "Currently pursuing a Ph.D. degree in electrical engineering at the University of Tennessee, Knoxville, TN, USA. Research interests include data mining, scientific computation, and power system modeling. Author of the power system dispatch simulator AMS and coordinator for the CURENT Large-scale Testbed development.",
+    "summary": "Currently pursuing a Ph.D. degree in electrical engineering at the University of Tennessee, Knoxville, TN, USA. Research interests include data mining, scientific computation, and power system modeling. Author of the power system scheduling simulator AMS and coordinator for the CURENT Large-scale Testbed development.",
     "location": {
       "address": "1520 Middle Dr",
       "postalCode": "TN 37996",
@@ -26,7 +26,7 @@
     {
       "name": "GridCARE",
       "position": "Power System & GIS Engineer",
-      "url": "https://www.eecs.utk.edu",
+      "url": "",
       "startDate": "2024-5",
       "endDate": "2024-8",
       "summary": "Interconnection study, and GIS analysis.",
