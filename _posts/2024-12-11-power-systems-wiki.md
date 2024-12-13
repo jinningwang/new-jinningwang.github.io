@@ -322,7 +322,7 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 **_loss_zone_** In MATPOEWR, there is a bus parameter named "ZONE", and it means loss zone. [9]
 
-**_Zone_** Zone: There is no clear definition, but my best guess is that it refers to different areas within the Bulk-Power System.
+**_Zone_** There is no clear definition, but my best guess is that it refers to different areas within the Bulk-Power System.
 
 <div style="text-align: ;left;">
   <img src="/assets/img/poster/PJM_zone_map.png" alt="PJM Zone Map" style="width: 700px; height: auto;">
