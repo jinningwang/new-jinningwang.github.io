@@ -2,7 +2,7 @@
 layout: post
 title: 硬派球迷
 date: 2024-12-13 15:20:00
-description: 陈总有段时间特别爱找我说话，因为据她说，我是仅有的对她没有非分之想的男球友。当时我义正言辞地说我身为一个科黑，这是我的信仰，与你共存尚且值得商榷，谈何交配？
+description: 纵使有时那听起来像是山海般呼啸的嘘声
 tags: [repost]
 categories: story
 thumbnail:
