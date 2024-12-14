@@ -6,7 +6,7 @@ description: Some terminology for my own reference.
 tags: [frequency, terminology, NERC]
 categories: blog
 thumbnail:
-featured: false
+featured: true
 giscus_comments: true
 toc:
   sidebar: true
