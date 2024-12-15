@@ -9,7 +9,7 @@ thumbnail:
 featured: false
 toc:
   sidebar: false
----·
+---
 
 唐大夫 \| 2013年6月20日
 
@@ -137,6 +137,6 @@ toc:
 
 **_如有侵权，请联系删除_**
 
-基于另一版本修订于2024-12-14, https://zhuanlan.zhihu.com/p/110900236
+基于另一版本修订, https://zhuanlan.zhihu.com/p/110900236
 
 [link]: https://github.com/ibeidou/ibeidou-articles/blob/eaa99dc0f4daad16bf06ba1c5e0cb14579a8a3ef/articles/%E3%80%90%E8%BF%87%E8%B7%AF%E4%BA%BA%E3%80%91%E7%A1%AC%E6%B4%BE%E7%90%83%E8%BF%B7/post.md
