@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 硬派球迷
+title: Hardcore Fan
 date: 2024-12-13 15:20:00
-description: 纵使有时那听起来像是山海般呼啸的嘘声
+description:
 tags: [repost]
 categories: story
 thumbnail:
