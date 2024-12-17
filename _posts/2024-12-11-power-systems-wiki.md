@@ -263,6 +263,34 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 ---
 
+## Reliability
+
+---
+
+**_Reliability_** NERC defines the reliability of the interconnected Bulk-Power System in terms of two basic and functional aspects, adequacy, and operating reliability [11].
+
+---
+
+**_Adequacy_** The ability of the electricity system to supply the aggregate electrical demand and energy requirements of the end-use customers at all times, taking into account scheduled and reasonably expected unscheduled outages of system elements [11].
+
+---
+
+**_Operating Reliability_** The ability of the Bulk-Power System to withstand sudden disturbances, such as electric short circuits or the unanticipated loss of system elements from credible contingencies, while avoiding uncontrolled cascading blackouts or damage to equipment [11].
+
+---
+
+**_Interruptible demand_** Customer demand that, in accordance with contractual arrangements, can be interrupted by direct control of the system operator or by action of the customer at the direct request of the system operator [11].
+
+---
+
+**_Voltage reductions_** This is also referred to as “brownouts” because lights dim as voltage is lowered [11].
+
+---
+
+**_Rotating blackouts_** when each set of distribution feeders is interrupted for a limited time, typically 20–30 minutes, and then those feeders are put back in service and another set is interrupted, and so on, rotating the outages among individual feeders [11].
+
+---
+
 ## Contingency
 
 ---
@@ -349,8 +377,16 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 # Change Log
 
-- 12/12/2024: Add ancillary services by FERC, add AGC by FERC, add markets related terms
-- 12/11/2024: Initial post
+## 12/17/2024
+- Add Reliability section
+
+## 12/12/2024
+- Add ancillary services and AGC by FERC
+- Add AGC by FERC
+- Add Market section
+
+## 12/11/2024 
+- Initial post
 
 # References
 
@@ -373,3 +409,5 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 [9] MATPOWER, "MATPOWER User’s Manuals," https://matpower.org/doc-original/manuals/
 
 [10] PJM, "Transmission Zones Map," https://www.pjm.com/-/media/DotCom/about-pjm/pjm-zones.pdf
+
+[11] North American Electric Reliability Corporation, "Reliability Terminology," Aug., 2013. [Online]. Available: https://www.nerc.com/AboutNERC/Documents/Terms%20AUG13.pdf
