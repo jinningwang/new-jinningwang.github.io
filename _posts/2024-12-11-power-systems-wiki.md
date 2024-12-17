@@ -407,7 +407,7 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 ---
 
-**_Contingency_** The unexpected failure or outage of a system component, such as a generator, transmission line, circuit breaker, switch or other electrical element.
+**_Contingency_** The unexpected failure or outage of a system component, such as a generator, transmission line, circuit breaker, switch or other electrical element. [1]
 
 ---
 
@@ -418,6 +418,8 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 **_Disturbance_** Means (i) any perturbation to the electric system, or (ii) the unexpected change in ACE that is caused by the sudden loss of generation or interruption of load. [1]
 
 ---
+
+**_Fault_** An event occurring on an electric system such as a short circuit, a broken wire, or an intermittent connection. [1]
 
 ## Horizon
 
