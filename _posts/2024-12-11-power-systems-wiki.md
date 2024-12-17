@@ -403,7 +403,11 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 ---
 
-## Contingency
+## Events
+
+---
+
+**_Contingency_** The unexpected failure or outage of a system component, such as a generator, transmission line, circuit breaker, switch or other electrical element.
 
 ---
 
