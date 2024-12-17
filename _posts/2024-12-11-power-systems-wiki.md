@@ -14,21 +14,86 @@ toc:
 # Acronyms
 
 |---------|-------------------------------------------------|
+| BES     | Bulk Electric System                            |
 | BPS     | Bulk Power System                               |
 | HVDC    | High Voltage Direct Current                     |
 | FACTS   | Flexible Alternating Current Transmission System|
 | IBR     | Inverter-Based Resources                        |
 | DER     | Distributed Energy Resources                    |
+| GSF     | Generator Shift Factor                          |
 
 
 # Terminology
 
 ## Power Grids
+---
+
+**_Balancing Authorities_** The responsible entity that integrates resource plans ahead of time, maintains Demand and resource balance within a Balancing Authority Area, and supports Interconnection frequency in real time. [1]
+
+---
+
+**_Interconnection_** A geographic area in which the operation of BPS components is synchronized such that the failure of one or more of such components may adversely affect the ability of the operators of other components within the system to maintain Reliable Operation of the Facilities within their control. When capitalized, any one of the four major electric system networks in North America: Eastern, Western, ERCOT and Quebec. [1]
 
 ---
 
 **_Bulk-Power System (BPS)_** (A) facilities and control systems necessary for operating an interconnected electric energy transmission network (or any portion thereof); and (B) electric energy from generation facilities needed to maintain transmission system reliability.
 The term **does not** include facilities used in the local distribution of electric energy. (Note that the terms “Bulk-Power System” or “Bulk Power System” shall have the same meaning.) [1]
+
+---
+
+**_Bulk Electric System (BES)_** Unless modified by the lists shown below, all Transmission Elements operated at **100 kV or higher** and Real Power and Reactive Power resources connected at 100 kV or higher. This **does not** include facilities used in the local distribution of electric energy. [1]
+
+Inclusions:
+
+**I1** - Transformers with the primary terminal and at least one secondary terminal operated at 100 kV or higher unless excluded by application of Exclusion E1 or E3.
+
+**I2** - Generating resource(s) including the generator terminals through the high-side of the step-up transformer(s) connected at a voltage of 100 kV or above with:
+
+(a) Gross individual nameplate rating greater than 20 MVA. Or,
+
+(b) Gross plant/facility aggregate nameplate rating greater than 75 MVA.
+
+**I3** - Blackstart Resources identified in the Transmission Operator’s restoration plan.
+
+**I4** - Dispersed power producing resources that aggregate to a total capacity greater than 75 MVA (gross nameplate rating), and that are connected through a system designed primarily for delivering such capacity to a common point of connection at a voltage of 100 kV or above. Thus, the facilities designated as BES are:
+
+(a) The individual resources, and
+
+(b) The system designed primarily for delivering capacity from the point where those resources aggregate to greater than 75 MVA to a common point of connection at a voltage of 100 kV or above.
+
+**I5** – Static or dynamic devices (excluding generators) dedicated to supplying or absorbing Reactive Power that are connected at 100 kV or higher, or through a 
+dedicated transformer with a high-side voltage of 100 kV or higher, or through a transformer that is designated in Inclusion I1 unless excluded by application of Exclusion E4
+
+Exclusions:
+
+**E1** - Radial systems: A group of contiguous transmission Elements that emanates from a single point of connection of 100 kV or higher and:
+
+(a) Only serves Load. Or,
+
+(b) Only includes generation resources, not identified in Inclusions I2, I3, or I4, with an aggregate capacity less than or equal to 75 MVA (gross nameplate rating). Or,
+
+(c) Where the radial system serves Load and includes generation resources, not identified in Inclusions I2, I3 or I4, with an aggregate capacity of non-retail generation less than or equal to 75 MVA (gross nameplate rating).
+
+Note 1 – A normally open switching device between radial systems, as depicted on prints or one-line diagrams for example, does not affect this exclusion.
+
+Note 2 – The presence of a contiguous loop, operated at a voltage level of 50 kV or less, between configurations being considered as radial systems, does 
+not affect this exclusion.
+
+**E2** - A generating unit or multiple generating units on the customer’s side of the retail meter that serve all or part of the retail Load with electric energy 
+if: (i) the net capacity provided to the BES does not exceed 75 MVA, and (ii) standby, back-up, and maintenance power services are provided to the generating unit or multiple generating units or to the retail Load by a Balancing Authority, or provided pursuant to a binding obligation with a Generator Owner or Generator Operator, or under terms approved by the applicable regulatory authority.
+
+**E3** - Local networks (LN): A group of contiguous transmission Elements operated at less than 300 kV that distribute power to Load rather than transfer bulk power across the interconnected system. LN’s emanate from multiple points of connection at 100 kV or higher to improve the level of service to retail customers and not to accommodate bulk power transfer across the interconnected system. The LN is characterized by all of the following:
+
+(a) Limits on connected generation: The LN and its underlying Elements do not include generation resources identified in Inclusions I2, I3, or 
+I4 and do not have an aggregate capacity of non-retail generation greater than 75 MVA (gross nameplate rating);
+
+(b) Real Power flows only into the LN and the LN does not transfer energy originating outside the LN for delivery through the LN; and
+
+(c) Not part of a Flowgate or transfer path: The LN does not contain any part of a permanent Flowgate in the Eastern Interconnection, a major  transfer path within the Western Interconnection, or a comparable monitored Facility in the ERCOT or Quebec Interconnections, and is not a monitored Facility included in an Interconnection Reliability Operating Limit (IROL).
+
+**E4** – Reactive Power devices installed for the sole benefit of a retail customer(s).
+
+Note - Elements may be included or excluded on a case-by-case basis through the Rules of Procedure exception process.
 
 ---
 
@@ -57,6 +122,22 @@ Inverter-based resources include modern wind turbines, meaning type 3 and type 4
 
 - DER are generating resources located on the **distribution** system. 
 - DER **may or may not** use inverter technology to interface with the ac grid; however, they are distinctly different than BPS-connected inverter-based resources (connected to transmission and sub-transmission levels).
+
+---
+
+**_Generator Shift Factor (GSF)_** A factor to be applied to a generator’s expected change in output to determine the amount of flow contribution that change in output will impose on an identified transmission facility or Flowgate. [1]
+
+---
+
+## Transmission
+
+---
+
+**_Flowgate_** 1. A portion of the Transmission system through which the Interchange Distribution Calculator calculates the power flow from Interchange Transactions. 2. A mathematical construct, comprised of one or more monitored transmission Facilities and optionally one or more contingency Facilities, used to analyze the impact of power flows upon the Bulk Electric System.
+
+---
+
+**_Interchange_** Energy transfers that cross Balancing Authority boundaries. [1]
 
 ---
 
@@ -196,22 +277,6 @@ In short, **_Secondary Control_** maintains the minute-to-minute balance through
 **_Control Performance Standard 1 (CPS1)_** is a **yearly** standard that measures impact on frequency error, with a 100 percent minimum allowable score. CPS1 assigns each Control Area a share of the responsibility for control of Interconnection frequency. [2]
 
 **_Control Performance Standard 2 (CPS2)_** is a **monthly** standard intended to limit unscheduled flows. The minimum allowable CPS2 score is 90 percent. [2]
-
-## Entities
-
----
-
-**_Balancing Authorities_** The responsible entity that integrates resource plans ahead of time, maintains Demand and resource balance within a Balancing Authority Area, and supports Interconnection frequency in real time. [1]
-
----
-
-**_Interconnection_** A geographic area in which the operation of Bulk Power System components is synchronized such that the failure of one or more of such components may adversely affect the ability of the operators of other components within the system to maintain Reliable Operation of the Facilities within their control. When capitalized, any one of the four major electric system networks in North America: Eastern, Western, ERCOT and Quebec. [1]
-
----
-
-**_Interchange_** Energy transfers that cross Balancing Authority boundaries. [1]
-
----
 
 ## Reserve
 
