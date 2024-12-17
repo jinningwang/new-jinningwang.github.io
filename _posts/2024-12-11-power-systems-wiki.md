@@ -224,6 +224,10 @@ More details about this can be found in Reference [7] - Appendix I: Regional Pra
 
 ---
 
+**_Frequency Response Measure_** The median of all the Frequency Response observations reported annually by Balancing Authorities or Frequency Response Sharing Groups for frequency events specified by the ERO. This will be calculated as MW/0.1Hz. [1]
+
+---
+
 **_Area Control Error (ACE)_** Means the instantaneous difference between net actual and scheduled interchange, taking into account the effects of Frequency Bias including correction for meter error. [1]
 
 The mismatch between demand and generation is represented via a real-time value called **_area control error (ACE)_**, estimated in MW. [2]
