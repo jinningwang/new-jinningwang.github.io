@@ -48,14 +48,14 @@ Organizations:
 
 ## Power Grids
 
-**_Balancing Authorities_** <d-cite key="nerc2024glossary"></d-cite> The responsible entity that integrates resource plans ahead of time, maintains Demand and resource balance within a Balancing Authority Area, and supports Interconnection frequency in real time. 
+**_Balancing Authorities_** <d-cite key="nerc2024glossary"></d-cite> The responsible entity that integrates resource plans ahead of time, maintains Demand and resource balance within a Balancing Authority Area, and supports Interconnection frequency in real time.
 
-**_Interconnection_** <d-cite key="nerc2024glossary"></d-cite> A geographic area in which the operation of BPS components is synchronized such that the failure of one or more of such components may adversely affect the ability of the operators of other components within the system to maintain Reliable Operation of the Facilities within their control. When capitalized, any one of the four major electric system networks in North America: Eastern, Western, ERCOT and Quebec. 
+**_Interconnection_** <d-cite key="nerc2024glossary"></d-cite> A geographic area in which the operation of BPS components is synchronized such that the failure of one or more of such components may adversely affect the ability of the operators of other components within the system to maintain Reliable Operation of the Facilities within their control. When capitalized, any one of the four major electric system networks in North America: Eastern, Western, ERCOT and Quebec.
 
 **_Bulk-Power System (BPS)_** <d-cite key="nerc2024glossary"></d-cite> (A) facilities and control systems necessary for operating an interconnected electric energy transmission network (or any portion thereof); and (B) electric energy from generation facilities needed to maintain transmission system reliability.
 The term **does not** include facilities used in the local distribution of electric energy. (Note that the terms “Bulk-Power System” or “Bulk Power System” shall have the same meaning.)
 
-**_Bulk Electric System (BES)_** <d-cite key="nerc2024glossary"></d-cite> Unless modified by the lists shown below, all Transmission Elements operated at **100 kV or higher** and Real Power and Reactive Power resources connected at 100 kV or higher. This **does not** include facilities used in the local distribution of electric energy. 
+**_Bulk Electric System (BES)_** <d-cite key="nerc2024glossary"></d-cite> Unless modified by the lists shown below, all Transmission Elements operated at **100 kV or higher** and Real Power and Reactive Power resources connected at 100 kV or higher. This **does not** include facilities used in the local distribution of electric energy.
 
 Inclusions:
 
@@ -109,7 +109,7 @@ I4 and do not have an aggregate capacity of non-retail generation greater than 7
 
 Note - Elements may be included or excluded on a case-by-case basis through the Rules of Procedure exception process.
 
-**_Economic Dispatch_** <d-cite key="nerc2024glossary"></d-cite> The allocation of demand to individual generating units on line to effect the most economical production of electricity. 
+**_Economic Dispatch_** <d-cite key="nerc2024glossary"></d-cite> The allocation of demand to individual generating units on line to effect the most economical production of electricity.
 
 ## Generation
 
@@ -132,11 +132,11 @@ Inverter-based resources include modern wind turbines, meaning type 3 and type 4
 
 **_Flowgate_** <d-cite key="nerc2024glossary"></d-cite> 1. A portion of the Transmission system through which the Interchange Distribution Calculator calculates the power flow from Interchange Transactions. 2. A mathematical construct, comprised of one or more monitored transmission Facilities and optionally one or more contingency Facilities, used to analyze the impact of power flows upon the Bulk Electric System.
 
-**_Interchange_** <d-cite key="nerc2024glossary"></d-cite> Energy transfers that cross Balancing Authority boundaries. 
+**_Interchange_** <d-cite key="nerc2024glossary"></d-cite> Energy transfers that cross Balancing Authority boundaries.
 
 ## Distribution
 
-**_Distribution Provider_** <d-cite key="nerc2024glossary"></d-cite> Provides and operates the “wires” between the transmission system and the end-use customer. For those end-use customers who are served at transmission voltages, the Transmission Owner also serves as the Distribution Provider. Thus, theDistribution Provider is not defined by a specific voltage, but rather as performing the distribution function at any voltage. 
+**_Distribution Provider_** <d-cite key="nerc2024glossary"></d-cite> Provides and operates the “wires” between the transmission system and the end-use customer. For those end-use customers who are served at transmission voltages, the Transmission Owner also serves as the Distribution Provider. Thus, theDistribution Provider is not defined by a specific voltage, but rather as performing the distribution function at any voltage.
 
 **_Distribution_** <d-cite key="ferc2020public"></d-cite> For natural gas - the act of distributing gas from the city gate or plant to the customer. For electric - the act of distributing electric power using low voltage transmission lines that deliver power to retail customers.
 
@@ -148,21 +148,21 @@ Inverter-based resources include modern wind turbines, meaning type 3 and type 4
 
 **_Market structure_** <d-cite key="ferc2020glossary"></d-cite> The rules, mechanisms and processes, under which a market operates to form prices, provide benefits and introduce risks to participants, and ultimately end consumers. Structure could enhance or inhibit competition, create just and reasonable outcomes, provide economically efficient incentives, or introduce unintended consequences including adverse market outcomes.
 
-**_Capacity markets_** <d-cite key="ferc2020glossary"></d-cite> A market for the trading of capacity credits (the ability to produce electricity in the market area during a defined period) usually between parties obligated to deliver electricity to customers and power plant owners. 
+**_Capacity markets_** <d-cite key="ferc2020glossary"></d-cite> A market for the trading of capacity credits (the ability to produce electricity in the market area during a defined period) usually between parties obligated to deliver electricity to customers and power plant owners.
 
-**_Day-ahead markets_** <d-cite key="ferc2020glossary"></d-cite> Forward markets for electricity to be supplied the following day. This market closes with acceptance by the independent system operator, power exchange, or scheduling coordinator of the final day-ahead schedule. Day-ahead is not a term commonly used for natural gas (“next day” is more common). 
+**_Day-ahead markets_** <d-cite key="ferc2020glossary"></d-cite> Forward markets for electricity to be supplied the following day. This market closes with acceptance by the independent system operator, power exchange, or scheduling coordinator of the final day-ahead schedule. Day-ahead is not a term commonly used for natural gas (“next day” is more common).
 
-**_Financial markets_** <d-cite key="ferc2020glossary"></d-cite> Markets where financially settled products (instruments) are traded (bought and sold). In commodity markets, it is markets where financially settled commodity derivatives are traded. Nymex is purely financial, where any residual delivery obligations on the futures contracts are matched and settled physically off-exchange by the matched parties. ICE trades both physically and financially settled products. Brokers also do both physical and financial transactions. Financial markets are also a term used for capital markets where stocks, bonds, T-Bills, foreign exchange and other financial instruments are traded. 
+**_Financial markets_** <d-cite key="ferc2020glossary"></d-cite> Markets where financially settled products (instruments) are traded (bought and sold). In commodity markets, it is markets where financially settled commodity derivatives are traded. Nymex is purely financial, where any residual delivery obligations on the futures contracts are matched and settled physically off-exchange by the matched parties. ICE trades both physically and financially settled products. Brokers also do both physical and financial transactions. Financial markets are also a term used for capital markets where stocks, bonds, T-Bills, foreign exchange and other financial instruments are traded.
 
-**_Futures market_** <d-cite key="ferc2020glossary"></d-cite> A market in which contracts for future delivery of a commodity or a security are bought and sold. Nymex is the primary futures market for energy commodities in the United States. 
+**_Futures market_** <d-cite key="ferc2020glossary"></d-cite> A market in which contracts for future delivery of a commodity or a security are bought and sold. Nymex is the primary futures market for energy commodities in the United States.
 
-**_Spot market_** <d-cite key="ferc2020glossary"></d-cite> The natural gas market for contractual commitments that are short term (usually a month or less) and that begin in the near future (often the next day, or within days). In electricity, spot markets are usually organized markets for day-ahead and real-time electricity run by an independent system operator or regional transmission organization. 
+**_Spot market_** <d-cite key="ferc2020glossary"></d-cite> The natural gas market for contractual commitments that are short term (usually a month or less) and that begin in the near future (often the next day, or within days). In electricity, spot markets are usually organized markets for day-ahead and real-time electricity run by an independent system operator or regional transmission organization.
 
-**_Wholesale electricity markets_** <d-cite key="ferc2020glossary"></d-cite> The purchase and sale of electricity from **generators to resellers** (who sell to retail customers) along with the ancillary services needed to maintain reliability and power quality at the transmission level. 
+**_Wholesale electricity markets_** <d-cite key="ferc2020glossary"></d-cite> The purchase and sale of electricity from **generators to resellers** (who sell to retail customers) along with the ancillary services needed to maintain reliability and power quality at the transmission level.
 
-**_Financial transmission right_** <d-cite key="ferc2020glossary"></d-cite> A contract that entitles the holder to receive or pay compensation for transmission charges that arise when grid congestions cases price differences due to the redispatch of generators. 
+**_Financial transmission right_** <d-cite key="ferc2020glossary"></d-cite> A contract that entitles the holder to receive or pay compensation for transmission charges that arise when grid congestions cases price differences due to the redispatch of generators.
 
-**_Marginal electric generating unit_** <d-cite key="ferc2020glossary"></d-cite> In organized wholesale markets, the price of the marginal source of electricity usually sets the price of the unit providing the next increment or decrement of energy, which price usually sets the price for all generation. 
+**_Marginal electric generating unit_** <d-cite key="ferc2020glossary"></d-cite> In organized wholesale markets, the price of the marginal source of electricity usually sets the price of the unit providing the next increment or decrement of energy, which price usually sets the price for all generation.
 
 **_Bilateral transaction_** <d-cite key="ferc2020glossary"></d-cite> A direct contract between a seller and buyer outside of a centralized market or exchange (e.g. Nymex or an RTO/ISO). In energy markets, the buyer or seller usually finds his or her matching counter-party through a broker (e.g. voice brokers, ICE, etc.).
 
@@ -178,31 +178,31 @@ More details about this can be found in Reference <d-cite key="nerc2011ancillary
 
 **_Frequency Deviation_** <d-cite key="nerc2024glossary"></d-cite> A change in Interconnection frequency.
 
-**_Frequency Regulation_** <d-cite key="nerc2024glossary"></d-cite> The ability of a Balancing Authority to help the Interconnection maintain Scheduled Frequency. This assistance can include both turbine governor response and Automatic Generation Control. 
+**_Frequency Regulation_** <d-cite key="nerc2024glossary"></d-cite> The ability of a Balancing Authority to help the Interconnection maintain Scheduled Frequency. This assistance can include both turbine governor response and Automatic Generation Control.
 
-**_Frequency Response_** <d-cite key="nerc2024glossary"></d-cite> (Equipment) The ability of a system or elements of the system to react or respond to a change in system frequency. (System) The sum of the change in demand, plus the change in generation, divided by the change in frequency, expressed in megawatts per 0.1 Hertz (MW/0.1 Hz). 
+**_Frequency Response_** <d-cite key="nerc2024glossary"></d-cite> (Equipment) The ability of a system or elements of the system to react or respond to a change in system frequency. (System) The sum of the change in demand, plus the change in generation, divided by the change in frequency, expressed in megawatts per 0.1 Hertz (MW/0.1 Hz).
 
-**_Frequency Response Measure_** <d-cite key="nerc2024glossary"></d-cite> The median of all the Frequency Response observations reported annually by Balancing Authorities or Frequency Response Sharing Groups for frequency events specified by the ERO. This will be calculated as MW/0.1Hz. 
+**_Frequency Response Measure_** <d-cite key="nerc2024glossary"></d-cite> The median of all the Frequency Response observations reported annually by Balancing Authorities or Frequency Response Sharing Groups for frequency events specified by the ERO. This will be calculated as MW/0.1Hz.
 
-**_Area Control Error (ACE)_** <d-cite key="nerc2021balancing"></d-cite> Means the instantaneous difference between net actual and scheduled interchange, taking into account the effects of Frequency Bias including correction for meter error. 
+**_Area Control Error (ACE)_** <d-cite key="nerc2021balancing"></d-cite> Means the instantaneous difference between net actual and scheduled interchange, taking into account the effects of Frequency Bias including correction for meter error.
 
-**_ACE_** <d-cite key="nerc2021balancing"></d-cite> The mismatch between demand and generation is represented via a real-time value called , estimated in MW. 
+**_ACE_** <d-cite key="nerc2021balancing"></d-cite> The mismatch between demand and generation is represented via a real-time value called , estimated in MW.
 
-**_Automatic Generation Control (AGC)_** <d-cite key="nerc2024glossary"></d-cite> Means equipment that automatically adjusts a Control Area’s generation from a central location to maintain its interchange schedule plus Frequency Bias. 
+**_Automatic Generation Control (AGC)_** <d-cite key="nerc2024glossary"></d-cite> Means equipment that automatically adjusts a Control Area’s generation from a central location to maintain its interchange schedule plus Frequency Bias.
 
-**_AGC_** <d-cite key="ferc2020glossary"></d-cite> The automatic regulation of the power output of electric generators within a prescribed range in response to a change in system frequency, or tie-line loading, to maintain system frequency or scheduled interchange with other areas within predetermined limits. 
+**_AGC_** <d-cite key="ferc2020glossary"></d-cite> The automatic regulation of the power output of electric generators within a prescribed range in response to a change in system frequency, or tie-line loading, to maintain system frequency or scheduled interchange with other areas within predetermined limits.
 
-**_Primary Frequency Response_** <d-cite key="nerc2024glossary"></d-cite> The immediate proportional increase or decrease in real power output provided by generating units/generating facilities and the natural real power dampening response provided by Load in response to system Frequency Deviations. This response is in the direction that stabilizes frequency. 
+**_Primary Frequency Response_** <d-cite key="nerc2024glossary"></d-cite> The immediate proportional increase or decrease in real power output provided by generating units/generating facilities and the natural real power dampening response provided by Load in response to system Frequency Deviations. This response is in the direction that stabilizes frequency.
 
-**_Ramp Rate or Ramp_** <d-cite key="nerc2024glossary"></d-cite> (Schedule) The rate, expressed in megawatts per minute, at which the interchange schedule is attained during the ramp period. (Generator) The rate, expressed in megawatts per minute, that a generator changes its output. 
+**_Ramp Rate or Ramp_** <d-cite key="nerc2024glossary"></d-cite> (Schedule) The rate, expressed in megawatts per minute, at which the interchange schedule is attained during the ramp period. (Generator) The rate, expressed in megawatts per minute, that a generator changes its output.
 
-**_Response Rate_** <d-cite key="nerc2024glossary"></d-cite> The Ramp Rate that a generating unit can achieve under normal operating conditions expressed in megawatts per minute (MW/Min). 
+**_Response Rate_** <d-cite key="nerc2024glossary"></d-cite> The Ramp Rate that a generating unit can achieve under normal operating conditions expressed in megawatts per minute (MW/Min).
 
-**_Primary Control_** <d-cite key="nerc2021balancing"></d-cite> is more commonly known as **_Frequency Response_**. Frequency Response occurs within the first few seconds following a change in system frequency (disturbance) to stabilize the Interconnection. 
+**_Primary Control_** <d-cite key="nerc2021balancing"></d-cite> is more commonly known as **_Frequency Response_**. Frequency Response occurs within the first few seconds following a change in system frequency (disturbance) to stabilize the Interconnection.
 
 **_Secondary Control_** <d-cite key="nerc2021balancing"></d-cite> typically includes the balancing services deployed in the “minutes” time frame. Some resources however, such as hydroelectric generation, can respond faster in many cases. This control is accomplished using the Balancing Authority’s control computer (terms most often associated with this are **“Load-Frequency Control”** or **“Automatic Generation Control”**) and the manual actions taken by the dispatcher to provide additional adjustments. Secondary Control also includes initial reserve deployment for disturbances.
 
-In short, Secondary Control maintains the minute-to-minute balance throughout the day and is used to restore frequency to its scheduled value, usually 60 Hz, following a disturbance. Secondary Control is provided by both **Spinning** and **Non-Spinning Reserves**. 
+In short, Secondary Control maintains the minute-to-minute balance throughout the day and is used to restore frequency to its scheduled value, usually 60 Hz, following a disturbance. Secondary Control is provided by both **Spinning** and **Non-Spinning Reserves**.
 
 <div style="text-align: ;left;">
   <img src="/assets/img/poster/frequency_trend.png"
@@ -217,7 +217,7 @@ In short, Secondary Control maintains the minute-to-minute balance throughout th
   </em></p>
 </div>
 
-**_Tertiary Control_** <d-cite key="nerc2021balancing"></d-cite> encompasses actions taken to get resources in place to handle current and future contingencies. Reserve deployment and Reserve restoration following a disturbance are common types of Tertiary Control. 
+**_Tertiary Control_** <d-cite key="nerc2021balancing"></d-cite> encompasses actions taken to get resources in place to handle current and future contingencies. Reserve deployment and Reserve restoration following a disturbance are common types of Tertiary Control.
 
 **_Control Performance Standard 1 (CPS1)_** <d-cite key="nerc2021balancing"></d-cite> is a **yearly** standard that measures impact on frequency error, with a 100 percent minimum allowable score. CPS1 assigns each Control Area a share of the responsibility for control of Interconnection frequency.
 
@@ -225,19 +225,19 @@ In short, Secondary Control maintains the minute-to-minute balance throughout th
 
 ## Reserve
 
-**_Spinning Reserve_** <d-cite key="nerc2024glossary"></d-cite> Unloaded generation that is synchronized and ready to serve additional demand. 
+**_Spinning Reserve_** <d-cite key="nerc2024glossary"></d-cite> Unloaded generation that is synchronized and ready to serve additional demand.
 
 **_Non-Spinning Reserve_** <d-cite key="nerc2024glossary"></d-cite> 1. That generating reserve **not connected** to the system but capable of serving demand **within a specified time**. 2. Interruptible load that can be removed from the system in a specified time.
 
-**_Operating Reserve_** <d-cite key="nerc2024glossary"></d-cite> That capability above firm system demand required to provide for regulation, load forecasting error, equipment forced and scheduled outages and local area protection. It consists of spinning and non-spinning reserve. 
+**_Operating Reserve_** <d-cite key="nerc2024glossary"></d-cite> That capability above firm system demand required to provide for regulation, load forecasting error, equipment forced and scheduled outages and local area protection. It consists of spinning and non-spinning reserve.
 
-**_Operating Reserve – Spinning_** <d-cite key="nerc2024glossary"></d-cite> The portion of Operating Reserve consisting of: • Generation synchronized to the system and fully available to serve load within the Disturbance Recovery Period following the contingency event; or • Load fully removable from the system within the Disturbance Recovery Period following the contingency event. 
+**_Operating Reserve – Spinning_** <d-cite key="nerc2024glossary"></d-cite> The portion of Operating Reserve consisting of: • Generation synchronized to the system and fully available to serve load within the Disturbance Recovery Period following the contingency event; or • Load fully removable from the system within the Disturbance Recovery Period following the contingency event.
 
-**_Operating Reserve – Supplemental_** <d-cite key="nerc2024glossary"></d-cite> The portion of Operating Reserve consisting of: • Generation (synchronized or capable of being synchronized to the system) that is fully available to serve load within the Disturbance Recovery Period following the contingency event; or • Load fully removable from the system within the Disturbance Recovery Period following the contingency event. 
+**_Operating Reserve – Supplemental_** <d-cite key="nerc2024glossary"></d-cite> The portion of Operating Reserve consisting of: • Generation (synchronized or capable of being synchronized to the system) that is fully available to serve load within the Disturbance Recovery Period following the contingency event; or • Load fully removable from the system within the Disturbance Recovery Period following the contingency event.
 
-**_Regulating Reserve_** <d-cite key="nerc2024glossary"></d-cite> An amount of reserve responsive to Automatic Generation Control, which is sufficient to provide normal regulating margin. 
+**_Regulating Reserve_** <d-cite key="nerc2024glossary"></d-cite> An amount of reserve responsive to Automatic Generation Control, which is sufficient to provide normal regulating margin.
 
-**_Contingency Reserve_** <d-cite key="nerc2024glossary"></d-cite> The provision of capacity deployed by the Balancing Authority to meet the Disturbance Control Standard (DCS) and other NERC and Regional Reliability Organization contingency requirements. 
+**_Contingency Reserve_** <d-cite key="nerc2024glossary"></d-cite> The provision of capacity deployed by the Balancing Authority to meet the Disturbance Control Standard (DCS) and other NERC and Regional Reliability Organization contingency requirements.
 
 <div style="text-align: ;left;">
   <img src="/assets/img/poster/operating_reserve.png" alt="Operating Reserves" style="width: 700px; height: auto;">
@@ -250,13 +250,13 @@ In short, Secondary Control maintains the minute-to-minute balance throughout th
 
 **_Interconnection Reliability Operating Limit_** <d-cite key="nerc2024glossary"></d-cite> A System Operating Limit that, if violated, could lead to instability, uncontrolled separation, or Cascading outages that adversely impact the reliability of the Bulk Electric System.
 
-**_Interconnection Reliability Operating Limit Tv_** <d-cite key="nerc2024glossary"></d-cite> **The maximum time** that an Interconnection Reliability Operating Limit can be violated before the risk to the interconnection or other Reliability Coordinator Area(s) becomes greater than acceptable. Each Interconnection Reliability Operating Limit’s Tv shall be less than or equal to 30 minutes. 
+**_Interconnection Reliability Operating Limit Tv_** <d-cite key="nerc2024glossary"></d-cite> **The maximum time** that an Interconnection Reliability Operating Limit can be violated before the risk to the interconnection or other Reliability Coordinator Area(s) becomes greater than acceptable. Each Interconnection Reliability Operating Limit’s Tv shall be less than or equal to 30 minutes.
 
-**_Reliability_** <d-cite key="kundur2004stability"></d-cite> of a power system refers to the probability of its satisfactory operation over the long run. It denotes the ability to supply adequate electric service on a nearly continuous basis, with few interruptions over an extended time period. 
+**_Reliability_** <d-cite key="kundur2004stability"></d-cite> of a power system refers to the probability of its satisfactory operation over the long run. It denotes the ability to supply adequate electric service on a nearly continuous basis, with few interruptions over an extended time period.
 
-**_Security_** <d-cite key="kundur2004stability"></d-cite> of a power system refers to the degree of risk in its ability to survive imminent disturbances (contingencies) without interruption of customer service. It relates to robustness of the system to imminent disturbances and, hence, depends on the system operating condition as well as the contingent probability of disturbances. 
+**_Security_** <d-cite key="kundur2004stability"></d-cite> of a power system refers to the degree of risk in its ability to survive imminent disturbances (contingencies) without interruption of customer service. It relates to robustness of the system to imminent disturbances and, hence, depends on the system operating condition as well as the contingent probability of disturbances.
 
-**_Stability_** <d-cite key="nerc2024glossary"></d-cite> The ability of an electric system to maintain a state of equilibrium during normal and abnormal conditions or disturbances. 
+**_Stability_** <d-cite key="nerc2024glossary"></d-cite> The ability of an electric system to maintain a state of equilibrium during normal and abnormal conditions or disturbances.
 
 **_Stability_** <d-cite key="hatziargyriou2021stability"></d-cite> is the ability of an electric power system, for a given initial operating condition, to regain a state of operating equilibrium after being subjected to a physical disturbance, with most system variables bounded so that practically the entire system remains intact.
 
@@ -271,13 +271,13 @@ Their relationships <d-cite key="kundur2004stability"></d-cite>:
 
 Stability Categories:
 
-**_Rotor angle stability_** <d-cite key="hatziargyriou2021stability"></d-cite> is concerned with the ability of the interconnected synchronous machines in a power system to remain in synchronism under normal operating conditions and to regain synchronism after being subjected to a small or large disturbance. 
+**_Rotor angle stability_** <d-cite key="hatziargyriou2021stability"></d-cite> is concerned with the ability of the interconnected synchronous machines in a power system to remain in synchronism under normal operating conditions and to regain synchronism after being subjected to a small or large disturbance.
 
-**_Voltage stability_** <d-cite key="hatziargyriou2021stability"></d-cite> refers to the ability of a power system to maintain steady voltages close to nominal value at all buses in the system after being subjected to a disturbance. 
+**_Voltage stability_** <d-cite key="hatziargyriou2021stability"></d-cite> refers to the ability of a power system to maintain steady voltages close to nominal value at all buses in the system after being subjected to a disturbance.
 
-**_Frequency stability_** <d-cite key="kundur2004stability"></d-cite> refers to the ability of a power system to maintain steady frequency following a severe system upset resulting in a significant imbalance between generation and load. 
+**_Frequency stability_** <d-cite key="kundur2004stability"></d-cite> refers to the ability of a power system to maintain steady frequency following a severe system upset resulting in a significant imbalance between generation and load.
 
-The rest two categories of stability <d-cite key="kundur2004stability"></d-cite>: **_Resonance Stability_** and **_Converter-driven Stability_**. 
+The rest two categories of stability <d-cite key="kundur2004stability"></d-cite>: **_Resonance Stability_** and **_Converter-driven Stability_**.
 
 Reliability:
 
@@ -295,29 +295,29 @@ Reliability:
 
 ## Events
 
-**_Contingency_** <d-cite key="nerc2024glossary"></d-cite> The unexpected failure or outage of a system component, such as a generator, transmission line, circuit breaker, switch or other electrical element. 
+**_Contingency_** <d-cite key="nerc2024glossary"></d-cite> The unexpected failure or outage of a system component, such as a generator, transmission line, circuit breaker, switch or other electrical element.
 
-**_Most Severe Single Contingency_** <d-cite key="nerc2024glossary"></d-cite> The Balancing Contingency Event, due to a single contingency identified using system models maintained within the Reserve Sharing Group (RSG) or a Balancing Authority’s area that is not part of a Reserve Sharing Group, that would result in **the greatest loss** (measured in MW) of resource output used by the RSG or a Balancing Authority that is not participating as a member of a RSG at the time of the event to meet Firm Demand and export obligation (excluding export obligation for which Contingency Reserve obligations are being met by the Sink Balancing Authority). 
+**_Most Severe Single Contingency_** <d-cite key="nerc2024glossary"></d-cite> The Balancing Contingency Event, due to a single contingency identified using system models maintained within the Reserve Sharing Group (RSG) or a Balancing Authority’s area that is not part of a Reserve Sharing Group, that would result in **the greatest loss** (measured in MW) of resource output used by the RSG or a Balancing Authority that is not participating as a member of a RSG at the time of the event to meet Firm Demand and export obligation (excluding export obligation for which Contingency Reserve obligations are being met by the Sink Balancing Authority).
 
 **_Disturbance_** <d-cite key="nerc2024glossary"></d-cite> Means (i) any perturbation to the electric system, or (ii) the unexpected change in ACE that is caused by the sudden loss of generation or interruption of load.
 
-**_Fault_** <d-cite key="nerc2024glossary"></d-cite> An event occurring on an electric system such as a short circuit, a broken wire, or an intermittent connection. 
+**_Fault_** <d-cite key="nerc2024glossary"></d-cite> An event occurring on an electric system such as a short circuit, a broken wire, or an intermittent connection.
 
 ## Horizon
 
-**_Near-Term Transmission Planning Horizon_** <d-cite key="nerc2024glossary"></d-cite> The transmission planning period that covers Year One through five. 
+**_Near-Term Transmission Planning Horizon_** <d-cite key="nerc2024glossary"></d-cite> The transmission planning period that covers Year One through five.
 
-**_Long-Term Transmission Planning Horizon_** <d-cite key="nerc2024glossary"></d-cite> Transmission planning period that covers years six through ten or beyond when required to accommodate any known longer lead time projects that may take longer than ten years to complete. 
+**_Long-Term Transmission Planning Horizon_** <d-cite key="nerc2024glossary"></d-cite> Transmission planning period that covers years six through ten or beyond when required to accommodate any known longer lead time projects that may take longer than ten years to complete.
 
 ## Factors
 
 **_Outage Transfer Distribution Factor (OTDF)_** <d-cite key="nerc2024glossary"></d-cite> In the post-contingency configuration of a system under study, the electric Power Transfer Distribution Factor (PTDF) with one or more system Facilities removed from service (outaged).
 
-**_Participation Factors_** <d-cite key="nerc2024glossary"></d-cite> A set of dispatch rules such that given a specific amount of load to serve, an **approximate generation** dispatch can be determined. To accomplish this, generators are assigned a percentage that they will contribute to serve load. 
+**_Participation Factors_** <d-cite key="nerc2024glossary"></d-cite> A set of dispatch rules such that given a specific amount of load to serve, an **approximate generation** dispatch can be determined. To accomplish this, generators are assigned a percentage that they will contribute to serve load.
 
 ## Area, Zone, and Region
 
-**_Balancing Authority Area_** <d-cite key="nerc2024glossary"></d-cite> The collection of generation, transmission, and loads within the metered boundaries of the Balancing Authority. The Balancing Authority maintains load-resource balance within this area. 
+**_Balancing Authority Area_** <d-cite key="nerc2024glossary"></d-cite> The collection of generation, transmission, and loads within the metered boundaries of the Balancing Authority. The Balancing Authority maintains load-resource balance within this area.
 
 **_Reliability Coordinator Area_** <d-cite key="nerc2024glossary"></d-cite> The collection of generation, transmission, and loads within the boundaries of the Reliability Coordinator. Its boundary coincides with one or more Balancing Authority Areas.
 
@@ -328,7 +328,7 @@ Reliability:
 - Maintain the frequency of the electric power system(s) within reasonable limits in accordance with Good Utility Practice.
 - Provide sufficient generating capacity to maintain operating reserves in accordance with Good Utility Practice.
 
-**_loss_zone_** <d-cite key="matpower"></d-cite> In MATPOEWR, there is a bus parameter named "ZONE", and it means loss zone. 
+**_loss_zone_** <d-cite key="matpower"></d-cite> In MATPOEWR, there is a bus parameter named "ZONE", and it means loss zone.
 
 **_Zone_** There is no clear definition, but my best guess is that it refers to different areas within the Bulk-Power System.
 
