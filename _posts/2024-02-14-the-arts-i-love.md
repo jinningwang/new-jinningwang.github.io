@@ -379,8 +379,7 @@ toc:
 
 ---
 
-> Punching down requires you to consider yourself superior to another group. Dave Chappelle doesn't consider himself better than me in any way. He isn't punching up or punching down He's punching lines. That's his job and he's a master of his craft.  
-> —Daphne Dorman
+{% twitter https://x.com/DaphneDorman/status/1166937728681791488 %}
 
 ---
 
