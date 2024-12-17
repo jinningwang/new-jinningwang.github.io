@@ -23,6 +23,19 @@ toc:
 
 # Terminology
 
+## Power Grids
+
+---
+
+**_Bulk-Power System (BPS)_** (A) facilities and control systems necessary for operating an interconnected electric energy transmission network (or any portion thereof); and (B) electric energy from generation facilities needed to maintain transmission system reliability.
+The term **does not** include facilities used in the local distribution of electric energy. (Note that the terms “Bulk-Power System” or “Bulk Power System” shall have the same meaning.) [1]
+
+---
+
+**_Distribution Provider_** Provides and operates the “wires” between the transmission system and the end-use customer. For those end-use customers who are served at transmission voltages, the Transmission Owner also serves as the Distribution Provider. Thus, theDistribution Provider is not defined by a specific voltage, but rather as performing the distribution function at any voltage. [1]
+
+---
+
 ## Generation
 
 ---
