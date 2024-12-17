@@ -11,8 +11,37 @@ giscus_comments: true
 toc:
   sidebar: true
 ---
+# Acronyms
+
+|---------|-------------------------------------------------|
+| BPS     | Bulk Power System                               |
+| HVDC    | High Voltage Direct Current                     |
+| FACTS   | Flexible Alternating Current Transmission System|
+| IBR     | Inverter-Based Resources                        |
+| DER     | Distributed Energy Resources                    |
+
 
 # Terminology
+
+## Generation
+
+---
+
+**_Inverter-based resources_** refer generally to BPS-connected facilities that have a power electronic interface between the ac grid and 
+the source of electricity [12].
+
+Following two Q&A are from Reference [12].
+
+**What types of IBR exist?**
+
+Inverter-based resources include modern wind turbines, meaning type 3 and type 4 wind turbines, solar photovoltaic, and battery energy storage resources, as well as HVDC circuits and FACTs devices like static synchronous compensators and static volt-ampere reactive compensators.
+
+**What is the difference between IBR and DER?**
+
+- DER are generating resources located on the **distribution** system. 
+- DER **may or may not** use inverter technology to interface with the ac grid; however, they are distinctly different than BPS-connected inverter-based resources (connected to transmission and sub-transmission levels).
+
+---
 
 ## Markets
 
@@ -377,15 +406,17 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 
 # Change Log
 
-## 12/17/2024
+## 2024-12-17
 - Add Reliability section
+- Add Generation section
+- Add acronyms table
 
-## 12/12/2024
+## 2024-12-12
 - Add ancillary services and AGC by FERC
 - Add AGC by FERC
 - Add Market section
 
-## 12/11/2024 
+## 2024-12-11 
 - Initial post
 
 # References
@@ -411,3 +442,5 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 [10] PJM, "Transmission Zones Map," https://www.pjm.com/-/media/DotCom/about-pjm/pjm-zones.pdf
 
 [11] North American Electric Reliability Corporation, "Reliability Terminology," Aug., 2013. [Online]. Available: https://www.nerc.com/AboutNERC/Documents/Terms%20AUG13.pdf
+
+[12] An Introduction to Inverter-based Resources on the Bulk Power System," Jun. 2023. [Online]. Available: https://www.nerc.com/pa/Documents/2023_NERC_Guide_Inverter-Based-Resources.pdf
