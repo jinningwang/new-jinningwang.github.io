@@ -36,6 +36,10 @@ The term **does not** include facilities used in the local distribution of elect
 
 ---
 
+**_Economic Dispatch_** The allocation of demand to individual generating units on line to effect the most economical production of electricity. [1]
+
+---
+
 ## Generation
 
 ---
