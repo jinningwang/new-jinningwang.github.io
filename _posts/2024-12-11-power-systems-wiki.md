@@ -11,21 +11,22 @@ giscus_comments: true
 toc:
   sidebar: true
 ---
+
 # Acronyms
 
 |---------|-------------------------------------------------|
-| BES     | Bulk Electric System                            |
-| BPS     | Bulk Power System                               |
-| HVDC    | High Voltage Direct Current                     |
-| FACTS   | Flexible Alternating Current Transmission System|
-| IBR     | Inverter-Based Resources                        |
-| DER     | Distributed Energy Resources                    |
-| GSF     | Generator Shift Factor                          |
-
+| BES | Bulk Electric System |
+| BPS | Bulk Power System |
+| HVDC | High Voltage Direct Current |
+| FACTS | Flexible Alternating Current Transmission System|
+| IBR | Inverter-Based Resources |
+| DER | Distributed Energy Resources |
+| GSF | Generator Shift Factor |
 
 # Terminology
 
 ## Power Grids
+
 ---
 
 **_Balancing Authorities_** The responsible entity that integrates resource plans ahead of time, maintains Demand and resource balance within a Balancing Authority Area, and supports Interconnection frequency in real time. [1]
@@ -61,7 +62,7 @@ Inclusions:
 
 (b) The system designed primarily for delivering capacity from the point where those resources aggregate to greater than 75 MVA to a common point of connection at a voltage of 100 kV or above.
 
-**I5** – Static or dynamic devices (excluding generators) dedicated to supplying or absorbing Reactive Power that are connected at 100 kV or higher, or through a 
+**I5** – Static or dynamic devices (excluding generators) dedicated to supplying or absorbing Reactive Power that are connected at 100 kV or higher, or through a
 dedicated transformer with a high-side voltage of 100 kV or higher, or through a transformer that is designated in Inclusion I1 unless excluded by application of Exclusion E4
 
 Exclusions:
@@ -76,20 +77,20 @@ Exclusions:
 
 Note 1 – A normally open switching device between radial systems, as depicted on prints or one-line diagrams for example, does not affect this exclusion.
 
-Note 2 – The presence of a contiguous loop, operated at a voltage level of 50 kV or less, between configurations being considered as radial systems, does 
+Note 2 – The presence of a contiguous loop, operated at a voltage level of 50 kV or less, between configurations being considered as radial systems, does
 not affect this exclusion.
 
-**E2** - A generating unit or multiple generating units on the customer’s side of the retail meter that serve all or part of the retail Load with electric energy 
+**E2** - A generating unit or multiple generating units on the customer’s side of the retail meter that serve all or part of the retail Load with electric energy
 if: (i) the net capacity provided to the BES does not exceed 75 MVA, and (ii) standby, back-up, and maintenance power services are provided to the generating unit or multiple generating units or to the retail Load by a Balancing Authority, or provided pursuant to a binding obligation with a Generator Owner or Generator Operator, or under terms approved by the applicable regulatory authority.
 
 **E3** - Local networks (LN): A group of contiguous transmission Elements operated at less than 300 kV that distribute power to Load rather than transfer bulk power across the interconnected system. LN’s emanate from multiple points of connection at 100 kV or higher to improve the level of service to retail customers and not to accommodate bulk power transfer across the interconnected system. The LN is characterized by all of the following:
 
-(a) Limits on connected generation: The LN and its underlying Elements do not include generation resources identified in Inclusions I2, I3, or 
+(a) Limits on connected generation: The LN and its underlying Elements do not include generation resources identified in Inclusions I2, I3, or
 I4 and do not have an aggregate capacity of non-retail generation greater than 75 MVA (gross nameplate rating);
 
 (b) Real Power flows only into the LN and the LN does not transfer energy originating outside the LN for delivery through the LN; and
 
-(c) Not part of a Flowgate or transfer path: The LN does not contain any part of a permanent Flowgate in the Eastern Interconnection, a major  transfer path within the Western Interconnection, or a comparable monitored Facility in the ERCOT or Quebec Interconnections, and is not a monitored Facility included in an Interconnection Reliability Operating Limit (IROL).
+(c) Not part of a Flowgate or transfer path: The LN does not contain any part of a permanent Flowgate in the Eastern Interconnection, a major transfer path within the Western Interconnection, or a comparable monitored Facility in the ERCOT or Quebec Interconnections, and is not a monitored Facility included in an Interconnection Reliability Operating Limit (IROL).
 
 **E4** – Reactive Power devices installed for the sole benefit of a retail customer(s).
 
@@ -109,7 +110,7 @@ Note - Elements may be included or excluded on a case-by-case basis through the 
 
 ---
 
-**_Inverter-based resources_** refer generally to BPS-connected facilities that have a power electronic interface between the ac grid and 
+**_Inverter-based resources_** refer generally to BPS-connected facilities that have a power electronic interface between the ac grid and
 the source of electricity [12].
 
 Following two Q&A are from Reference [12].
@@ -120,7 +121,7 @@ Inverter-based resources include modern wind turbines, meaning type 3 and type 4
 
 **What is the difference between IBR and DER?**
 
-- DER are generating resources located on the **distribution** system. 
+- DER are generating resources located on the **distribution** system.
 - DER **may or may not** use inverter technology to interface with the ac grid; however, they are distinctly different than BPS-connected inverter-based resources (connected to transmission and sub-transmission levels).
 
 ---
@@ -489,16 +490,19 @@ There are also two categories of stability: **_Resonance Stability_** and **_Con
 # Change Log
 
 ## 2024-12-17
+
 - Add Reliability section
 - Add Generation section
 - Add acronyms table
 
 ## 2024-12-12
+
 - Add ancillary services and AGC by FERC
 - Add AGC by FERC
 - Add Market section
 
-## 2024-12-11 
+## 2024-12-11
+
 - Initial post
 
 # References
