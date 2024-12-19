@@ -109,6 +109,8 @@ I4 and do not have an aggregate capacity of non-retail generation greater than 7
 
 Note - Elements may be included or excluded on a case-by-case basis through the Rules of Procedure exception process.
 
+## Dispatch
+
 **_Economic Dispatch_** <d-cite key="nerc2024glossary"></d-cite> The allocation of demand to individual generating units on line to effect the most economical production of electricity.
 
 ## Generation
@@ -293,6 +295,51 @@ Reliability:
 
 **_Rotating blackouts_** <d-cite key="nerc2013terminology"></d-cite> when each set of distribution feeders is interrupted for a limited time, typically 20–30 minutes, and then those feeders are put back in service and another set is interrupted, and so on, rotating the outages among individual feeders.
 
+## Adaquecy
+
+**_Expected Unserved Energy (EUE)_** <d-cite key="nerc2013probabilistic"></d-cite> is a measure of the generation and transmission system’s capability to continuously serve all loads at all delivery points while satisfying all planning criteria. EUE is energy-centric and analyzes all hours of a particular
+year. Results are calculated in **_megawatthours (MWh)_**. EUE is the summation of the expected number of megawatthours of load that will not be served in a given year as a result of demand exceeding the available capacity across all hours. Additionally, this measure can be normalized based on the assessment area’s total Net Energy for Load. Normalizing the EUE provides a measure relative to the size of a given assessment area.
+
+**_Loss-of-Load Hour (LOLH)_** <d-cite key="nerc2013probabilistic"></d-cite> is generally defined as the number of hours per year where system demand will exceed the generating capacity. LOLH is usually expressed in **_hours per year_**. Any outage caused by inadequate resources regardless of geographic extent or load interrupted (it could be 1 MW for a single customer or the loss of the whole area load) counts as a LOLH. An LOLH of 0.1 means that an hour of loss of load is expected for every 10 years. For a particular year (e.g. 2014), the resources available and load shapes for that year are used to calculate the metrics for that
+year.
+
+**_Loss-of-load expectation (LOLE)_** <d-cite key="nerc2013probabilistic"></d-cite> is generally defined as number of days per year for which the available generation capacity is insufficient to serve the demand at least once during that day. This metric is not being reported as part of this assessment. A criterion of one day in 10 years is an often used standard for LOLE.
+
+**_Loss-of-load probability (LOLP)_** is the probability of system demand exceeding the generating capacity during a given period. If LOLP is the number of days on which there is expected to be a shortfall per year, it is the same as LOLE. However, other definitions of LOLP are also used.
+
+**_Loss-of-load events (LOLEV)_** is the number of events in which some system load is not served in a given year. A LOLEV can last for one hour or for several contiguous hours and can involve the loss of one or several hundred megawatts of load. TRE-ERCOT is the only Assessment Area to provide this metric in its regional assessment.
+
+## Operating Reliability
+
+**_Severity Risk Index Enhancements_** <d-cite key="nerc2020sri"></d-cite> is a daily metric where transmission loss, generation loss, and load loss events aggregate into a single value that indicates performance of the BES. The SRI values range from zero to 1000. Zero is a theoretical condition where no transmission, generation or load loss occurred during the entire day. To the corollary, a value of 1000 would represent a situation where every transmission, generation and load5 was lost during the entire day. The SRI was designed to be usable for the entirety of NERC as well as applied more granularly, such as at an interconnection level.
+
+The SRI provides a quantitative measure that assesses the relative severity of the combined impact of load, generation, and transmission loss on the BPS daily and offers a comprehensive picture of the performance of the BPS, allowing NERC to assess year-on-year reliability trends. <d-cite key="nerc2024sor"></d-cite>
+
+## Resilience
+
+**_Resilience_** <d-cite key="nerc2018resilience"></d-cite> **_FERC_** proposed to define resilience as, the ability to withstand and reduce the magnitude and/or duration of disruptive events, which includes the capability to anticipate, absorb, adapt to, and/or rapidly recover from such an event.
+
+Some definitions of resilience <d-cite key="chiu2020resilience"></d-cite>:
+
+FERC: The ability to withstand and reduce the magnitude and/or duration of disruptive events, which includes the capability to anticipate, absorb, adapt to, and/or rapidly recover from such event.
+
+DOE: The ability of a power system and its components to withstand and adapt to disruptions and rapidly
+recover from them.
+
+NATF: The ability of the system and its components (i.e., both the equipment and human components) to minimize damage and improve recovery from non-routine disruptions, including high impact, low frequency (HILF) events, in a reasonable amount of time.
+
+The IEEE Technical Report PES-TR65 and FERC Docket No. AD18-7-000 defines resilience as “The ability to withstand and reduce the magnitude and/or duration of disruptive events, which includes the capability to anticipate, absorb, adapt to, and/or rapidly recover from such an event.”
+
+**_Storm resilience metric_** by IEEE <d-cite key="chiu2020resilience"></d-cite> This metric focuses on the speed of system recovery and is designed to capture the reduction of the number of customers without power for more than 12 hours from the time the customer loses power during a storm event. The metric will consider the instances of customer service interruptions that have been restored automatically without requiring human intervention to capture the value of technology solutions such as distribution automation, advanced distribution management system (ADMS), or microgrids, that minimize customer impacts. It will measure the number of reportable storms where recovery is favorable to threshold values divided by the total number of reportable storms.
+
+**_Non-Storm Resilience Metric_** by IEEE <d-cite key="chiu2020resilience"></d-cite> This metric focuses on robustness and the ability to withstand events. It is designed to capture the total number of gray sky days (GSD) in a calendar year with no more than the threshold value of customer interruptions. The metric is measured in a percentage of GSDs that does not exceed the threshold value. The threshold value varies by utility size and is defined as the percentage of customer interruptions over the total customer base (e.g.,0.375% of the total number of customers). GSD excludes any calendar day with at least one reportable storm-related outage.
+
+**_Multi-criteria decision analysis (MCDA)-based metrics_** by DOE GMLC <d-cite key="chiu2020resilience"></d-cite>: MCDA metrics generally try to answer the question,
+“what is the current state of the electric system’s resilience, and what enhances its resilience over time?” These metrics can be used to assess the system’s baseline resilience relative to other systems. They typically include categories of system properties beneficial to resilience, such as robustness, resourcefulness, adaptivity, and recoverability. The application of these metrics requires following a process to review to what degree these properties are present within the system under analysis. This usually involves collecting data through surveys, developing weighting factors, and performing calculations to obtain numerical scores. MCDA metrics are used to calculate a resilience index (RI) that accounts for about 1,200 attributes grouped in 350 categories to characterize system resilience.
+
+**_Performance-based metrics_** by DOE GMLC <d-cite key="chiu2020resilience"></d-cite>: performance-based metrics (also known as **_consequence-based metrics_**) are
+generally quantitative approaches for answering the question, “How resilient is my system?” These metrics interpret quantitative data that describe infrastructure performance during disruptive events. The required data can be collected from historical events, subject matter estimates, and computational infrastructure models. These metrics are suitable for benefit-cost and planning analyses because they measure the potential benefits and costs associated with proposed resilience improvements and investments. Resilience metrics need to include a measure of consequences and the relevant statistical probability from the probability distribution of those consequences.
+
 ## Events
 
 **_Contingency_** <d-cite key="nerc2024glossary"></d-cite> The unexpected failure or outage of a system component, such as a generator, transmission line, circuit breaker, switch or other electrical element.
@@ -352,6 +399,12 @@ Reliability:
 </div>
 
 ## Change Log
+
+2024-12-19
+
+- Add Adaquecy section
+- Add Operating Reliability section
+- Add Resilience section
 
 2024-12-17
 
