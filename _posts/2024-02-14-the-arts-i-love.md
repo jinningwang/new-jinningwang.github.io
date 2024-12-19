@@ -187,6 +187,30 @@ toc:
         </div>
         <div class="col-md-4">
             <div class="book-list">
+                <a href="https://www.themoviedb.org/movie/517814">
+                    <img src="https://media.themoviedb.org/t/p/w440_and_h660_face/mFnfTVADj8yOxwzprYOmTPselk8.jpg" 
+                         alt="Capernaum" 
+                         width="240" 
+                         height="auto" 
+                         class="alignleft size-thumbnail wp-image-1234" />
+                </a>
+                <div><em>Nadine Labaki, Capernaum, 2018</em></div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="book-list">
+                <a href="https://www.themoviedb.org/movie/244786-whiplash">
+                    <img src="https://media.themoviedb.org/t/p/w440_and_h660_face/6qEonhmVYZO7vUkvJzdti3NttOf.jpg" 
+                         alt="Whiplash" 
+                         width="240" 
+                         height="auto" 
+                         class="alignleft size-thumbnail wp-image-1234" />
+                </a>
+                <div><em>Damien Chazelle, Whiplash, 2014</em></div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="book-list">
                 <a href="https://www.themoviedb.org/movie/313369-la-la-land">
                     <img src="https://media.themoviedb.org/t/p/w220_and_h330_face/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg" 
                          alt="La La Land" 
