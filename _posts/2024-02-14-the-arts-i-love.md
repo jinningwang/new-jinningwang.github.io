@@ -315,63 +315,79 @@ toc:
 
 > 假作真时真亦假，无为有处有还无。
 > —曹雪芹，《红楼梦》，1763
+{: .block-tip }
 
 > When the lie is taken as truth, the truth becomes a lie; when the fiction is taken as fact, the fact becomes a fiction.
 > —Translation by Yi Wang
+{: .block-tip }
 
 ---
 
 > 如果你站在四岁的O的位置瞻望未来，你会说她前途未卜，你会说她前途无限，要是你站在她的终点看这个生命的轨迹你看到的只是一条路，你就只能看见一条命定之途。所有的生命都一样，所有的人都是这样。  
 > —史铁生，《务虚笔记》，1996
+{: .block-tip }
 
 > If you stand at the position of a four-year-old O and look into the future, you would say her future is uncertain, you would say her future is limitless. But if you stand at her endpoint and look at the trajectory of her life, you would see only one path, a predetermined path. All lives are the same, all people are like this.
+{: .block-tip }
 
 ---
 
 > Sensible, not sensitive; simply complicated; predictably irrational; kindly demanding; constructively critical; certain of uncertainty; managing risks; helplessly hopeful; persistent, yet flexible.  
 > —Unknown Source
+{: .block-tip }
 
 > 敏而不疑，缜而不繁；娇而不横，求而不奢；诤而有益，谋而有断；处危有度，历难有瞻；其节如松，其韧若竹。
+{: .block-tip }
 
 ---
 
 > A theory, to be of value, must not merely emerge from the careful collection and organization of individual observations, but should be expressed through a set of unexpected and imaginative insights, much like the inspiration of a poet or composer.  
 > —Robert Schulmann, _Einstein On Politics_, 2007
+{: .block-tip }
 
 > 一个理论若要具有价值，则肯定不能仅仅从仔细收集和整理的一些单个的观察中凸显，而是应该以一组不期而至的富有想象力的洞见表现出来，一如诗人或作曲家的灵感。
+{: .block-tip }
 
 ---
 
 > I live in that solitude which is painful in youth, but delicious in the years of maturity.  
 > —Albert Einstein, _The World As I See It_, 1934
+{: .block-tip }
 
 > 我孤寂地生活着，年轻时痛苦万分，而在成熟之年里却甘之如饴。
+{: .block-tip }
 
 ---
 
 > 为有牺牲多壮志，敢教日月换新天。  
 > —毛泽东，《七律·到韶山》，1959年6月
+{: .block-tip }
 
 > Bitter sacrifice strengthens bold resolve. Which dares to make sun and moon shine in new skies.  
 > —Translation by Foreign Languages Press
+{: .block-tip }
 
 ---
 
 > 文变染乎世情，兴废系乎时序。  
 > —刘勰，《文心雕龙·时序》，502年
+{: .block-tip }
 
 > Literature evolves with society, it goes up and down with the time.  
 > —Translation by Yongsheng Cheng
+{: .block-tip }
 
 ---
 
 > Art is dangerous. It is one of the attractions: when it ceases to be dangerous you don't want it.  
 > —Duke Ellington
+{: .block-tip }
 
 ---
 
 > Empathy is not gay. Empathy is not Black. Empathy is bi-sexual. It must go both ways.  
 > —Dave Chappelle, _The Closer_, 2021
+{: .block-tip }
 
 ---
 
@@ -381,16 +397,19 @@ toc:
 
 > My request of reviewers is to try to imagine the darkness before the spark.  
 > —Michael J. Black, _Novelty in Science: A guide for reviewers_, 2022
+{: .block-tip }
 
 ---
 
 > It is especially nice when the things we regard as beautiful are also regarded by other people as useful.  
 > —Donald Knuth
+{: .block-tip }
 
 ---
 
 > The unexamined life is not worth living.  
 > —Plato
+{: .block-tip }
 
 # Memes
 
@@ -400,9 +419,5 @@ toc:
   <img src="/assets/img/poster/meme_young_man.gif"
   alt="vanquish"
   style="width: 700px; height: auto;">
-  <p><em>
-     不气盛还叫年轻人吗？（电视剧《征服》）
-  </em></p>
+  <p><em>高群书，征服，2003</em></p>
 </div>
-
----
