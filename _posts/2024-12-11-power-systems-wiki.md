@@ -20,6 +20,9 @@ toc:
   - name: Frequency
   - name: Reserve
   - name: Reliability, Security, and Stability
+  - name: Adaquecy
+  - name: Operating Reliability
+  - name: Resilience
   - name: Events
   - name: Horizon
   - name: Factors
