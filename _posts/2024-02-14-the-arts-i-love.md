@@ -17,6 +17,21 @@ toc:
     <div class="row">
         <div class="col-md-4">
             <div class="book-list">
+                <a href="https://collections.mintmuseum.org/single?id=2014.79">
+                    <img src="https://art.ua.edu/wp-content/uploads/2015/05/2014.79-Mint-image-650x420.jpg" 
+                         alt="Selma" 
+                         width="720" 
+                         height="auto" 
+                         class="alignleft size-thumbnail wp-image-1234" />
+                </a>
+                <div><em>Selma</em></div>
+                <div><em>Barbara Pennington</em></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="book-list">
                 <a href="http://collections.mfa.org/objects/35100/lightning-at-sea;jsessionid=260335C750714104DAE28DFC518B18EF">
                     <img src="https://i.pinimg.com/564x/46/85/ed/4685ed3fc0e4c142e77c75ec969d27fc.jpg" 
                          alt="Lightning at Sea" 
