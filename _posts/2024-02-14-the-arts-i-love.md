@@ -80,7 +80,7 @@ toc:
                          height="480"
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Robert Williams, The Shattered Rose, 2010.</em></div>
+                <div><em>Robert Williams, The Shattered Rose, 2010</em></div>
             </div>
         </div>
     </div>
@@ -95,8 +95,7 @@ toc:
                          class="alignleft size-thumbnail wp-image-1234"
                          style="clip-path: inset(10px 60px 10px 61px);" />
                 </a>
-                <div><em>Ewok Village</em></div>
-                <div><em>Mab Graves</em></div>
+                <div><em>Mab Graves, Ewok Village</em></div>
             </div>
         </div>
     </div>
