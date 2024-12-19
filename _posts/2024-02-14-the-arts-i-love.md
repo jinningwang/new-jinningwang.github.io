@@ -395,3 +395,18 @@ toc:
 
 > The unexamined life is not worth living.  
 > —Plato
+
+# Memes
+
+---
+
+<div style="text-align: ;left;">
+  <img src="/assets/img/poster/meme_young_man.gif"
+  alt="vanquish"
+  style="width: 700px; height: auto;">
+  <p><em>
+     不气盛还叫年轻人吗？（电视剧《征服》）
+  </em></p>
+</div>
+
+---
