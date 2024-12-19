@@ -15,12 +15,12 @@ toc:
 
 <div class="container">
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
             <div class="book-list">
                 <a href="https://collections.mintmuseum.org/single?id=2014.79">
                     <img src="https://art.ua.edu/wp-content/uploads/2015/05/2014.79-Mint-image-650x420.jpg" 
                          alt="Selma" 
-                         width="720" 
+                         width="960" 
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
@@ -29,12 +29,12 @@ toc:
         </div>
     </div>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
             <div class="book-list">
                 <a href="http://collections.mfa.org/objects/35100/lightning-at-sea;jsessionid=260335C750714104DAE28DFC518B18EF">
                     <img src="https://i.pinimg.com/564x/46/85/ed/4685ed3fc0e4c142e77c75ec969d27fc.jpg" 
                          alt="Lightning at Sea" 
-                         width="720" 
+                         width="960" 
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
@@ -43,13 +43,13 @@ toc:
         </div>
     </div>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
             <div class="book-list">
                 <a href="https://www.matthewtlbyers.com/portfolio-1/'american-psycho'">
                     <img src="https://static.wixstatic.com/media/2a0c7f_c5084efa67d547c98b5eaa3d899f1193~mv2.jpg/v1/fill/w_980,h_1154,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2a0c7f_c5084efa67d547c98b5eaa3d899f1193~mv2.jpg"
                          alt="american psycho" 
                          width="auto"
-                         height="480"
+                         height="600"
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
                 <div><em>Matthew Byers, American Psycho, 2021</em></div>
@@ -57,12 +57,12 @@ toc:
         </div>
     </div>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
             <div class="book-list">
                 <a href="https://www.matthewtlbyers.com">
                     <img src="https://static.wixstatic.com/media/2a0c7f_27ed47a9a1b5430aad86267c12d5d763~mv2.png/v1/fill/w_937,h_537,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/IMG_3783.png"
                          alt="the last laugh" 
-                         width="720" 
+                         width="960" 
                          height="auto"
                          class="alignleft size-thumbnail wp-image-1234"/>
                 </a>
@@ -71,13 +71,13 @@ toc:
         </div>
     </div>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
             <div class="book-list">
                 <a href="https://www.robtwilliamsstudio.com/gallery">
                     <img src="https://images.squarespace-cdn.com/content/v1/5d588a873dd09d00010f4ebf/1566265814373-F4ZAX1H355CJIXI8ND6I/SOS_22_The-Shattered-Rose.jpg?format=1500w"
                          alt="The Shattered Rose" 
                          width="auto"
-                         height="480"
+                         height="600"
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
                 <div><em>Robert Williams, The Shattered Rose, 2010</em></div>
@@ -85,7 +85,7 @@ toc:
         </div>
     </div>
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-6">
             <div class="book-list">
                 <a href="https://mabgraves.com/">
                     <img src="https://metropolis-collectibles.com/image/cache/catalog/products/star-wars-it-takes-an-ewok-village-unframed-art-print-by-mab-graves-sideshow-collectibles-5645-001-699x699.jpg"
