@@ -11,7 +11,7 @@ toc:
   beginning: true
 ---
 
-# Visual Arts
+# Fine Arts
 
 <div class="container">
     <div class="row">
