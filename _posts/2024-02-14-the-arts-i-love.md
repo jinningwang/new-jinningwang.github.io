@@ -24,7 +24,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Selma</em></div>
+                <div><em>Selma, 1965</em></div>
                 <div><em>Barbara Pennington</em></div>
             </div>
         </div>
