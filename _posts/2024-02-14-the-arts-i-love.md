@@ -24,8 +24,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Selma, 1965</em></div>
-                <div><em>Barbara Pennington</em></div>
+                <div><em>Barbara Pennington, Selma, 1965</em></div>
             </div>
         </div>
     </div>
@@ -39,8 +38,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Lightning at Sea</em></div>
-                <div><em>Georgia O'Keeffe</em></div>
+                <div><em>Georgia O'Keeffe, Lightning at Sea, 1922</em></div>
             </div>
         </div>
     </div>
@@ -54,8 +52,7 @@ toc:
                          height="480"
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>american psycho</em></div>
-                <div><em>Matthew Byers</em></div>
+                <div><em>Matthew Byers, American Psycho, 2021</em></div>
             </div>
         </div>
     </div>
@@ -69,8 +66,7 @@ toc:
                          height="auto"
                          class="alignleft size-thumbnail wp-image-1234"/>
                 </a>
-                <div><em>the last laugh</em></div>
-                <div><em>Matthew Byers</em></div>
+                <div><em>Matthew Byers, The Last Laugh, 2023</em></div>
             </div>
         </div>
     </div>
@@ -84,8 +80,7 @@ toc:
                          height="480"
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>The Shattered Rose</em></div>
-                <div><em>Robert Williams</em></div>
+                <div><em>Robert Williams, The Shattered Rose, 2010.</em></div>
             </div>
         </div>
     </div>
@@ -120,8 +115,8 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Burning Bright "炽焰燃烧"</em></div>
-                <div><em>Ron Rash</em></div>
+                <div><em></em></div>
+                <div><em>Ron Rash, Burning Bright "炽焰燃烧", 2010</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -133,8 +128,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Flowers for Algernon "献给阿尔吉侬的花束"</em></div>
-                <div><em>Daniel Keyes</em></div>
+                <div><em>Daniel Keyes, Flowers for Algernon "献给阿尔吉侬的花束", 1966</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -146,8 +140,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Stories of Your Life and Others "你一生的故事"</em></div>
-                <div><em>Ted Chiang</em></div>
+                <div><em>Ted Chiang, Stories of Your Life and Others "你一生的故事", 2002</em></div>
             </div>
         </div>
     </div>
@@ -166,8 +159,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>B for Busy "爱情神话"</em></div>
-                <div><em>Yihui Shao "邵艺辉"</em></div>
+                <div><em>Yihui Shao "邵艺辉", B for Busy "爱情神话", 2021</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -179,8 +171,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Spring, Summer, Fall, Winter... and Spring</em></div>
-                <div><em>Kim Ki-duk</em></div>
+                <div><em>Kim Ki-duk, Spring, Summer, Fall, Winter... and Spring, 2003</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -192,8 +183,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>So Long, My Son "地久天长"</em></div>
-                <div><em>Xiaoshuai Wang "王小帅"</em></div>
+                <div><em>Xiaoshuai Wang "王小帅", So Long, My Son "地久天长", 2019</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -205,8 +195,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>La La Land "爱乐之城"</em></div>
-                <div><em>Damien Chazelle</em></div>
+                <div><em>Damien Chazelle, La La Land "爱乐之城", 2016</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -218,8 +207,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Arrival "降临"</em></div>
-                <div><em>Denis Villeneuve</em></div>
+                <div><em>Denis Villeneuve, Arrival "降临", 2016</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -231,8 +219,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Comrades, Almost a Love Story "甜蜜蜜"</em></div>
-                <div><em>Peter Chan "陈可辛"</em></div>
+                <div><em>Peter Chan "陈可辛, Comrades, Almost a Love Story "甜蜜蜜", 1966</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -244,8 +231,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Lust, Caution "色‧戒"</em></div>
-                <div><em>Ang Lee "李安"</em></div>
+                <div><em>Ang Lee "李安", Lust, Caution "色‧戒", 2007</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -257,8 +243,8 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Eat Drink Man Woman "飲食男女"</em></div>
-                <div><em>Ang Lee "李安"</em></div>
+                <div><em></em></div>
+                <div><em>Ang Lee "李安", Eat Drink Man Woman "飲食男女", 1994</em></div>
             </div>
         </div>
     </div>
@@ -277,8 +263,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>The Closer</em></div>
-                <div><em>Dave Chappelle</em></div>
+                <div><em>Dave Chappelle, The Closer, 2021</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -290,8 +275,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Blocks</em></div>
-                <div><em>Neal Brennan</em></div>
+                <div><em>Neal Brennan, Blocks, 2022</em></div>
             </div>
         </div>
         <div class="col-md-4">
@@ -303,8 +287,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Look at You</em></div>
-                <div><em>Taylor Tomlinson</em></div>
+                <div><em>Taylor Tomlinson, Look at You, 2022</em></div>
             </div>
         </div>
     </div>
@@ -323,8 +306,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>The White Lotus, Season 2</em></div>
-                <div><em>Mike White</em></div>
+                <div><em>Mike White, The White Lotus, Season 2, 2022</em></div>
             </div>
         </div>
     </div>
@@ -333,7 +315,7 @@ toc:
 # Quotes
 
 > 假作真时真亦假，无为有处有还无。
-> —曹雪芹，《红楼梦》
+> —曹雪芹，《红楼梦》，1763
 
 > When the lie is taken as truth, the truth becomes a lie; when the fiction is taken as fact, the fact becomes a fiction.
 > —Translation by Yi Wang
@@ -341,7 +323,7 @@ toc:
 ---
 
 > 如果你站在四岁的O的位置瞻望未来，你会说她前途未卜，你会说她前途无限，要是你站在她的终点看这个生命的轨迹你看到的只是一条路，你就只能看见一条命定之途。所有的生命都一样，所有的人都是这样。  
-> —史铁生，《务虚笔记》
+> —史铁生，《务虚笔记》，1996
 
 > If you stand at the position of a four-year-old O and look into the future, you would say her future is uncertain, you would say her future is limitless. But if you stand at her endpoint and look at the trajectory of her life, you would see only one path, a predetermined path. All lives are the same, all people are like this.
 
@@ -355,21 +337,21 @@ toc:
 ---
 
 > A theory, to be of value, must not merely emerge from the careful collection and organization of individual observations, but should be expressed through a set of unexpected and imaginative insights, much like the inspiration of a poet or composer.  
-> —Robert Schulmann, _Einstein On Politics_
+> —Robert Schulmann, _Einstein On Politics_, 2007
 
 > 一个理论若要具有价值，则肯定不能仅仅从仔细收集和整理的一些单个的观察中凸显，而是应该以一组不期而至的富有想象力的洞见表现出来，一如诗人或作曲家的灵感。
 
 ---
 
 > I live in that solitude which is painful in youth, but delicious in the years of maturity.  
-> —Albert Einstein, _The World As I See It_
+> —Albert Einstein, _The World As I See It_, 1934
 
 > 我孤寂地生活着，年轻时痛苦万分，而在成熟之年里却甘之如饴。
 
 ---
 
 > 为有牺牲多壮志，敢教日月换新天。  
-> —毛泽东，《七律·到韶山》
+> —毛泽东，《七律·到韶山》，1959年6月
 
 > Bitter sacrifice strengthens bold resolve. Which dares to make sun and moon shine in new skies.  
 > —Translation by Foreign Languages Press
@@ -377,7 +359,7 @@ toc:
 ---
 
 > 文变染乎世情，兴废系乎时序。  
-> —刘勰，《文心雕龙·时序》
+> —刘勰，《文心雕龙·时序》，502年
 
 > Literature evolves with society, it goes up and down with the time.  
 > —Translation by Yongsheng Cheng
@@ -390,7 +372,7 @@ toc:
 ---
 
 > Empathy is not gay. Empathy is not Black. Empathy is bi-sexual. It must go both ways.  
-> —Dave Chappelle, _The Closer_
+> —Dave Chappelle, _The Closer_, 2021
 
 ---
 
@@ -399,7 +381,7 @@ toc:
 ---
 
 > My request of reviewers is to try to imagine the darkness before the spark.  
-> —Michael J. Black, _Novelty in Science: A guide for reviewers_
+> —Michael J. Black, _Novelty in Science: A guide for reviewers_, 2022
 
 ---
 
