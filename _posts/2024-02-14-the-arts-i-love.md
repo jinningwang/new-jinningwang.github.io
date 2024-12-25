@@ -322,6 +322,18 @@ toc:
     <div class="row">
         <div class="col-md-4">
             <div class="book-list">
+                <a href="https://www.themoviedb.org/tv/225008">
+                    <img src="https://media.themoviedb.org/t/p/w440_and_h660_face/tJLiKDYdfMskFkJXV1HnaQAdpGf.jpg" 
+                         alt="The Long Season" 
+                         width="240" 
+                         height="auto" 
+                         class="alignleft size-thumbnail wp-image-1234" />
+                </a>
+                <div><em>Xin Shuang “辛爽”, The Long Season “漫长的季节”, 2023</em></div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="book-list">
                 <a href="https://www.themoviedb.org/movie/493899">
                     <img src="https://media.themoviedb.org/t/p/w220_and_h330_face/gH5i3JbnLsyTvcImlofNvXtH3i5.jpg" 
                          alt="The White Lotus, Season 2" 
