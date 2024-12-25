@@ -347,6 +347,12 @@ toc:
 
 # Quotes
 
+> When a measure becomes a target, it ceases to be a good measure.  
+> —Goodhart's Law
+> {: .block-tip }
+
+---
+
 > 庭有枇杷树，吾妻死之年所手植也，今已亭亭如盖矣。  
 > —归有光，《项脊轩志》，1524
 > {: .block-tip }
