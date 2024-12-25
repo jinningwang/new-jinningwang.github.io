@@ -24,7 +24,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Barbara Pennington, Selma, 1965</em></div>
+                <div>Barbara Pennington, <em>Selma,</em> 1965</div>
             </div>
         </div>
     </div>
@@ -38,7 +38,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Georgia O'Keeffe, Lightning at Sea, 1922</em></div>
+                <div>Georgia O'Keeffe, <em>Lightning at Sea,</em> 1922</div>
             </div>
         </div>
     </div>
@@ -52,7 +52,7 @@ toc:
                          height="600"
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Matthew Byers, American Psycho, 2021</em></div>
+                <div>Matthew Byers, <em>American Psycho,</em> 2021</div>
             </div>
         </div>
     </div>
@@ -66,7 +66,7 @@ toc:
                          height="auto"
                          class="alignleft size-thumbnail wp-image-1234"/>
                 </a>
-                <div><em>Matthew Byers, The Last Laugh, 2023</em></div>
+                <div>Matthew Byers, <em>The Last Laugh,</em> 2023</div>
             </div>
         </div>
     </div>
@@ -80,7 +80,7 @@ toc:
                          height="480"
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Robert Williams, The Shattered Rose, 2010</em></div>
+                <div>Robert Williams, <em>The Shattered Rose,</em> 2010</div>
             </div>
         </div>
     </div>
@@ -95,7 +95,7 @@ toc:
                          class="alignleft size-thumbnail wp-image-1234"
                          style="clip-path: inset(10px 60px 10px 61px);" />
                 </a>
-                <div><em>Mab Graves, Ewok Village</em></div>
+                <div>Mab Graves, <em>Ewok Village</em></div>
             </div>
         </div>
     </div>
@@ -114,8 +114,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em></em></div>
-                <div><em>Ron Rash, Burning Bright "炽焰燃烧", 2010</em></div>
+                <div>Ron Rash, <em>Burning Bright "炽焰燃烧",</em> 2010</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -127,7 +126,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Daniel Keyes, Flowers for Algernon "献给阿尔吉侬的花束", 1966</em></div>
+                <div>Daniel Keyes, <em>Flowers for Algernon "献给阿尔吉侬的花束",</em> 1966</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -139,7 +138,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Ted Chiang, Stories of Your Life and Others "你一生的故事", 2002</em></div>
+                <div>Ted Chiang, <em>Stories of Your Life and Others "你一生的故事",</em> 2002</div>
             </div>
         </div>
     </div>
@@ -158,7 +157,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Yihui Shao "邵艺辉", B for Busy "爱情神话", 2021</em></div>
+                <div>Yihui Shao "邵艺辉", <em>B for Busy "爱情神话",</em> 2021</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -170,7 +169,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Kim Ki-duk, Spring, Summer, Fall, Winter... and Spring, 2003</em></div>
+                <div>Kim Ki-duk, <em>Spring, Summer, Fall, Winter... and Spring,</em> 2003</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -182,7 +181,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Xiaoshuai Wang "王小帅", So Long, My Son "地久天长", 2019</em></div>
+                <div>Xiaoshuai Wang "王小帅", <em>So Long, My Son "地久天长",</em> 2019</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -194,7 +193,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Nadine Labaki, Capernaum, 2018</em></div>
+                <div>Nadine Labaki, <em>Capernaum,</em> 2018</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -206,7 +205,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Damien Chazelle, Whiplash, 2014</em></div>
+                <div>Damien Chazelle, <em>Whiplash,</em> 2014</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -218,7 +217,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Damien Chazelle, La La Land "爱乐之城", 2016</em></div>
+                <div>Damien Chazelle, <em>La La Land "爱乐之城",</em> 2016</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -230,7 +229,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Denis Villeneuve, Arrival "降临", 2016</em></div>
+                <div>Denis Villeneuve, <em>Arrival "降临",</em> 2016</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -242,7 +241,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Peter Chan "陈可辛, Comrades, Almost a Love Story "甜蜜蜜", 1966</em></div>
+                <div>Peter Chan "陈可辛, <em>Comrades, Almost a Love Story "甜蜜蜜",</em> 1966</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -254,7 +253,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Ang Lee "李安", Lust, Caution "色‧戒", 2007</em></div>
+                <div>Ang Lee "李安", <em>Lust, Caution "色‧戒",</em> 2007</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -266,8 +265,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em></em></div>
-                <div><em>Ang Lee "李安", Eat Drink Man Woman "飲食男女", 1994</em></div>
+                <div>Ang Lee "李安", <em>Eat Drink Man Woman "飲食男女",</em> 1994</div>
             </div>
         </div>
     </div>
@@ -286,7 +284,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Dave Chappelle, The Closer, 2021</em></div>
+                <div>Dave Chappelle, <em>The Closer,</em> 2021</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -298,7 +296,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Neal Brennan, Blocks, 2022</em></div>
+                <div>Neal Brennan, <em>Blocks,</em> 2022</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -310,7 +308,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Taylor Tomlinson, Look at You, 2022</em></div>
+                <div>Taylor Tomlinson, <em>Look at You,</em> 2022</div>
             </div>
         </div>
     </div>
@@ -329,7 +327,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Xin Shuang “辛爽”, The Long Season “漫长的季节”, 2023</em></div>
+                <div>Xin Shuang “辛爽”, <em>The Long Season “漫长的季节”,</em> 2023</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -341,7 +339,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div><em>Mike White, The White Lotus, Season 2, 2022</em></div>
+                <div>Mike White, <em>The White Lotus, Season 2,</em> 2022</div>
             </div>
         </div>
     </div>
@@ -350,7 +348,7 @@ toc:
 # Quotes
 
 > 庭有枇杷树，吾妻死之年所手植也，今已亭亭如盖矣。  
-> —归有光，《《项脊轩志》，1524
+> —归有光，《项脊轩志》，1524
 > {: .block-tip }
 
 ---
@@ -359,7 +357,7 @@ toc:
 > —曹雪芹，《红楼梦》，1763
 > {: .block-tip }
 
-> When the lie is taken as truth, the truth becomes a lie; when the fiction is taken as fact, the fact becomes a fiction.
+> When the lie is taken as truth, the truth becomes a lie; when the fiction is taken as fact, the fact becomes a fiction.  
 > —Translation by Yi Wang
 > {: .block-tip }
 
