@@ -73,6 +73,20 @@ toc:
     <div class="row">
         <div class="col-md-6">
             <div class="book-list">
+                <a href="https://collections.mfa.org/objects/31102/slave-ship-slavers-throwing-overboard-the-dead-and-dying-t">
+                    <img src="https://charlesmcquillen.com/wp-content/uploads/2015/12/Slave-ship.jpg" 
+                         alt="Slave Ship" 
+                         width="600" 
+                         height="auto" 
+                         class="alignleft size-thumbnail wp-image-1234" />
+                </a>
+                <div>Joseph Mallord William Turner, <em>Slave Ship,</em> 1840</div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="book-list">
                 <a href="https://www.matthewtlbyers.com/portfolio-1/'american-psycho'">
                     <img src="https://static.wixstatic.com/media/2a0c7f_c5084efa67d547c98b5eaa3d899f1193~mv2.jpg/v1/fill/w_980,h_1154,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2a0c7f_c5084efa67d547c98b5eaa3d899f1193~mv2.jpg"
                          alt="american psycho" 
