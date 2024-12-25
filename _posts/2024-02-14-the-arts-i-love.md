@@ -406,7 +406,7 @@ toc:
 ---
 
 > 为有牺牲多壮志，敢教日月换新天。  
-> —毛泽东，《七律·到韶山》，1959年6月
+> —毛泽东，《七律·到韶山》，1959
 > {: .block-tip }
 
 > Bitter sacrifice strengthens bold resolve. Which dares to make sun and moon shine in new skies.  
@@ -416,7 +416,7 @@ toc:
 ---
 
 > 文变染乎世情，兴废系乎时序。  
-> —刘勰，《文心雕龙·时序》，502年
+> —刘勰，《文心雕龙·时序》，502
 > {: .block-tip }
 
 > Literature evolves with society, it goes up and down with the time.  
@@ -465,5 +465,5 @@ toc:
   <img src="/assets/img/poster/meme_young_man.gif"
   alt="vanquish"
   style="width: 700px; height: auto;">
-  <p><em>高群书，征服，2003</em></p>
+  <p>高群书，《征服》，2003</p>
 </div>
