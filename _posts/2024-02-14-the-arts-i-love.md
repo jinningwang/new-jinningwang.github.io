@@ -45,6 +45,20 @@ toc:
     <div class="row">
         <div class="col-md-6">
             <div class="book-list">
+                <a href="https://www.wikiart.org/en/paul-signac/antibes-the-pink-cloud-1916">
+                    <img src="https://uploads0.wikiart.org/images/paul-signac/antibes-the-pink-cloud-1916.jpg" 
+                         alt="Antibes, the Pink Cloud" 
+                         width="600" 
+                         height="auto" 
+                         class="alignleft size-thumbnail wp-image-1234" />
+                </a>
+                <div>Paul Signac, <em>Antibes, the Pink Cloud,</em> 1916</div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <div class="book-list">
                 <a href="https://www.matthewtlbyers.com/portfolio-1/'american-psycho'">
                     <img src="https://static.wixstatic.com/media/2a0c7f_c5084efa67d547c98b5eaa3d899f1193~mv2.jpg/v1/fill/w_980,h_1154,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/2a0c7f_c5084efa67d547c98b5eaa3d899f1193~mv2.jpg"
                          alt="american psycho" 
