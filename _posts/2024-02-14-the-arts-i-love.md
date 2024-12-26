@@ -403,6 +403,12 @@ toc:
 
 # Quotes
 
+> You can fool all the people some of the time and some of the people all the time, but you cannot fool all the people all the time.  
+> —Abraham Lincoln
+> {: .block-tip }
+
+---
+
 > When a measure becomes a target, it ceases to be a good measure.  
 > —Goodhart's Law
 > {: .block-tip }
