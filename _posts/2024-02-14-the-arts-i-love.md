@@ -230,6 +230,18 @@ toc:
         </div>
         <div class="col-md-4">
             <div class="book-list">
+                <a href="https://www.themoviedb.org/movie/359940-three-billboards-outside-ebbing-missouri">
+                    <img src="https://media.themoviedb.org/t/p/w440_and_h660_face/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg" 
+                         alt="Three Billboards Outside Ebbing, Missouri" 
+                         width="240" 
+                         height="auto" 
+                         class="alignleft size-thumbnail wp-image-1234" />
+                </a>
+                <div>Martin McDonagh, <em>Three Billboards Outside Ebbing, Missouri,</em> 2017</div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="book-list">
                 <a href="https://www.themoviedb.org/movie/493899">
                     <img src="https://image.tmdb.org/t/p/original/6JpqLXfLhBSRcL3f686WU0JZ4ft.jpg" 
                          alt="So Long, My Son" 
@@ -322,6 +334,18 @@ toc:
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
                 <div>Ang Lee "李安", <em>Eat Drink Man Woman "飲食男女",</em> 1994</div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="book-list">
+                <a href="https://www.themoviedb.org/movie/120467-the-grand-budapest-hotel">
+                    <img src="https://media.themoviedb.org/t/p/w440_and_h660_face/eWdyYQreja6JGCzqHWXpWHDrrPo.jpg" 
+                         alt="The Grand Budapest Hotel" 
+                         width="240" 
+                         height="auto" 
+                         class="alignleft size-thumbnail wp-image-1234" />
+                </a>
+                <div>Wes Anderson, <em>The Grand Budapest Hotel,</em> 2014</div>
             </div>
         </div>
     </div>
