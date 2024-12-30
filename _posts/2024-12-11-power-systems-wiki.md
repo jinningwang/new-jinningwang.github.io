@@ -22,6 +22,7 @@ toc:
   - name: Reliability, Security, and Stability
   - name: Adaquecy
   - name: Operating Reliability
+  - name: Flexibility
   - name: Resilience
   - name: Events
   - name: Horizon
@@ -173,6 +174,11 @@ Inverter-based resources include modern wind turbines, meaning type 3 and type 4
 
 **_Zonal price_** <d-cite key="ferc2020glossary"></d-cite> A pricing mechanism for a **specific zone** within a **control area**.
 
+**_NYISO-administered markets_** <d-cite key="nyiso2024clean"></d-cite> Each of the NYISO-administered markets  are are interdependent, and facilitate a different piece of the reliability puzzle:
+1. The **Capacity Market** secures commitments from supply resources to be available to meet seasonal resource adequacy requirements.
+2. The **Energy Market** secures electricity production to meet demand in real-time.
+3. The **Ancillary Market** secures flexibility services from suppliers to maintain balance in response to changing conditions on the electrical grid.
+
 ## Ancillary Services
 
 **_Ancillary services_** <d-cite key="ferc2020glossary"></d-cite> Those services necessary to support the transmission of electric power from seller to purchaser, given the obligations of control areas and transmitting utilities within those control areas, to maintain reliable operations of the interconnected transmission system. Ancillary services supplied with generation include load following, reactive power-voltage regulation, system protective services, loss compensation service, system control, load dispatch services, and energy imbalance services.
@@ -318,6 +324,13 @@ year.
 
 The SRI provides a quantitative measure that assesses the relative severity of the combined impact of load, generation, and transmission loss on the BPS daily and offers a comprehensive picture of the performance of the BPS, allowing NERC to assess year-on-year reliability trends. <d-cite key="nerc2024sor"></d-cite>
 
+## Flexibility
+
+**_System flexibility_** <d-cite key="nerc2010flexible"></d-cite> is defined as the ability of supply-side and demand-side resources to respond to system changes and uncertainties. Flexibility also includes the ability to store energy for delivery in the future and the operational flexibility to schedule/dispatch resources in the most efficient manner.
+
+**_Flexibility reserves_** <d-cite key="nyiso2024power"></d-cite> are an emerging concept for addressing variability and uncertainty on longer timescales than operating reserves and regulation service.
+The Ancillary Services Market secures **flexibility services** from suppliers to maintain balance in response to changing conditions on the electrical grid.
+
 ## Resilience
 
 **_Resilience_** <d-cite key="nerc2018resilience"></d-cite> **_FERC_** proposed to define resilience as, the ability to withstand and reduce the magnitude and/or duration of disruptive events, which includes the capability to anticipate, absorb, adapt to, and/or rapidly recover from such an event.
@@ -402,6 +415,11 @@ generally quantitative approaches for answering the question, “How resilient i
 </div>
 
 ## Change Log
+
+2024-12-30
+
+- Add Flexibility section
+- Add NYISO's description of the markets
 
 2024-12-19
 
