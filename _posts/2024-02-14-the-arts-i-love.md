@@ -230,6 +230,18 @@ toc:
         </div>
         <div class="col-md-4">
             <div class="book-list">
+                <a href="https://www.themoviedb.org/movie/1212009">
+                    <img src="https://media.themoviedb.org/t/p/w440_and_h660_face/8PBZxBzRxdwMxcjFvltkAjlTcHc.jpg" 
+                         alt="Viva La Vida" 
+                         width="240" 
+                         height="auto" 
+                         class="alignleft size-thumbnail wp-image-1234" />
+                </a>
+                <div>Yan Han "韩延", <em>Viva La Vida, “我们一起摇太阳”</em> 2024</div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="book-list">
                 <a href="https://www.themoviedb.org/movie/359940-three-billboards-outside-ebbing-missouri">
                     <img src="https://media.themoviedb.org/t/p/w440_and_h660_face/vgvw6w1CtcFkuXXn004S5wQsHRl.jpg" 
                          alt="Three Billboards Outside Ebbing, Missouri" 
