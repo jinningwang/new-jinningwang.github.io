@@ -23,5 +23,3 @@ His research interests include Data Mining, Scientific Computation, and Power Sy
 Jinning is the author of power system scheduling simulator [AMS](https://github.com/CURENT/ams), which is a key component of the [CURENT Large-scale Testbed (LTB)](https://github.com/CURENT).
 He has been coordinating the development efforts for the LTB since 2021.
 He also curates the list [Popular Open Source Libraries for Power System Analysis](https://github.com/jinningwang/best-of-ps).
-
-Last update: Dec. 2024
