@@ -177,7 +177,8 @@ Inverter-based resources include modern wind turbines, meaning type 3 and type 4
 
 **_Zonal price_** <d-cite key="ferc2020glossary"></d-cite> A pricing mechanism for a **specific zone** within a **control area**.
 
-**_NYISO-administered markets_** <d-cite key="nyiso2024clean"></d-cite> Each of the NYISO-administered markets  are are interdependent, and facilitate a different piece of the reliability puzzle:
+**_NYISO-administered markets_** <d-cite key="nyiso2024clean"></d-cite> Each of the NYISO-administered markets are are interdependent, and facilitate a different piece of the reliability puzzle:
+
 1. The **Capacity Market** secures commitments from supply resources to be available to meet seasonal resource adequacy requirements.
 2. The **Energy Market** secures electricity production to meet demand in real-time.
 3. The **Ancillary Market** secures flexibility services from suppliers to maintain balance in response to changing conditions on the electrical grid.
@@ -438,12 +439,14 @@ The **Unified Modeling Language (UML)** is a standardized general-purpose **mode
 The **Extensible Markup Language (XML)** is a **markup language** designed to store and transport data. XML allows developers to define their own tags and structure data in a platform-independent way. It is widely used for data interchange between different systems and platforms. XML documents are made up of elements defined by starting and ending tags, and they can include attributes to provide additional information about the data. XML is used in various applications, including web services, configuration files, and data exchange formats67.
 
 Summary:
+
 - CIM: Standard for modeling power system components and measurements, used for data exchange in the electric power industry.
 - RDF: Framework for representing information about resources in a graph form, used for data interchange on the web.
 - UML: General-purpose modeling language for visualizing and documenting software systems.
 - XML: Markup language for storing and transporting data, allowing for custom tag definitions and platform-independent data exchange.
 
 Summary of what CIM is not:
+
 - CIM is not a programming language: It is a standard for modeling power system components and measurements.
 - CIM is not a software application: It provides a common data model for information exchange but is not an executable program.
 - CIM is not a database: While it can be used to define data structures, it is not a database management system.
@@ -453,6 +456,7 @@ Summary of what CIM is not:
 
 Versions:
 Inactive
+
 - Draft: PC37.239/D04, Mar 2010 - Dec 31, 2010
 - Reserved: C37.239-2010 - Nov 11, 2010
 - Draft: C37.239 - Jan 01, 2010
@@ -462,10 +466,12 @@ A common format for data files and exchange medium used for the interchange of v
 
 Versions:
 Superseded
+
 - C37.111-1999 - Oct 15, 1999
 - C37.111-1991 - Oct 21, 1991
 
 Inactive
+
 - Reserved: C37.111-2013 - Apr 30, 2013
 - Redline: C37.111-2013 - Apr 30, 2013
 - Draft: PC37.111/D4, Jan 2012 - Jul 24, 2012
