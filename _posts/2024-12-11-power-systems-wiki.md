@@ -483,6 +483,13 @@ A matpower function to convert an IEEE CDF data file into a MATPOWER case struct
 
 ## Vendors
 
+**_ETAP_** provides market-leading software solutions for electrical systems, from design and engineering to operations and maintenance.
+- ETAP Load Flow Analysis Software offers an extensive set of power flow analysis and simulation tools to calculate bus voltages, branch power factors, currents, and power flows throughout the electrical system.
+- Transient stability analysis enables engineers to accurately simulate and analyze power system dynamics and transients via system disturbances and other events.
+- Distribution Network Analysis, Distribution system analysis and optimization tools used for network planning, simulation, and prediction of system response using schematic or geospatial views.
+
+Note: cheked on 01-09-2024, https://etap.com/home
+
 **_PowerFactory_** by DIgSILENT, is a power system analysis software application for use in analysing generation, transmission, distribution and industrial systems. It covers the full range of functionality from standard features to highly sophisticated and advanced applications including windpower, distributed generation, real-time simulation and performance monitoring for system testing and supervision.
 
 Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PowerFactory.png), https://www.digsilent.de/en/powerfactory.html
