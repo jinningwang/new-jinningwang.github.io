@@ -484,6 +484,7 @@ A matpower function to convert an IEEE CDF data file into a MATPOWER case struct
 ## Vendors
 
 **_EMTP_** Electromagnetic transients program (EMTP) is the reference for EMT simulations and analysis of power systems.
+
 - Load-Flow: EMTP has a very powerful unbalanced multi-phase load-flow solver capable of solving very large scale transmission and distribution grids, cases with more than 300000 buses can be solved.
 - Time-Domain: EMTP provides the most accurate, numerically stable, and consistent time-domain EMT simulations.
 - Steady-State: The electrical network equations are solved using complex phasors. This option can be used in the stand-alone mode or for initializing the time-domain solution. A harmonic steady-state solution can be achieved.
@@ -492,6 +493,7 @@ A matpower function to convert an IEEE CDF data file into a MATPOWER case struct
 Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/EMTP.png), https://www.emtp.com/products/emtp
 
 **_EasyPower_** The EasyPower product suite delivers a full lineup of powerful electrical software tools for intelligently designing, analyzing, and monitoring electrical power systems.
+
 - PowerFlow: Optimize voltage drop, conductor and equipment loading, power factor, losses, transformer taps, and real and reactive load flows at each branch and bus. (This includes balanced and unbalanced AC, and DC)
 - Harmonics: Analyze system harmonic conditions for standards or interconnect compliance, optimization, troubleshooting, and filter design.
 - Reliability: Calculate reliability, assess contingency plans, and quantify downtime costs.
@@ -505,6 +507,7 @@ Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.git
 Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PSCAD.png), https://www.pscad.com/software/pscad/overview
 
 **_ETAP_** provides market-leading software solutions for electrical systems, from design and engineering to operations and maintenance.
+
 - ETAP Load Flow Analysis Software offers an extensive set of power flow analysis and simulation tools to calculate bus voltages, branch power factors, currents, and power flows throughout the electrical system.
 - Transient stability analysis enables engineers to accurately simulate and analyze power system dynamics and transients via system disturbances and other events.
 - Distribution Network Analysis, Distribution system analysis and optimization tools used for network planning, simulation, and prediction of system response using schematic or geospatial views.
@@ -522,6 +525,7 @@ Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.git
 **_PowerWorld Simulator_** is an interactive power system simulation package designed to simulate high voltage power system operation on a time frame ranging from several minutes to several days. The software contains a highly effective power flow analysis package capable of efficiently solving systems of up to 250,000 buses.
 
 PowerWorld offers several optional add-ons in addition to the base Simulator Package:
+
 - Available Transfer Capability (ATC): Determine the maximum MW transfer possible between two parts of the power system without violating any limits.
 - Distributed Computing: Leverage multi-processor hardware and network Resources for faster analys.
 - Geomagnetically Induced Current (GIC): Model and evaluate the risk posed by geomagnetic disturbances, such as solar storms
@@ -534,6 +538,7 @@ PowerWorld offers several optional add-ons in addition to the base Simulator Pac
 Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PowerWorld.png), https://www.powerworld.com/solutions
 
 **_Energy Exemplar_**
+
 - PLEXOS, Co-optimization; Nodal and Zonal analysis; Renewables and ancillary markets; Hydro-optimization; Gas Planning; Multi-objective decision optimization
 - AURORA: Power Market Price Forecasting; Energy Portfolio Analysis; Optimized Resource Expansion; Power Market Risk Analysis
 - Adapt2: streamlines energy operations
@@ -542,6 +547,7 @@ Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.git
 Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/EnergyExemplar.png), https://www.energyexemplar.com/products
 
 **_PSS_** by Siemens, power system simulation and modeling software
+
 - PSS®E – high-performance transmission planning and analysis software. PSS®E allows operators to perform analyses of power flow, dynamics, short circuits, contingency, voltage stability, transient stability, and much more.
 - PSS®E Cloud X combines your industry trusted transmission planning tool with the power of the cloud. Unlock scalable computation power, secure collaboration, flexible remote working, and more!
 - PSS®MOD – project modeling and data management for PSS®E. Your solution for power transmission planning model management: PSS®MOD coordinates submission of network model data and provides access to complete study cases on demand for any point in time.
@@ -556,6 +562,7 @@ Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github
 Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/SiemensPSS.png), https://www.siemens.com/global/en/products/energy/grid-software/planning/pss-software.html
 
 **_PlanOS_**, by GE Vernova, a comprehensive software platform to confidently plan for a more reliable, resilient, and stable energy system.
+
 - Steady State Power Flow (formerly PSLF) Describe and simulate more accurately the physical behavior of the grid and connected equipment under stable operating conditions, identify potential vulnerabilities, and help ensure reliable operation.
 - Resource Adequacy (formerly MARS) Assess the ability of a power system to help adequately satisfy load requirements.
 - Production Cost (formerly MAPS) Model the economic operation of the power system for informed economic decisions.
