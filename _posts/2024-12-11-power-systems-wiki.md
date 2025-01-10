@@ -487,9 +487,7 @@ A matpower function to convert an IEEE CDF data file into a MATPOWER case struct
 
 Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/NEPLANElectricity.png), https://neplan.ch/neplanproduct/en-electricity/
 
-**_PowerWorld_**
-
-PowerWorld Simulator is an interactive power system simulation package designed to simulate high voltage power system operation on a time frame ranging from several minutes to several days. The software contains a highly effective power flow analysis package capable of efficiently solving systems of up to 250,000 buses.
+**_PowerWorld Simulator_** is an interactive power system simulation package designed to simulate high voltage power system operation on a time frame ranging from several minutes to several days. The software contains a highly effective power flow analysis package capable of efficiently solving systems of up to 250,000 buses.
 
 PowerWorld offers several optional add-ons in addition to the base Simulator Package:
 - Available Transfer Capability (ATC): Determine the maximum MW transfer possible between two parts of the power system without violating any limits.
