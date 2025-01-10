@@ -55,3 +55,11 @@
 "MPCE":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8685265
   color: "#006699"
+
+"AEPS":
+  url: http://www.aeps-info.cn/aeps/home
+  color: "#006699"
+
+"PST":
+  url: https://epjournal.csee.org.cn/dwjs/
+  color: "#006699"
