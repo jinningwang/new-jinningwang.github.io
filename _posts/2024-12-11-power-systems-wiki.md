@@ -29,6 +29,7 @@ toc:
   - name: Factors
   - name: Area, Zone, and Region
   - name: Data Formats
+  - name: Vendors
   - name: Change Log
 ---
 
@@ -480,11 +481,44 @@ Inactive
 
 A matpower function to convert an IEEE CDF data file into a MATPOWER case struct., https://matpower.org/doc/ref-manual/legacy/functions/cdf2mpc.html#cdf2mpc
 
+## Vendors
+
+Products by Energy Exemplar
+- PLEXOS, Co-optimization; Nodal and Zonal analysis; Renewables and ancillary markets; Hydro-optimization; Gas Planning; Multi-objective decision optimization
+- AURORA: Power Market Price Forecasting; Energy Portfolio Analysis; Optimized Resource Expansion; Power Market Risk Analysis
+- Adapt2: streamlines energy operations
+- Simulation-Ready Datasets: Our data teams gather available public and subscribed data, analyzing and calibrating information within each global market for use in your models. Data is updated annually and benchmarked against historical data to demonstrate data quality. Global Datasets are available for the following markets: North America, Latin America, Europe, APAC.
+
+Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/EnergyExemplar.png), https://www.energyexemplar.com/products
+
+**_PSS_** by Siemens, power system simulation and modeling software
+- PSS®E – high-performance transmission planning and analysis software. PSS®E allows operators to perform analyses of power flow, dynamics, short circuits, contingency, voltage stability, transient stability, and much more.
+- PSS®E Cloud X combines your industry trusted transmission planning tool with the power of the cloud. Unlock scalable computation power, secure collaboration, flexible remote working, and more!
+- PSS®MOD – project modeling and data management for PSS®E. Your solution for power transmission planning model management: PSS®MOD coordinates submission of network model data and provides access to complete study cases on demand for any point in time.
+- PSS®ODMS – CIM-based transmission network modeling and analysis. Bridge the gap between multiple utility domains, including operations and planning. With real and virtual worlds tightly aligned, PSS®ODMS provides utilities with a single source of truth for managing and exchanging network model data across their entire IT landscape.
+- PSS®SINCAL – analysis and planning of electric and pipe networks. A simulator for planning, modeling, and analyzing all electrical power or pipe network types: PSS®SINCAL provides a full unbalanced power system model for high, medium and low-voltage grids.
+- Gridscale X Network Model Manager. Comprehensive, consistent network model data management and repository – fast, scalable, and fully interoperable.
+- Gridscale X Advanced Protection Assessment. Gridscale X Advanced Protection Assessment (formerly known as PSS®CAPE) supports transmission and distribution protection engineers with their entire workflow from detailed protection data collection, electronic setting management, setting calculations and validation.
+- Gridscale X Dynamic Security Assessment. The automated, integrated Gridscale X Dynamic Security Assessment software increases transmission system security and improves operational planning processes.
+- Gridscale X Protection Data Manager. Powerful and convenient tool for managing protection data.
+- CTDim – Current and voltage transformer dimensioning. With CTDim, efficiently perform instrument transformer dimensioning while considering both protection and measuring cores. It allows you to decrease engineering and production costs by optimizing the CT and VT data.
+
+Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/SiemensPSS.png), https://www.siemens.com/global/en/products/energy/grid-software/planning/pss-software.html
+
+**_PlanOS_**, by GE Vernova, a comprehensive software platform to confidently plan for a more reliable, resilient, and stable energy system.
+- Steady State Power Flow (formerly PSLF) Describe and simulate more accurately the physical behavior of the grid and connected equipment under stable operating conditions, identify potential vulnerabilities, and help ensure reliable operation.
+- Resource Adequacy (formerly MARS) Assess the ability of a power system to help adequately satisfy load requirements.
+- Production Cost (formerly MAPS) Model the economic operation of the power system for informed economic decisions.
+- New: Capacity Expansion Forecast capacity additions considering uncertain (stochastic) variables and generate adaptable plans that reduce costs across many possible future outcomes.
+
+Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/GEVeronaPlanOS.png), https://www.gevernova.com/consulting/planos
+
 ## Change Log
 
 2025-01-09
 
 - Add Data Formats section
+- Add Vendors section
 
 2024-12-30
 
