@@ -483,7 +483,23 @@ A matpower function to convert an IEEE CDF data file into a MATPOWER case struct
 
 ## Vendors
 
-Products by Energy Exemplar
+**_PowerWorld_**
+
+PowerWorld Simulator is an interactive power system simulation package designed to simulate high voltage power system operation on a time frame ranging from several minutes to several days. The software contains a highly effective power flow analysis package capable of efficiently solving systems of up to 250,000 buses.
+
+PowerWorld offers several optional add-ons in addition to the base Simulator Package:
+- Available Transfer Capability (ATC): Determine the maximum MW transfer possible between two parts of the power system without violating any limits.
+- Distributed Computing: Leverage multi-processor hardware and network Resources for faster analys.
+- Geomagnetically Induced Current (GIC): Model and evaluate the risk posed by geomagnetic disturbances, such as solar storms
+- Integrated Topology Processing: Access full unification of planning and operations at three levels: format, model and application environment.
+- Optimal Power Flow Analysis Tool (OPF): Optimally dispatch generation while simultaneously enforcing transmission line and interface limits.
+- SimAuto: Take advantage of the power of automation to extend the functionality of PowerWorld Simulator to any external program that you write.
+- Transient Stability: Utilize powerful dynamic simulation with the simplicity only PowerWorld can deliver.
+- Voltage Stability (PVQV): Analyze a power system’s static voltage stability margins.
+
+Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PowerWorld.png), https://www.powerworld.com/solutions
+
+**_Energy Exemplar_**
 - PLEXOS, Co-optimization; Nodal and Zonal analysis; Renewables and ancillary markets; Hydro-optimization; Gas Planning; Multi-objective decision optimization
 - AURORA: Power Market Price Forecasting; Energy Portfolio Analysis; Optimized Resource Expansion; Power Market Risk Analysis
 - Adapt2: streamlines energy operations
