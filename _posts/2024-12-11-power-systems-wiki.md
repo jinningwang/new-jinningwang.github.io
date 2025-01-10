@@ -483,6 +483,10 @@ A matpower function to convert an IEEE CDF data file into a MATPOWER case struct
 
 ## Vendors
 
+**_PowerFactory_** by DIgSILENT, is a power system analysis software application for use in analysing generation, transmission, distribution and industrial systems. It covers the full range of functionality from standard features to highly sophisticated and advanced applications including windpower, distributed generation, real-time simulation and performance monitoring for system testing and supervision.
+
+Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PowerFactory.png), https://www.digsilent.de/en/powerfactory.html
+
 **_NEPLAN Electricity_** is a software tool to analyse, plan, optimize and simulate electrical networks. The strength of the software is the extremely user-friendly graphical interface with the extensive libraries for the network elements, protection devices and control circuits, which allows the user to perform study cases very efficiently. The software has a modular concept, is based on international standards, such as IEC, ANSI, IEEE, etc. and is customizable for the European and US market. It is used in transmission, distribution, generation / industrial networks amongst others for network and investment planning, power quality, multi-period optimization, protection setting and assessment, dynamic simulation (RMS/EMT). The stationary and dynamic models for 1-2-3 phase (with neutral and earth wire) AC and DC networks have a high accuracy and performance. Very big network (above 500’000 bus bars) could be easily handled by new IT-techniques and algorithm.
 
 Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/NEPLANElectricity.png), https://neplan.ch/neplanproduct/en-electricity/
