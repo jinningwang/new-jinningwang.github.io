@@ -483,6 +483,14 @@ A matpower function to convert an IEEE CDF data file into a MATPOWER case struct
 
 ## Vendors
 
+**_EMTP_** Electromagnetic transients program (EMTP) is the reference for EMT simulations and analysis of power systems.
+- Load-Flow: EMTP has a very powerful unbalanced multi-phase load-flow solver capable of solving very large scale transmission and distribution grids, cases with more than 300000 buses can be solved.
+- Time-Domain: EMTP provides the most accurate, numerically stable, and consistent time-domain EMT simulations.
+- Steady-State: The electrical network equations are solved using complex phasors. This option can be used in the stand-alone mode or for initializing the time-domain solution. A harmonic steady-state solution can be achieved.
+- Frequency-Scan: A frequency scan simulation is available with EMTP to determine the system impedance and to identify any possible resonance frequencies within the system.
+
+Note: [screen shot on 01-09-2024](), https://www.emtp.com/products/emtp
+
 **_EasyPower_** The EasyPower product suite delivers a full lineup of powerful electrical software tools for intelligently designing, analyzing, and monitoring electrical power systems.
 - PowerFlow: Optimize voltage drop, conductor and equipment loading, power factor, losses, transformer taps, and real and reactive load flows at each branch and bus. (This includes balanced and unbalanced AC, and DC)
 - Harmonics: Analyze system harmonic conditions for standards or interconnect compliance, optimization, troubleshooting, and filter design.
