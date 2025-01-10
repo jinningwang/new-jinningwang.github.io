@@ -483,6 +483,15 @@ A matpower function to convert an IEEE CDF data file into a MATPOWER case struct
 
 ## Vendors
 
+**_EasyPower_** The EasyPower product suite delivers a full lineup of powerful electrical software tools for intelligently designing, analyzing, and monitoring electrical power systems.
+- PowerFlow: Optimize voltage drop, conductor and equipment loading, power factor, losses, transformer taps, and real and reactive load flows at each branch and bus. (This includes balanced and unbalanced AC, and DC)
+- Harmonics: Analyze system harmonic conditions for standards or interconnect compliance, optimization, troubleshooting, and filter design.
+- Reliability: Calculate reliability, assess contingency plans, and quantify downtime costs.
+- Transient Motor Starting – Solve complex motor starting scenarios to verify system stability.
+- Dynamic Stability: Simulate dynamic interaction between machines, networks, and protective device actions. Keep your system stable & avoid downtime.
+
+Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/EasyPower.png), https://www.easypower.com/products/easypower
+
 **_PSCAD_** The World's Most Advanced Tool for Power Systems EMT Simulations
 
 Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PSCAD.png), https://www.pscad.com/software/pscad/overview
