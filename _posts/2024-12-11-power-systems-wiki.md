@@ -429,7 +429,7 @@ A brief history of CIM can be found in <d-cite key="wollenberg2015cimhistory"></
 
 A sample CIM file can be found at [CIMpy - CIM data created with NEPLAN](https://github.com/sogno-platform/cimpy/tree/master/cimpy/examples/sampledata/CIGRE_MV)
 
-Two answers by Microsoft Copilot about CIM, RDF, UML, and XML, on 01-09-2024:
+Two answers by Microsoft Copilot about CIM, RDF, UML, and XML, on 01-09-2025:
 
 The **Common Information Model (CIM)** is a **standard** developed by the electric power industry to facilitate the exchange of information about an electrical network. It is maintained as a UML model and defines a common vocabulary and basic ontology for modeling the components and measurements of power systems. The CIM is officially adopted by the International Electrotechnical Commission (IEC) and is used to derive design artifacts like XML or RDF schemas for application integration. It supports various applications, including energy management systems, SCADA, and planning and optimization1.
 
@@ -490,7 +490,7 @@ A matpower function to convert an IEEE CDF data file into a MATPOWER case struct
 - Steady-State: The electrical network equations are solved using complex phasors. This option can be used in the stand-alone mode or for initializing the time-domain solution. A harmonic steady-state solution can be achieved.
 - Frequency-Scan: A frequency scan simulation is available with EMTP to determine the system impedance and to identify any possible resonance frequencies within the system.
 
-Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/EMTP.png), https://www.emtp.com/products/emtp
+Note: [screen shot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/EMTP.png), https://www.emtp.com/products/emtp
 
 **_EasyPower_** The EasyPower product suite delivers a full lineup of powerful electrical software tools for intelligently designing, analyzing, and monitoring electrical power systems.
 
@@ -500,11 +500,11 @@ Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.git
 - Transient Motor Starting – Solve complex motor starting scenarios to verify system stability.
 - Dynamic Stability: Simulate dynamic interaction between machines, networks, and protective device actions. Keep your system stable & avoid downtime.
 
-Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/EasyPower.png), https://www.easypower.com/products/easypower
+Note: [screen shot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/EasyPower.png), https://www.easypower.com/products/easypower
 
 **_PSCAD_** The World's Most Advanced Tool for Power Systems EMT Simulations
 
-Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PSCAD.png), https://www.pscad.com/software/pscad/overview
+Note: [screen shot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PSCAD.png), https://www.pscad.com/software/pscad/overview
 
 **_ETAP_** provides market-leading software solutions for electrical systems, from design and engineering to operations and maintenance.
 
@@ -512,15 +512,15 @@ Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.git
 - Transient stability analysis enables engineers to accurately simulate and analyze power system dynamics and transients via system disturbances and other events.
 - Distribution Network Analysis, Distribution system analysis and optimization tools used for network planning, simulation, and prediction of system response using schematic or geospatial views.
 
-Note: cheked on 01-09-2024, https://etap.com/home
+Note: cheked on 01-09-2025, https://etap.com/home
 
 **_PowerFactory_** by DIgSILENT, is a power system analysis software application for use in analysing generation, transmission, distribution and industrial systems. It covers the full range of functionality from standard features to highly sophisticated and advanced applications including windpower, distributed generation, real-time simulation and performance monitoring for system testing and supervision.
 
-Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PowerFactory.png), https://www.digsilent.de/en/powerfactory.html
+Note: [screen shot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PowerFactory.png), https://www.digsilent.de/en/powerfactory.html
 
 **_NEPLAN Electricity_** is a software tool to analyse, plan, optimize and simulate electrical networks. The strength of the software is the extremely user-friendly graphical interface with the extensive libraries for the network elements, protection devices and control circuits, which allows the user to perform study cases very efficiently. The software has a modular concept, is based on international standards, such as IEC, ANSI, IEEE, etc. and is customizable for the European and US market. It is used in transmission, distribution, generation / industrial networks amongst others for network and investment planning, power quality, multi-period optimization, protection setting and assessment, dynamic simulation (RMS/EMT). The stationary and dynamic models for 1-2-3 phase (with neutral and earth wire) AC and DC networks have a high accuracy and performance. Very big network (above 500’000 bus bars) could be easily handled by new IT-techniques and algorithm.
 
-Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/NEPLANElectricity.png), https://neplan.ch/neplanproduct/en-electricity/
+Note: [screen shot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/NEPLANElectricity.png), https://neplan.ch/neplanproduct/en-electricity/
 
 **_PowerWorld Simulator_** is an interactive power system simulation package designed to simulate high voltage power system operation on a time frame ranging from several minutes to several days. The software contains a highly effective power flow analysis package capable of efficiently solving systems of up to 250,000 buses.
 
@@ -535,7 +535,7 @@ PowerWorld offers several optional add-ons in addition to the base Simulator Pac
 - Transient Stability: Utilize powerful dynamic simulation with the simplicity only PowerWorld can deliver.
 - Voltage Stability (PVQV): Analyze a power system’s static voltage stability margins.
 
-Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PowerWorld.png), https://www.powerworld.com/solutions
+Note: [screen shot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PowerWorld.png), https://www.powerworld.com/solutions
 
 **_Energy Exemplar_**
 
@@ -544,7 +544,7 @@ Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.git
 - Adapt2: streamlines energy operations
 - Simulation-Ready Datasets: Our data teams gather available public and subscribed data, analyzing and calibrating information within each global market for use in your models. Data is updated annually and benchmarked against historical data to demonstrate data quality. Global Datasets are available for the following markets: North America, Latin America, Europe, APAC.
 
-Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/EnergyExemplar.png), https://www.energyexemplar.com/products
+Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/EnergyExemplar.png), https://www.energyexemplar.com/products
 
 **_PSS_** by Siemens, power system simulation and modeling software
 
@@ -559,7 +559,7 @@ Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github
 - Gridscale X Protection Data Manager. Powerful and convenient tool for managing protection data.
 - CTDim – Current and voltage transformer dimensioning. With CTDim, efficiently perform instrument transformer dimensioning while considering both protection and measuring cores. It allows you to decrease engineering and production costs by optimizing the CT and VT data.
 
-Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/SiemensPSS.png), https://www.siemens.com/global/en/products/energy/grid-software/planning/pss-software.html
+Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/SiemensPSS.png), https://www.siemens.com/global/en/products/energy/grid-software/planning/pss-software.html
 
 **_PlanOS_**, by GE Vernova, a comprehensive software platform to confidently plan for a more reliable, resilient, and stable energy system.
 
@@ -568,7 +568,7 @@ Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github
 - Production Cost (formerly MAPS) Model the economic operation of the power system for informed economic decisions.
 - New: Capacity Expansion Forecast capacity additions considering uncertain (stochastic) variables and generate adaptable plans that reduce costs across many possible future outcomes.
 
-Note: [snapshot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/GEVeronaPlanOS.png), https://www.gevernova.com/consulting/planos
+Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/GEVeronaPlanOS.png), https://www.gevernova.com/consulting/planos
 
 ## Change Log
 
