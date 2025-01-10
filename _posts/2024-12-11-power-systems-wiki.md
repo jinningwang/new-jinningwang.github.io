@@ -483,6 +483,10 @@ A matpower function to convert an IEEE CDF data file into a MATPOWER case struct
 
 ## Vendors
 
+**_PSCAD_** The World's Most Advanced Tool for Power Systems EMT Simulations
+
+Note: [screen shot on 01-09-2024](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/PSCAD.png), https://www.pscad.com/software/pscad/overview
+
 **_ETAP_** provides market-leading software solutions for electrical systems, from design and engineering to operations and maintenance.
 - ETAP Load Flow Analysis Software offers an extensive set of power flow analysis and simulation tools to calculate bus voltages, branch power factors, currents, and power flows throughout the electrical system.
 - Transient stability analysis enables engineers to accurately simulate and analyze power system dynamics and transients via system disturbances and other events.
