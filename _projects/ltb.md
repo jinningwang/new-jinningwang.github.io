@@ -2,7 +2,7 @@
 layout: page
 title: ltb
 description:
-img: assets/img/posts/project_ltb.png
+img: assets/img/projects/project_ltb.png
 importance: 2
 category: work
 related_publications: false

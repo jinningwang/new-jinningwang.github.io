@@ -2,7 +2,7 @@
 layout: page
 title: neep
 description:
-img: assets/img/posts/project_neep.jpg
+img: assets/img/projects/project_neep.jpg
 importance: 1
 category: work
 related_publications: true
