@@ -32,3 +32,31 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"li":
+  - firstname: ["Fangxing", "Fran", "F."]
+    url: https://web.eecs.utk.edu/~fli6/
+
+"cui":
+  - firstname: ["Hantao", "H."]
+    url: https://cui.eecps.com/
+
+"fang":
+  - firstname: ["Xin", "X."]
+    url: https://xinfang88.github.io/
+
+"she":
+  - firstname: ["Buxin", "B."]
+    url: https://shebuxin.github.io/
+
+"shuai":
+  - firstname: ["Hang", "H."]
+    url: https://sites.google.com/view/hangshuai/
+
+"shi":
+  - firstname: ["Qingxin", "Q."]
+    url: https://scholar.google.com/citations?user=a17aNTcAAAAJ&hl=en
+
+"han":
+  - firstname: ["Xiaoqing", "X."]
+    url: https://dlxy.tyut.edu.cn/info/1140/3668.htm
