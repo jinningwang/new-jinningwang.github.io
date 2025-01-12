@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: software
 description: Jinning authors and contributes to multiple open-source software projects.
-nav: true
+nav: false
 nav_order: 4
 ---
 
