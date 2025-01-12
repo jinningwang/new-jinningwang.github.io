@@ -225,7 +225,7 @@ More details about this can be found in Reference <d-cite key="nerc2011ancillary
 In short, Secondary Control maintains the minute-to-minute balance throughout the day and is used to restore frequency to its scheduled value, usually 60 Hz, following a disturbance. Secondary Control is provided by both **Spinning** and **Non-Spinning Reserves**.
 
 <div style="text-align: ;left;">
-  <img src="/assets/img/poster/frequency_trend.png"
+  <img src="/assets/img/pswiki/frequency_trend.png"
   alt="Typical Frequency Trend for the Loss of a Generating Resource"
   style="width: 700px; height: auto;">
   <p><em>
@@ -260,7 +260,7 @@ In short, Secondary Control maintains the minute-to-minute balance throughout th
 **_Contingency Reserve_** <d-cite key="nerc2024glossary"></d-cite> The provision of capacity deployed by the Balancing Authority to meet the Disturbance Control Standard (DCS) and other NERC and Regional Reliability Organization contingency requirements.
 
 <div style="text-align: ;left;">
-  <img src="/assets/img/poster/operating_reserve.png" alt="Operating Reserves" style="width: 700px; height: auto;">
+  <img src="/assets/img/pswiki/operating_reserve.png" alt="Operating Reserves" style="width: 700px; height: auto;">
   <p><em>Operating Reserves (from <d-cite key="nerc2021reserve"></d-cite>) </em></p>
 </div>
 
@@ -320,7 +320,7 @@ Reliability:
 **_Equal Area Criterion_** <d-cite key="kundur2022Power"></d-cite> (p831-833, first edition) The equal-area criterion is useful in determining the maximum permissible increase in $P_{m}$ for the system illustrated in Figure 13.14. Stability is maintained only if an area $A_{2}$ at least equal to $A_{1}$ can be located above $P_{m}$. If $A_{1} > A_{2}$, then the rotor angle $\delta$ will exceed its critical value, and stability will be lost. For $\delta > \delta_{\max}$, $P_{m}$ exceeds $P_{e}$, leading to net acceleration rather than deceleration.
 
 <div style="text-align: ;left;">
-  <img src="/assets/img/poster/response-to-a-step-change-in-mechanical-power-input.png" alt="response-to-a-step-change-in-mechanical-power-input" style="width: 360px; height: auto;">
+  <img src="/assets/img/pswiki/response-to-a-step-change-in-mechanical-power-input.png" alt="response-to-a-step-change-in-mechanical-power-input" style="width: 540px; height: auto;">
   <p><em>Fig. 13.14 Response to a step change in mechanical power input (from <d-cite key="kundur2022Power"></d-cite>) </em></p>
 </div>
 
@@ -426,7 +426,7 @@ generally quantitative approaches for answering the question, “How resilient i
 **_Zone_** There is no clear definition, but my best guess is that it refers to different areas within the Bulk-Power System.
 
 <div style="text-align: ;left;">
-  <img src="/assets/img/poster/PJM_zone_map.png" alt="PJM Zone Map" style="width: 700px; height: auto;">
+  <img src="/assets/img/pswiki/PJM_zone_map.png" alt="PJM Zone Map" style="width: 700px; height: auto;">
   <p><em>PJM Transmission Zones Map (from <d-cite key="pjm"></d-cite>) </em></p>
 </div>
 
@@ -440,7 +440,7 @@ generally quantitative approaches for answering the question, “How resilient i
 - WECC: Western Electricity Coordinating Council
 
 <div style="text-align: ;left;">
-  <img src="/assets/img/poster/six_region.png" alt="Regional Maps" style="width: 700px; height: auto;">
+  <img src="/assets/img/pswiki/six_region.png" alt="Regional Maps" style="width: 700px; height: auto;">
   <p><em>Regional Maps (from <d-cite key="nerc2024tpl"></d-cite>) </em></p>
 </div>
 

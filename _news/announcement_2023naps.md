@@ -12,6 +12,6 @@ related_posts: false
         <p>Jinning Wang presented CURENT LTB packages, AGVis, and DiME, on the 55th Annual North American Power Symposium (NAPS) in Asheville, North Carolina, USA. The paper titled "DiME and AGVis: A Distributed Messaging Environment and Geographical Visualizer for Large-Scale Power System Simulation" was awarded the Best Paper Graduate Award at the conference.</p>
     </div>
     <div style="flex: 1; display: flex; justify-content: center;">
-        <img src="/assets/img/poster/Award_NAPS2023.jpg" alt="2023NAPS" width="250" style="transform: rotate(90deg);">
+        <img src="/assets/img/posts/Award_NAPS2023.jpg" alt="2023NAPS" width="250" style="transform: rotate(90deg);">
     </div>
 </div>

@@ -572,14 +572,14 @@ toc:
 ---
 
 <div style="text-align: ;left;">
-  <img src="/assets/img/poster/meme_young_man.gif"
+  <img src="/assets/img/art/meme_young_man.gif"
   alt="vanquish"
   style="width: 700px; height: auto;">
   <p>高群书，《征服》，2003</p>
 </div>
 
 <div style="text-align: ;left;">
-  <img src="/assets/img/poster/meme_kungfu.jpg"
+  <img src="/assets/img/art/meme_kungfu.jpg"
   alt="vanquish"
   style="width: 700px; height: auto;">
   <p>周星驰，《功夫》，2004</p>

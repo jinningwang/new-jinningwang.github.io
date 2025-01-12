@@ -2,7 +2,7 @@
 layout: page
 title: neep
 description:
-img: assets/img/poster/project_neep.jpg
+img: assets/img/posts/project_neep.jpg
 importance: 1
 category: work
 related_publications: true
@@ -24,6 +24,6 @@ More details can be found in {% cite wang_electricity_2022 %}.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/poster/poster_neep.png" title="poster" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/posts/poster_neep.png" title="poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

@@ -12,7 +12,7 @@ toc:
   sidebar: left
 ---
 
-<img src="/assets/img/poster/appban.png" alt="AppBan" style="width: 550px; height: auto;">
+<img src="/assets/img/posts/appban.png" alt="AppBan" style="width: 550px; height: auto;">
 
 Published on May 12, 2023, and last updated on October 14, 2024.
 
@@ -43,7 +43,7 @@ Jinning has tried to reach out to the campus leaders for further clarification.
 
 ## Nov 5, UTK leaders met with university members
 
-<img src="/assets/img/poster/meeting.jpg" alt="meeting" title="Campus Leaders' Meeting" style="width: 550px; height: auto;">
+<img src="/assets/img/posts/meeting.jpg" alt="meeting" title="Campus Leaders' Meeting" style="width: 550px; height: auto;">
 
 Contact Jinning Wang at jwang175@vols.utk.edu if any copyright or privacy concerns.
 

@@ -12,6 +12,6 @@ related_posts: false
         <p>Jinning received 2024 Handong Gui Outstanding Graduate Researcher Award at the CURENT Industry Conference.</p>
     </div>
     <div style="flex: 1; display: flex; justify-content: center;">
-        <img src="/assets/img/poster/Award_CIC2024_research.jpg" alt="2024CIC" width="250" style="transform: rotate(90deg);">
+        <img src="/assets/img/posts/Award_CIC2024_research.jpg" alt="2024CIC" width="250" style="transform: rotate(90deg);">
     </div>
 </div>

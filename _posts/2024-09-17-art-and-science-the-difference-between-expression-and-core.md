@@ -13,7 +13,7 @@ toc:
 ---
 
 <div style="text-align: left;">
-  <img src="/assets/img/poster/Moky.png" alt="Moky" style="width: 350px; height: auto;">
+  <img src="/assets/img/collections/Moky.png" alt="Moky" style="width: 350px; height: auto;">
   <p><em>Moky in 2022</em></p>
 </div>
 

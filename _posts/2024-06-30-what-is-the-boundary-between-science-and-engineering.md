@@ -13,7 +13,7 @@ toc:
 ---
 
 <div style="text-align: left;">
-  <img src="/assets/img/poster/alpaca.png" alt="An alpaca in the Safari Park by Buxin She" style="width: 550px; height: auto;">
+  <img src="/assets/img/collections/alpaca.png" alt="An alpaca in the Safari Park by Buxin She" style="width: 550px; height: auto;">
   <p><em>An alpaca in the Safari Park by Buxin She</em></p>
 </div>
 

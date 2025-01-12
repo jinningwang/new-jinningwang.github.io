@@ -45,7 +45,7 @@ The summary is informative and thus excerpted here for power engineering student
           Follow IEEE formatting for references:
           <br>
             <div style="text-align: left;">
-                <img src="/assets/img/poster/IEEE_bib_format.png" alt="IEEE" style="width: 400px; height: auto;">
+                <img src="/assets/img/posts/IEEE_bib_format.png" alt="IEEE" style="width: 400px; height: auto;">
             </div>
         </li>
         <br>

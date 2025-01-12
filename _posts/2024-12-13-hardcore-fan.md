@@ -20,7 +20,7 @@ toc:
 举个例子，陈总有次跟我看NBA，瞅着外面四个空位，科比冲队友曰区区顶薪球员何足挂齿科某去去便回，于是一个人杀进低位，咣一声打铁。
 
 <div style="text-align: ;left;">
-  <img src="/assets/img/poster/NBA_finals_game_1_Lakers _vs_Celtics.jpg" alt="NBA Finals Game 1: Los Angeles Lakers v Boston Celtics" style="width: 300px; height: auto;">
+  <img src="/assets/img/posts/NBA_finals_game_1_Lakers _vs_Celtics.jpg" alt="NBA Finals Game 1: Los Angeles Lakers v Boston Celtics" style="width: 300px; height: auto;">
   <p><em>NBA Finals Game 1: Los Angeles Lakers v Boston Celtics</em></p>
 </div>
 
@@ -127,7 +127,7 @@ toc:
 正如就算科黑如我，也一直相信科比每一次倒下，都会伴随着一次更加倔强地站起。毕竟硬派的人总要习惯人们在你的生活里来来往往，有人七进七出在你身上留下上百刀疤，有人一个回合把你斩于马下。而你依旧得站直了，接受MVP的高呼，纵使有时那听起来像是山海般呼啸的嘘声。
 
 <div style="text-align: ;left;">
-  <img src="/assets/img/poster/Kobe_fifth_championship.jpg"
+  <img src="/assets/img/posts/Kobe_fifth_championship.jpg"
   alt="Kobe Bryant's fifth and final championship"
   style="width: 300px; height: auto;">
   <p><em>Kobe Bryant's fifth and final championship</em></p>
