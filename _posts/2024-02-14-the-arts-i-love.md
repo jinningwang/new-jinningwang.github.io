@@ -577,3 +577,10 @@ toc:
   style="width: 700px; height: auto;">
   <p>高群书，《征服》，2003</p>
 </div>
+
+<div style="text-align: ;left;">
+  <img src="/assets/img/poster/meme_kungfu.jpg"
+  alt="vanquish"
+  style="width: 700px; height: auto;">
+  <p>周星驰，《功夫》，2004</p>
+</div>
