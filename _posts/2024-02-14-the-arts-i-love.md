@@ -213,7 +213,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div>Yihui Shao "邵艺辉", <em>B for Busy "爱情神话",</em> 2021</div>
+                <div>邵艺辉 Yihui Shao, <em>爱情神话 B for Busy,</em> 2021</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -237,7 +237,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div>Yan Han "韩延", <em>Viva La Vida, “我们一起摇太阳”</em> 2024</div>
+                <div>韩延 Yan Han, <em>我们一起摇太阳 Viva La Vida</em> 2024</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -261,7 +261,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div>Xiaoshuai Wang "王小帅", <em>So Long, My Son "地久天长",</em> 2019</div>
+                <div>王小帅 Xiaoshuai Wang, <em>地久天长 So Long, My Son,</em> 2019</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -321,7 +321,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div>Peter Chan "陈可辛, <em>Comrades, Almost a Love Story "甜蜜蜜",</em> 1966</div>
+                <div>陈可辛 Peter Chan, <em>甜蜜蜜 Comrades, Almost a Love Story,</em> 1966</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -333,7 +333,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div>Ang Lee "李安", <em>Lust, Caution "色‧戒",</em> 2007</div>
+                <div>李安 Ang Lee, <em>色‧戒 Lust, Caution,</em> 2007</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -345,7 +345,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div>Ang Lee "李安", <em>Eat Drink Man Woman "飲食男女",</em> 1994</div>
+                <div>李安 Ang Lee, <em>飲食男女 Eat Drink Man Woman,</em> 1994</div>
             </div>
         </div>
         <div class="col-md-4">
@@ -431,7 +431,7 @@ toc:
                          height="auto" 
                          class="alignleft size-thumbnail wp-image-1234" />
                 </a>
-                <div>Xin Shuang “辛爽”, <em>The Long Season “漫长的季节”,</em> 2023</div>
+                <div>辛爽 Xin Shuang, <em>漫长的季节 The Long Season,</em> 2023</div>
             </div>
         </div>
         <div class="col-md-4">
