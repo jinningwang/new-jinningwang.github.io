@@ -123,7 +123,7 @@ Note - Elements may be included or excluded on a case-by-case basis through the 
 
 ## Generation
 
-**_Inverter-based resources_** <d-cite key="nerc2023inverter"></d-cite> refer generally to BPS-connected facilities that have a power electronic interface between the ac grid and the source of electricity.
+**_Inverter-based resources (IBR)_** <d-cite key="nerc2023inverter"></d-cite> refer generally to BPS-connected facilities that have a power electronic interface between the ac grid and the source of electricity.
 
 Following two Q&A are from Reference <d-cite key="nerc2023inverter"></d-cite>.
 
@@ -135,6 +135,9 @@ Inverter-based resources include modern wind turbines, meaning type 3 and type 4
 
 - DER are generating resources located on the **distribution** system.
 - DER **may or may not** use inverter technology to interface with the ac grid; however, they are distinctly different than BPS-connected inverter-based resources (connected to transmission and sub-transmission levels).
+
+**_Distributed Energy Resources (DER)_** <d-cite key="ieee2018std1547"></d-cite> A source of electric power that is not directly connected to a bulk power system. DER includes both generators and energy storage technologies capable of exporting active power to an EPS. An interconnection system or a supplemental DER device that is necessary for compliance with this standard is part of a DER.
+DER is equivalent to “distributed resources (DR)” as defined and used in IEEE Std 1547-2003
 
 **_Generator Shift Factor (GSF)_** <d-cite key="nerc2024glossary"></d-cite> A factor to be applied to a generator’s expected change in output to determine the amount of flow contribution that change in output will impose on an identified transmission facility or Flowgate.
 
@@ -571,6 +574,10 @@ Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github
 Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/GEVeronaPlanOS.png), https://www.gevernova.com/consulting/planos
 
 ## Change Log
+
+2025-01-12
+
+- Add definition of DER by IEEE Std 1547-2018
 
 2025-01-09
 
