@@ -360,6 +360,18 @@ toc:
                 <div>Wes Anderson, <em>The Grand Budapest Hotel,</em> 2014</div>
             </div>
         </div>
+        <div class="col-md-4">
+            <div class="book-list">
+                <a href="https://www.themoviedb.org/movie/41993">
+                    <img src="https://media.themoviedb.org/t/p/w440_and_h660_face/k2HW9tcCCQje2bfj3f75BZs9c1Q.jpg" 
+                         alt="志明与春娇" 
+                         width="240" 
+                         height="auto" 
+                         class="alignleft size-thumbnail wp-image-1234" />
+                </a>
+                <div>彭浩翔 Edmond Pang Ho-Cheung, <em>志明与春娇 Love in a Puff,</em> 2010</div>
+            </div>
+        </div>
     </div>
 </div>
 
