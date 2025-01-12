@@ -20,6 +20,7 @@ toc:
   - name: Frequency
   - name: Reserve
   - name: Reliability, Security, and Stability
+  - name: Transient Stability Index
   - name: Adaquecy
   - name: Operating Reliability
   - name: Flexibility
@@ -312,6 +313,19 @@ Reliability:
 
 **_Rotating blackouts_** <d-cite key="nerc2013terminology"></d-cite> when each set of distribution feeders is interrupted for a limited time, typically 20–30 minutes, and then those feeders are put back in service and another set is interrupted, and so on, rotating the outages among individual feeders.
 
+## Transient Stability Index
+
+**_Critical Clearing Time (CCT)_** <d-cite key="kundur2004stability"></d-cite> the maximum permissible duration of the fault for which the subsequent system response remains stable. This portion of stability analysis requires the knowledge of actions of protective relaying.
+
+**_Equal Area Criterion_** <d-cite key="kundur2022Power"></d-cite> (p831-833) The equal-area criterion is useful in determining the maximum permissible increase in $P_{m}$ for the system illustrated in Figure 13.14. Stability is maintained only if an area $A_{2}$ at least equal to $A_{1}$ can be located above $P_{m}$. If $A_{1} > A_{2}$, then the rotor angle $\delta$ will exceed its critical value, and stability will be lost. For $\delta > \delta_{\max}$, $P_{m}$ exceeds $P_{e}$, leading to net acceleration rather than deceleration.
+
+<div style="text-align: ;left;">
+  <img src="/assets/img/poster/response-to-a-step-change-in-mechanical-power-input.png" alt="response-to-a-step-change-in-mechanical-power-input" style="width: 360px; height: auto;">
+  <p><em>Fig. 13.14 Response to a step change in mechanical power input (from <d-cite key="kundur2022Power"></d-cite>) </em></p>
+</div>
+
+**_Extended Equal Area Criterion_** <d-cite key="xue1988eeca"></d-cite>
+
 ## Adaquecy
 
 **_Expected Unserved Energy (EUE)_** <d-cite key="nerc2013probabilistic"></d-cite> is a measure of the generation and transmission system’s capability to continuously serve all loads at all delivery points while satisfying all planning criteria. EUE is energy-centric and analyzes all hours of a particular
@@ -578,6 +592,7 @@ Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github
 2025-01-12
 
 - Add definition of DER by IEEE Std 1547-2018
+- Add Transient Stability Index section
 
 2025-01-09
 
