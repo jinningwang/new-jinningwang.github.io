@@ -394,9 +394,9 @@ The Ancillary Services Market secures **flexibility services** from suppliers to
 
 ## Resilience
 
-**_Resilience_** <d-cite key="nerc2018resilience"></d-cite> **_FERC_** proposed to define resilience as, the ability to withstand and reduce the magnitude and/or duration of disruptive events, which includes the capability to anticipate, absorb, adapt to, and/or rapidly recover from such an event.
+**_Resilience_** <d-cite key="nerc2018resilience"></d-cite> FERC proposed to define resilience as, the ability to withstand and reduce the magnitude and/or duration of disruptive events, which includes the capability to anticipate, absorb, adapt to, and/or rapidly recover from such an event.
 
-Some definitions of resilience <d-cite key="chiu2020resilience"></d-cite>:
+Some other definitions of resilience <d-cite key="chiu2020resilience"></d-cite>:
 
 FERC: The ability to withstand and reduce the magnitude and/or duration of disruptive events, which includes the capability to anticipate, absorb, adapt to, and/or rapidly recover from such event.
 
