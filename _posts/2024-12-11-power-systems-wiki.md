@@ -317,7 +317,7 @@ Reliability:
 
 **_Critical Clearing Time (CCT)_** <d-cite key="kundur2004stability"></d-cite> the maximum permissible duration of the fault for which the subsequent system response remains stable. This portion of stability analysis requires the knowledge of actions of protective relaying.
 
-**_Equal Area Criterion_** <d-cite key="kundur2022Power"></d-cite> (p831-833, first edition) The equal-area criterion is useful in determining the maximum permissible increase in $P_{m}$ for the system illustrated in Figure 13.14. Stability is maintained only if an area $A_{2}$ at least equal to $A_{1}$ can be located above $P_{m}$. If $A_{1} > A_{2}$, then the rotor angle $\delta$ will exceed its critical value, and stability will be lost. For $\delta > \delta_{\max}$, $P_{m}$ exceeds $P_{e}$, leading to net acceleration rather than deceleration.
+**_Equal Area Criterion (EAC)_** <d-cite key="kundur2022Power"></d-cite> (p831-833, first edition) The equal-area criterion is useful in determining the maximum permissible increase in $P_{m}$ for the system illustrated in Figure 13.14. Stability is maintained only if an area $A_{2}$ at least equal to $A_{1}$ can be located above $P_{m}$. If $A_{1} > A_{2}$, then the rotor angle $\delta$ will exceed its critical value, and stability will be lost. For $\delta > \delta_{\max}$, $P_{m}$ exceeds $P_{e}$, leading to net acceleration rather than deceleration.
 
 <div style="text-align: ;left;">
   <img src="/assets/img/pswiki/response-to-a-step-change-in-mechanical-power-input.png" alt="response-to-a-step-change-in-mechanical-power-input" style="width: 540px; height: auto;">
@@ -326,13 +326,18 @@ Reliability:
 
 Note: another record of the **_Equal Area Criteria_** can be found in <d-cite key="dahl1935stability"></d-cite>.
 
-TODO: New Stability Measure for Multimachine Power Systems <d-cite key="teichgraeber1970stability"></d-cite>
+<!-- This measure seems to be not that relevant -->
+<!-- TODO: New Stability Measure for Multimachine Power Systems <d-cite key="teichgraeber1970stability"></d-cite> -->
 
-TODO: The Application on Transfer Admittances to the Analysis of Power System Stability Stydies <d-cite key="byerly1971transfer"></d-cite>
+<!-- This measure seems to be not that relevant -->
+<!-- TODO: The Application on Transfer Admittances to the Analysis of Power System Stability Stydies <d-cite key="byerly1971transfer"></d-cite> -->
 
-TODO: Dynamic Aggregation and the Calculation of Transient Stability Incides <d-cite key="rao1972dynamic"></d-cite>
+<!-- This measure seems to be not that relevant -->
+<!-- TODO: Dynamic Aggregation and the Calculation of Transient Stability Incides <d-cite key="rao1972dynamic"></d-cite> -->
 
-**_Extended Equal Area Criterion_** TODO: <d-cite key="xue1988eeca"></d-cite> 
+**_Extended Equal Area Criterion (EEAC)_** <d-cite key="xue1988eeca"></d-cite> Compared to EAC, EEAC uses an approximate one-machine-infinite-bus (OMIB) equivalent of the multi-machine system.
+
+Note: OMIB is also known as single machine infinite bus (SIMB).
 
 ## Adaquecy
 
