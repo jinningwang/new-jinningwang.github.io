@@ -344,11 +344,21 @@ Note: OMIB is also known as single machine infinite bus (SIMB).
 
 **_PJM's Real-Time Reliability Model_** <d-cite key="pjm2024m3"></d-cite> is a computer representation of the power system facilities in the PJM RTO and other Balancing Authorities that may impact the reliable operation of the PJM system. The model resides and is maintained by the PJM staff on the PJM Energy Management System (EMS). The PJM EMS Network Application programs utilize the model to continuously calculate the **real-time state** and determine the **security** of the PJM system. The Security Constrained Economic Dispatch (SCED) dispatches every generator in the model. The model is also used to calculate real-time Locational Marginal Prices. The model is created and maintained from input data received by PJM from various sources including Transmission Owners, Generation Owners, Load Serving Entities, and other Balancing Authorities. The model is only as accurate as the input data used to derive it; therefore, timely and accurate data updates are critical.
 
+**_Thermal Limit Operation Criteria_** by PJM <d-cite key="pjm2024m3"></d-cite> PJM uses the following techniques to control contingency or system violations:
+- Adjusting PARs.
+- Switching reactive devices in/out of service or adjusting generator MVAR output.
+- Switching transmission facilities in/out of service.
+- Adjusting generation MW output via redispatch.
+- Adjusting imports/exports.
+- Issuing a TLR (Transmission Loading Relief).
+
 **_Voltage Limits_** by PJM <d-cite key="pjm2024m3"></d-cite> High, Low, and Load Dump actual voltage limits, High and Low emergency voltage limits for contingency simulation, and voltage drop limits for wide area transfer simulations to protect against wide area voltage collapse.
 
 **_Transfer Limits_** by PJM <d-cite key="pjm2024m3"></d-cite> The MW flow limitation across an interface to protect the system from large voltage drops or collapse caused by any viable contingency.
 
 **_Stability Limits_** by PJM <d-cite key="pjm2024m3"></d-cite> is limit based on **voltage phase angle difference** to protect portions of the PJM RTO from separation or unstable operation.
+
+**_Stability Limits_** by PJM <d-cite key="pjm2024m11"></d-cite> The ability of a generating unit or a group of generating units to maintain synchronism following a system disturbance can be identified using real time and study applications such as the PJM Transient Stability Analysis (TSA) tool. Based on results from TSA, stability limits will be established and logged within PJM’s TO Connection. For real power (MW) stability limits only, TO Connection **stability limits will be translated into a corresponding generator output constraint** (in MW) for a single generator or a group of generators.
 
 ## Adaquecy
 
