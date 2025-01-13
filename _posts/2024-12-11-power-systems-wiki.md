@@ -335,9 +335,9 @@ year.
 
 ## Flexibility
 
-**_System flexibility_** <d-cite key="nerc2010flexible"></d-cite> is defined as the ability of supply-side and demand-side resources to respond to system changes and uncertainties. Flexibility also includes the ability to store energy for delivery in the future and the operational flexibility to schedule/dispatch resources in the most efficient manner.
+**_System flexibility_** <d-cite key="nerc2010flexible"></d-cite> (in Executive Summary on page I) is defined as the ability of supply-side and demand-side resources to respond to system changes and uncertainties. Flexibility also includes the ability to store energy for delivery in the future and the operational flexibility to schedule/dispatch resources in the most efficient manner.
 
-**_Flexibility reserves_** <d-cite key="nyiso2024power"></d-cite> are an emerging concept for addressing variability and uncertainty on longer timescales than operating reserves and regulation service.
+**_Flexibility reserves_** <d-cite key="nyiso2024power"></d-cite> (p37) are an emerging concept for addressing variability and uncertainty on longer timescales than operating reserves and regulation service.
 The Ancillary Services Market secures **flexibility services** from suppliers to maintain balance in response to changing conditions on the electrical grid.
 
 ## Resilience
