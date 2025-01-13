@@ -2,7 +2,7 @@
 layout: distill
 title: Power Systems Wiki
 date: 2024-12-11 10:00:00
-description: Some terminology for my own reference.
+description: Some terminologies for my own reference.
 tags: [frequency, terminology, NERC, power-systems]
 categories: blog
 thumbnail:
@@ -34,6 +34,10 @@ toc:
   - name: Vendors
   - name: Change Log
 ---
+
+Point of Contact:
+
+For any suggestions or corrections, please email me at jinninggm@gmail.com with the subject line 'Suggestion on Power Systems Wiki'. Thank you!
 
 Acronyms:
 
