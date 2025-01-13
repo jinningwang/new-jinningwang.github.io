@@ -79,7 +79,7 @@ The term **does not** include facilities used in the local distribution of elect
 
 **_Inverter-based resources (IBR)_** <d-cite key="nerc2023inverter"></d-cite> refer generally to BPS-connected facilities that have a power electronic interface between the ac grid and the source of electricity.
 
-Following two Q&A are from Reference <d-cite key="nerc2023inverter"></d-cite>.
+Following two Q&A are from the source reference.
 
 **What types of IBR exist?**
 
@@ -250,7 +250,7 @@ Stability Categories:
 
 **_Frequency stability_** <d-cite key="kundur2004stability"></d-cite> refers to the ability of a power system to maintain steady frequency following a severe system upset resulting in a significant imbalance between generation and load.
 
-The rest two categories of stability <d-cite key="kundur2004stability"></d-cite>: **_Resonance Stability_** and **_Converter-driven Stability_**.
+The rest two categories of stability <d-cite key="kundur2004stability"></d-cite>: **Resonance Stability** and **Converter-driven Stability**.
 
 Reliability:
 
@@ -316,9 +316,9 @@ Note: OMIB is also known as single machine infinite bus (SIMB).
 ## Adaquecy
 
 **_Expected Unserved Energy (EUE)_** <d-cite key="nerc2013probabilistic"></d-cite> is a measure of the generation and transmission system’s capability to continuously serve all loads at all delivery points while satisfying all planning criteria. EUE is energy-centric and analyzes all hours of a particular
-year. Results are calculated in **_megawatthours (MWh)_**. EUE is the summation of the expected number of megawatthours of load that will not be served in a given year as a result of demand exceeding the available capacity across all hours. Additionally, this measure can be normalized based on the assessment area’s total Net Energy for Load. Normalizing the EUE provides a measure relative to the size of a given assessment area.
+year. Results are calculated in **megawatthours (MWh)**. EUE is the summation of the expected number of megawatthours of load that will not be served in a given year as a result of demand exceeding the available capacity across all hours. Additionally, this measure can be normalized based on the assessment area’s total Net Energy for Load. Normalizing the EUE provides a measure relative to the size of a given assessment area.
 
-**_Loss-of-Load Hour (LOLH)_** <d-cite key="nerc2013probabilistic"></d-cite> is generally defined as the number of hours per year where system demand will exceed the generating capacity. LOLH is usually expressed in **_hours per year_**. Any outage caused by inadequate resources regardless of geographic extent or load interrupted (it could be 1 MW for a single customer or the loss of the whole area load) counts as a LOLH. An LOLH of 0.1 means that an hour of loss of load is expected for every 10 years. For a particular year (e.g. 2014), the resources available and load shapes for that year are used to calculate the metrics for that
+**_Loss-of-Load Hour (LOLH)_** <d-cite key="nerc2013probabilistic"></d-cite> is generally defined as the number of hours per year where system demand will exceed the generating capacity. LOLH is usually expressed in **hours per year**. Any outage caused by inadequate resources regardless of geographic extent or load interrupted (it could be 1 MW for a single customer or the loss of the whole area load) counts as a LOLH. An LOLH of 0.1 means that an hour of loss of load is expected for every 10 years. For a particular year (e.g. 2014), the resources available and load shapes for that year are used to calculate the metrics for that
 year.
 
 **_Loss-of-load expectation (LOLE)_** <d-cite key="nerc2013probabilistic"></d-cite> is generally defined as number of days per year for which the available generation capacity is insufficient to serve the demand at least once during that day. This metric is not being reported as part of this assessment. A criterion of one day in 10 years is an often used standard for LOLE.
@@ -329,9 +329,9 @@ year.
 
 ## Operating Reliability
 
-**_Severity Risk Index Enhancements_** <d-cite key="nerc2020sri"></d-cite> is a daily metric where transmission loss, generation loss, and load loss events aggregate into a single value that indicates performance of the BES. The SRI values range from zero to 1000. Zero is a theoretical condition where no transmission, generation or load loss occurred during the entire day. To the corollary, a value of 1000 would represent a situation where every transmission, generation and load5 was lost during the entire day. The SRI was designed to be usable for the entirety of NERC as well as applied more granularly, such as at an interconnection level.
+**_Severity Risk Index (SRI)_** <d-cite key="nerc2020sri"></d-cite> (p5) is a **daily metric** where transmission loss, generation loss, and load loss events aggregate into a single value that indicates performance of the BES. The SRI values range from zero to 1000. Zero is a theoretical condition where no transmission, generation or load loss occurred during the entire day. To the corollary, a value of 1000 would represent a situation where every transmission, generation and load5 was lost during the entire day. The SRI was designed to be usable for the entirety of NERC as well as applied more granularly, such as at an interconnection level.
 
-The SRI provides a quantitative measure that assesses the relative severity of the combined impact of load, generation, and transmission loss on the BPS daily and offers a comprehensive picture of the performance of the BPS, allowing NERC to assess year-on-year reliability trends. <d-cite key="nerc2024sor"></d-cite>
+**_SRI_** <d-cite key="nerc2024sor"></d-cite> (p12) The SRI provides a quantitative measure that assesses the relative severity of the combined impact of load, generation, and transmission loss on the BPS daily and offers a comprehensive picture of the performance of the BPS, allowing NERC to assess year-on-year reliability trends. 
 
 ## Flexibility
 
