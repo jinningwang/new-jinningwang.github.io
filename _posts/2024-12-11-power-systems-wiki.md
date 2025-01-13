@@ -579,6 +579,8 @@ Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github
 2025-01-13
 
 - Add Transmission Operations section
+- Simplify the item of Bulk Electric System
+- Add page numbers for some items
 
 2025-01-12
 
