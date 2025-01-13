@@ -21,6 +21,7 @@ toc:
   - name: Reserve
   - name: Reliability, Security, and Stability
   - name: Transient Stability Index
+  - name: Transmission Operations
   - name: Adaquecy
   - name: Operating Reliability
   - name: Flexibility
@@ -339,6 +340,16 @@ Note: another record of the **_Equal Area Criteria_** can be found in <d-cite ke
 
 Note: OMIB is also known as single machine infinite bus (SIMB).
 
+## Transmission Operations
+
+**_PJM's Real-Time Reliability Model_** <d-cite key="pjm2024m3"></d-cite> is a computer representation of the power system facilities in the PJM RTO and other Balancing Authorities that may impact the reliable operation of the PJM system. The model resides and is maintained by the PJM staff on the PJM Energy Management System (EMS). The PJM EMS Network Application programs utilize the model to continuously calculate the **real-time state** and determine the **security** of the PJM system. The Security Constrained Economic Dispatch (SCED) dispatches every generator in the model. The model is also used to calculate real-time Locational Marginal Prices. The model is created and maintained from input data received by PJM from various sources including Transmission Owners, Generation Owners, Load Serving Entities, and other Balancing Authorities. The model is only as accurate as the input data used to derive it; therefore, timely and accurate data updates are critical.
+
+**_Voltage Limits_** by PJM <d-cite key="pjm2024m3"></d-cite> High, Low, and Load Dump actual voltage limits, High and Low emergency voltage limits for contingency simulation, and voltage drop limits for wide area transfer simulations to protect against wide area voltage collapse.
+
+**_Transfer Limits_** by PJM <d-cite key="pjm2024m3"></d-cite> The MW flow limitation across an interface to protect the system from large voltage drops or collapse caused by any viable contingency.
+
+**_Stability Limits_** by PJM <d-cite key="pjm2024m3"></d-cite> is limit based on **voltage phase angle difference** to protect portions of the PJM RTO from separation or unstable operation.
+
 ## Adaquecy
 
 **_Expected Unserved Energy (EUE)_** <d-cite key="nerc2013probabilistic"></d-cite> is a measure of the generation and transmission system’s capability to continuously serve all loads at all delivery points while satisfying all planning criteria. EUE is energy-centric and analyzes all hours of a particular
@@ -601,6 +612,10 @@ Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github
 Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/GEVeronaPlanOS.png), https://www.gevernova.com/consulting/planos
 
 ## Change Log
+
+2025-01-13
+
+- Add Transmission Operations section
 
 2025-01-12
 
