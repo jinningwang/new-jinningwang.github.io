@@ -324,7 +324,7 @@ Reliability:
   <p><em>Fig. 13.14 Response to a step change in mechanical power input (from <d-cite key="kundur2022Power"></d-cite>) </em></p>
 </div>
 
-Note: another record of the _Equal Area Criteria_ can be found in <d-cite key="dahl1935stability"></d-cite>.
+Note: another record of the **_Equal Area Criteria_** can be found in <d-cite key="dahl1935stability"></d-cite>.
 
 TODO: New Stability Measure for Multimachine Power Systems <d-cite key="teichgraeber1970stability"></d-cite>
 
