@@ -26,6 +26,7 @@ toc:
   - name: Operating Reliability
   - name: Flexibility
   - name: Resilience
+  - name: Transmission Expansion and Interconnection
   - name: Events
   - name: Horizon
   - name: Factors
@@ -365,6 +366,16 @@ The IEEE Technical Report PES-TR65 and FERC Docket No. AD18-7-000 defines resili
 **_Performance-based metrics_** by DOE GMLC <d-cite key="chiu2020resilience"></d-cite> (p13): performance-based metrics (also known as **_consequence-based metrics_**) are
 generally quantitative approaches for answering the question, “How resilient is my system?” These metrics interpret quantitative data that describe infrastructure performance during disruptive events. The required data can be collected from historical events, subject matter estimates, and computational infrastructure models. These metrics are suitable for benefit-cost and planning analyses because they measure the potential benefits and costs associated with proposed resilience improvements and investments. Resilience metrics need to include a measure of consequences and the relevant statistical probability from the probability distribution of those consequences.
 
+## Transmission Expansion and Interconnection
+
+**_Transmission Expansion_** by NYISO <d-cite key="nyiso2023tei"></d-cite> (p4, Version 4.2): A transmission expansion is the **addition or modification** of facilities of the NYS Transmission System that may be proposed or initiated by an Eligible Customer, including a TO, under Section 3.7 of or Attachment P to the NYISO OATT.
+
+**_Interconnection_** by NYISO <d-cite key="nyiso2023tei"></d-cite> (p28, Version 4.2): In the context of this manual, an interconnection refers to the connection of a new **Generating Facility**, Class Year Transmission Project, or **Load** to the NYS Transmission System; or to materially increase the capacity of, or make a material modification to the operating characteristics of, an existing Generating Facility (including a BTM:NG Resource) or Class Year Transmission Project that is interconnected to the NYS Transmission System or Distribution System (see definition of “Interconnection Request” and related capitalized terms in Attachment X and Attachment Z to the NYISO OATT).
+
+**_System Impact Study (SIS)_** by NYISO <d-cite key="nyiso2023tei"></d-cite> (p16, Version 4.2), The purpose of the SIS is to evaluate the impact of the proposed transmission project on the reliability of the NYS Transmission System and if study results indicate that the project, as proposed, would result in any adverse impact on reliability or violations of reliability standards and identify any Network Upgrades that would be required to mitigate any such adverse impact(s) or violation(s).
+
+**_Facilities Study_** by NYISO <d-cite key="nyiso2023tei"></d-cite> (p21, Version 4.2), The main purpose and objective of the Facilities Study is to provide to the Customer good faith estimates of the cost and time to construct the new facilities identified in the SIS.
+
 ## Events
 
 **_Contingency_** <d-cite key="nerc2024glossary"></d-cite> The unexpected failure or outage of a system component, such as a generator, transmission line, circuit breaker, switch or other electrical element.
@@ -575,6 +586,10 @@ Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github
 Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/GEVeronaPlanOS.png), https://www.gevernova.com/consulting/planos
 
 ## Change Log
+
+2025-01-15
+
+- Add section of Transmission Expansion and Interconnection
 
 2025-01-13
 
