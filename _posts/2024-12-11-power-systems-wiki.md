@@ -27,6 +27,7 @@ toc:
   - name: Flexibility
   - name: Resilience
   - name: Transmission Expansion and Interconnection
+  - name: Uncertainty
   - name: Events
   - name: Horizon
   - name: Factors
@@ -376,6 +377,14 @@ generally quantitative approaches for answering the question, “How resilient i
 
 **_Facilities Study_** by NYISO <d-cite key="nyiso2023tei"></d-cite> (p21, Version 4.2), The main purpose and objective of the Facilities Study is to provide to the Customer good faith estimates of the cost and time to construct the new facilities identified in the SIS.
 
+## Uncertainty
+
+**_Aleatoric (aka statistical) uncertainty_** <d-cite key="hullermeier2021aleatoric"></d-cite> refers to the notion of randomness, that is, the variability in the outcome of an experiment which is due to **inherently random effects**.
+
+**_Epistemic (aka systematic) uncertainty_** <d-cite key="hullermeier2021aleatoric"></d-cite> refers to uncertainty caused by a **lack of knowledge** (about the best model). In other words, it refers to the **ignorance** of the agent or decision maker, and hence to the epistemic state of the agent instead of any underlying random phenomenon.
+
+As opposed to uncertainty caused by randomness, uncertainty caused by ignorance can in principle be reduced on the basis of additional information. In other words, epistemic uncertainty refers to the **reducible** part of the (total) uncertainty, whereas aleatoric uncertainty refers to the **irreducible** part.
+
 ## Events
 
 **_Contingency_** <d-cite key="nerc2024glossary"></d-cite> The unexpected failure or outage of a system component, such as a generator, transmission line, circuit breaker, switch or other electrical element.
@@ -586,6 +595,10 @@ Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github
 Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/GEVeronaPlanOS.png), https://www.gevernova.com/consulting/planos
 
 ## Change Log
+
+2025-01-16
+
+- Add section of Uncertainty
 
 2025-01-15
 
