@@ -46,19 +46,19 @@ Additionally, there are commercial services like Wix and WordPress that offer mo
 
 Below are some examples of personal websites, including those of academics, industry professionals, and artists. Go check them out and get inspired!
 
-| Name              | Degree & Year | Affiliation                  | Website                           |
-|-------------------|---------------|------------------------------|-----------------------------------|
-| Gary King         | Ph.D. in 1984 | Harvard                      | gking.harvard.edu |
-| Jack GoldSmith    | J.D. in 1989  | Harvard                      | jackgoldsmith.org |
-| Jennifer Pan      | Ph.D. in 2015 | Harvard                      | jenpan.com |
-| Kevin Tomsovic    | Ph.D. in 1987 | Clemson                      | web.eecs.utk.edu/~ktomsovi/ |
-| Thomas Overbye    | Ph.D. in 1991 | Texas A&M University         | overbye.engr.tamu.edu |
-| Federico Milano   | Ph.D. in 2003 | University College Dublin    | faraday1.ucd.ie |
-| Luigi Vanfretti   | Ph.D. in 2009 | RPI                          | alsetlab.github.io |
-| Hantao Cui        | Ph.D. in 2018 | NCSU                         | cui.eecps.com |
-| Wenqi Cui         | Ph.D. in 2024 | NYU                          | wenqi-cui.github.io |
-| Steven Diamond    | Ph.D. in 2020 | Gridmatic                    | stevendiamond.me |
-| Amelia Wattenberger| -            | GitHub                       | wattenberger.com |
-| Matthew Byers     | -             | -                            | matthewtlbyers.com |
-| Mab Graves        | -             | -                            | mabgraves.com |
-| Grant Sanderson   | -             | -                            | 3blue1brown.com |
+| Name                | Degree & Year | Affiliation               | Website                     |
+| ------------------- | ------------- | ------------------------- | --------------------------- |
+| Gary King           | Ph.D. in 1984 | Harvard                   | gking.harvard.edu           |
+| Jack GoldSmith      | J.D. in 1989  | Harvard                   | jackgoldsmith.org           |
+| Jennifer Pan        | Ph.D. in 2015 | Harvard                   | jenpan.com                  |
+| Kevin Tomsovic      | Ph.D. in 1987 | Clemson                   | web.eecs.utk.edu/~ktomsovi/ |
+| Thomas Overbye      | Ph.D. in 1991 | Texas A&M University      | overbye.engr.tamu.edu       |
+| Federico Milano     | Ph.D. in 2003 | University College Dublin | faraday1.ucd.ie             |
+| Luigi Vanfretti     | Ph.D. in 2009 | RPI                       | alsetlab.github.io          |
+| Hantao Cui          | Ph.D. in 2018 | NCSU                      | cui.eecps.com               |
+| Wenqi Cui           | Ph.D. in 2024 | NYU                       | wenqi-cui.github.io         |
+| Steven Diamond      | Ph.D. in 2020 | Gridmatic                 | stevendiamond.me            |
+| Amelia Wattenberger | -             | GitHub                    | wattenberger.com            |
+| Matthew Byers       | -             | -                         | matthewtlbyers.com          |
+| Mab Graves          | -             | -                         | mabgraves.com               |
+| Grant Sanderson     | -             | -                         | 3blue1brown.com             |
