@@ -37,7 +37,7 @@ toc:
   - name: Change Log
 ---
 
-## Preface
+## Disclaimer
 
 Language itself is inherently ambiguous, and the terminologies in power systems are no exception.
 Inspired by a talk titled "Definitions of Smart Grids a Decade Ago – What Has Changed?" that began on Power-Globe in 2024, I decided to excerpt terminologies from papers, standards, reports, and other traceable sources to build a wiki for my own reference.
