@@ -451,6 +451,12 @@ toc:
 
 # Quotes
 
+> “Writing computer software is one of the purest creative activities in the history of the human race.”  
+> John Ousterhout, _A Philosophy of Software Design_, 2018
+> {: .block-tip }
+
+---
+
 > You can fool all the people some of the time and some of the people all the time, but you cannot fool all the people all the time.  
 > —Abraham Lincoln
 > {: .block-tip }
