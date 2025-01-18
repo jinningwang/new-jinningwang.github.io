@@ -451,8 +451,8 @@ toc:
 
 # Quotes
 
-> “Writing computer software is one of the purest creative activities in the history of the human race.”  
-> John Ousterhout, _A Philosophy of Software Design_, 2018
+> Writing computer software is one of the purest creative activities in the history of the human race.  
+> —John Ousterhout, _A Philosophy of Software Design_, 2018
 > {: .block-tip }
 
 ---
