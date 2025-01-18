@@ -24,8 +24,8 @@ Jinning is the author of power system scheduling simulator [AMS](https://github.
 He has been coordinating the development efforts for the LTB since 2021.
 He also curates the list [Popular Open Source Libraries for Power System Analysis](https://github.com/jinningwang/best-of-ps).
 
-Below are three of my actively developed and maintained projects:
+Below are some of my actively developed and maintained projects:
 
-- [LTB AMS](https://github.com/CURENT/ams)
+- [AMS for CURENT Large-scale Testbed (LTB)](https://github.com/CURENT/ams)
 - [Power Systems Wiki](./blog/2024/power-systems-wiki/)
 - [Popular Open Source Libraries for Power System Analysis](https://github.com/jinningwang/best-of-ps)
