@@ -46,7 +46,7 @@ For any suggestions or corrections, please email me at [jinninggm@gmail.com](jin
 What this wiki does not intend to be:
 - A primary reference. Most of the items are **excerpted** from the sources, and original sources should be referred to for more details.
 - Comprehensive. Given my limited attentation, I may have missed some important terminologies. Please feel free to suggest any missing items.
-- Authoritative. Unlike rigorouly proven theory in mathematics, I regard these terminologies as a common language for easy communication in engineering practice.
+- Authoritative. Unlike rigorously proven mathematical theories, I consider these terminologies to be a common language that facilitates easy communication in engineering practice.
 - Up-to-date. As the terminologies in power systems are often subject to interpretation and change, I cannot guarantee that the information here is the most recent and accurate.
 
 Wiki-wide acronyms:
