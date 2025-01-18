@@ -449,11 +449,21 @@ toc:
     </div>
 </div>
 
+# Monologues
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hH-wCe5oAv8?si=0w9OUUtnGbPtDGx_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cw4OapDkniA?si=_irxWhjPnll1VVL9&amp;start=495" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un_VvR_WqNs?si=3kOXwDs_lqHvHvmc&amp;start=870" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Sketches
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un_VvR_WqNs?si=xQXB-8PU__Y2v7ef" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgL0vnan8gk?si=lSePcc90NoCRGZc_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# Videos
+
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=763763717&bvid=BV1Tr4y117i9&cid=429966578&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 # Quotes
 
