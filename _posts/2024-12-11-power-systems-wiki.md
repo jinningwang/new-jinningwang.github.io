@@ -41,7 +41,7 @@ toc:
 
 Language itself is inherently ambiguous, and the terminologies in power systems are no exception.
 Inspired by a talk titled "Definitions of Smart Grids a Decade Ago – What Has Changed?" that began on Power-Globe in 2024, I decided to excerpt terminologies from papers, standards, reports, and other traceable sources to build a wiki for my own reference.
-For any suggestions or corrections, please email me at [jinninggm@gmail.com](jinninggm@gmail.com) with the subject line **Suggestion on Power Systems Wiki**. Thank you!
+For any suggestions or corrections, please email me at [jinninggm@gmail.com](mailto:jinninggm@gmail.com) with the subject line **Suggestion on Power Systems Wiki**. Thank you!
 
 What this wiki does not intend to be:
 

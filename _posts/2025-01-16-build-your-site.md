@@ -46,19 +46,19 @@ Additionally, there are commercial services like Wix and WordPress that offer mo
 
 Below are some examples of personal websites, including those of academics, industry professionals, and artists. Go check them out and get inspired!
 
-| Name                | Degree & Year | Affiliation               | Website                                                           |
-| ------------------- | ------------- | ------------------------- | ----------------------------------------------------------------- |
-| Gary King           | Ph.D. in 1984 | Harvard University        | [gking.harvard.edu](http://gking.harvard.edu)                     |
-| Jack GoldSmith      | J.D. in 1989  | Harvard University        | [jackgoldsmith.org](http://jackgoldsmith.org)                     |
-| Jennifer Pan        | Ph.D. in 2015 | Stanford University       | [jenpan.com](http://jenpan.com)                                   |
-| Kevin Tomsovic      | Ph.D. in 1987 | Clemson University        | [web.eecs.utk.edu/~ktomsovi/](http://web.eecs.utk.edu/~ktomsovi/) |
-| Thomas Overbye      | Ph.D. in 1991 | Texas A&M University      | [overbye.engr.tamu.edu](http://overbye.engr.tamu.edu)             |
-| Federico Milano     | Ph.D. in 2003 | University College Dublin | [faraday1.ucd.ie](http://faraday1.ucd.ie)                         |
-| Luigi Vanfretti     | Ph.D. in 2009 | Rensselaer Poly. Inst.    | [alsetlab.github.io](http://alsetlab.github.io)                   |
-| Hantao Cui          | Ph.D. in 2018 | North Carolina State U.   | [cui.eecps.com](http://cui.eecps.com)                             |
-| Wenqi Cui           | Ph.D. in 2024 | New York University       | [wenqi-cui.github.io](http://wenqi-cui.github.io)                 |
-| Steven Diamond      | Ph.D. in 2020 | Gridmatic                 | [stevendiamond.me](http://stevendiamond.me)                       |
-| Amelia Wattenberger | -             | GitHub                    | [wattenberger.com](http://wattenberger.com)                       |
-| Matthew Byers       | -             | -                         | [matthewtlbyers.com](http://matthewtlbyers.com)                   |
-| Mab Graves          | -             | -                         | [mabgraves.com](http://mabgraves.com)                             |
-| Grant Sanderson     | -             | -                         | [3blue1brown.com](http://3blue1brown.com)                         |
+| Name                | Degree & Year | Affiliation               | Website                              |
+| ------------------- | ------------- | ------------------------- | ------------------------------------ |
+| Gary King           | Ph.D. in 1984 | Harvard University        | <http://gking.harvard.edu>           |
+| Jack GoldSmith      | J.D. in 1989  | Harvard University        | <http://jackgoldsmith.org>           |
+| Jennifer Pan        | Ph.D. in 2015 | Stanford University       | <http://jenpan.com>                  |
+| Kevin Tomsovic      | Ph.D. in 1987 | Clemson University        | <http://web.eecs.utk.edu/~ktomsovi/> |
+| Thomas Overbye      | Ph.D. in 1991 | Texas A&M University      | <http://overbye.engr.tamu.edu>       |
+| Federico Milano     | Ph.D. in 2003 | University College Dublin | <http://faraday1.ucd.ie>             |
+| Luigi Vanfretti     | Ph.D. in 2009 | Rensselaer Poly. Inst.    | <http://alsetlab.github.io>          |
+| Hantao Cui          | Ph.D. in 2018 | North Carolina State U.   | <http://cui.eecps.com>               |
+| Wenqi Cui           | Ph.D. in 2024 | New York University       | <http://wenqi-cui.github.io>         |
+| Steven Diamond      | Ph.D. in 2020 | Gridmatic                 | <http://stevendiamond.me>            |
+| Amelia Wattenberger | -             | GitHub                    | <http://wattenberger.com>            |
+| Matthew Byers       | -             | -                         | <http://matthewtlbyers.com>          |
+| Mab Graves          | -             | -                         | <http://mabgraves.com>               |
+| Grant Sanderson     | -             | -                         | <http://3blue1brown.com>             |

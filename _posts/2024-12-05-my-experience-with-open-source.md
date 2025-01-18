@@ -12,7 +12,7 @@ toc:
   sidebar: false
 ---
 
-A detailed definition of “open-source software” is available at [https://opensource.org/osd](https://opensource.org/osd), version 1.9, last modified on 2007-03-22
+A detailed definition of “open-source software” is available at <https://opensource.org/osd>, version 1.9, last modified on 2007-03-22
 
 # Background
 
