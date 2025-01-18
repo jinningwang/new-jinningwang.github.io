@@ -449,6 +449,12 @@ toc:
     </div>
 </div>
 
+# Sketches
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un_VvR_WqNs?si=xQXB-8PU__Y2v7ef" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PgL0vnan8gk?si=lSePcc90NoCRGZc_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Quotes
 
 > Writing computer software is one of the purest creative activities in the history of the human race.  
