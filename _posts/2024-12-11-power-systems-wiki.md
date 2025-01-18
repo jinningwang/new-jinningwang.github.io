@@ -37,11 +37,19 @@ toc:
   - name: Change Log
 ---
 
-Point of Contact:
+## Preface
 
-For any suggestions or corrections, please email me at jinninggm@gmail.com with the subject line 'Suggestion on Power Systems Wiki'. Thank you!
+Language itself is inherently ambiguous, and the terminologies in power systems are no exception.
+Inspired by a talk titled "Definitions of Smart Grids a Decade Ago – What Has Changed?" that began on Power-Globe in 2024, I decided to excerpt terminologies from papers, standards, reports, and other traceable sources to build a wiki for my own reference.
+For any suggestions or corrections, please email me at [jinninggm@gmail.com](jinninggm@gmail.com) with the subject line **Suggestion on Power Systems Wiki**. Thank you!
 
-Acronyms:
+What this wiki does not intend to be:
+- A primary reference. Most of the items are **excerpted** from the sources, and original sources should be referred to for more details.
+- Comprehensive. Given my limited attentation, I may have missed some important terminologies. Please feel free to suggest any missing items.
+- Authoritative. Unlike rigorouly proven theory in mathematics, I regard these terminologies as a common language for easy communication in engineering practice.
+- Up-to-date. As the terminologies in power systems are often subject to interpretation and change, I cannot guarantee that the information here is the most recent and accurate.
+
+Wiki-wide acronyms:
 
 |---------|-------------------------------------------------|
 | BES | Bulk Electric System |
@@ -53,10 +61,6 @@ Acronyms:
 | GSF | Generator Shift Factor |
 | AGC | Automatic Generation Control |
 | ACE | Area Control Error |
-
-Organizations:
-
-|---------|-------------------------------------------------|
 | FERC | Federal Energy Regulatory Commission |
 | NERC | North American Electric Reliability Corporation |
 | EPRI | Electric Power Research Institute |
@@ -595,6 +599,10 @@ Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github
 Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github.io/tree/main/assets/img/vendors/GEVeronaPlanOS.png), https://www.gevernova.com/consulting/planos
 
 ## Change Log
+
+2025-01-18
+
+- Add a Preface section
 
 2025-01-16
 
