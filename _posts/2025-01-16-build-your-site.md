@@ -48,15 +48,15 @@ Below are some examples of personal websites, including those of academics, indu
 
 | Name                | Degree & Year | Affiliation               | Website                                                           |
 | ------------------- | ------------- | ------------------------- | ----------------------------------------------------------------- |
-| Gary King           | Ph.D. in 1984 | Harvard                   | [gking.harvard.edu](http://gking.harvard.edu)                     |
-| Jack GoldSmith      | J.D. in 1989  | Harvard                   | [jackgoldsmith.org](http://jackgoldsmith.org)                     |
-| Jennifer Pan        | Ph.D. in 2015 | Harvard                   | [jenpan.com](http://jenpan.com)                                   |
-| Kevin Tomsovic      | Ph.D. in 1987 | Clemson                   | [web.eecs.utk.edu/~ktomsovi/](http://web.eecs.utk.edu/~ktomsovi/) |
+| Gary King           | Ph.D. in 1984 | Harvard University        | [gking.harvard.edu](http://gking.harvard.edu)                     |
+| Jack GoldSmith      | J.D. in 1989  | Harvard University        | [jackgoldsmith.org](http://jackgoldsmith.org)                     |
+| Jennifer Pan        | Ph.D. in 2015 | Stanford University       | [jenpan.com](http://jenpan.com)                                   |
+| Kevin Tomsovic      | Ph.D. in 1987 | Clemson University        | [web.eecs.utk.edu/~ktomsovi/](http://web.eecs.utk.edu/~ktomsovi/) |
 | Thomas Overbye      | Ph.D. in 1991 | Texas A&M University      | [overbye.engr.tamu.edu](http://overbye.engr.tamu.edu)             |
 | Federico Milano     | Ph.D. in 2003 | University College Dublin | [faraday1.ucd.ie](http://faraday1.ucd.ie)                         |
-| Luigi Vanfretti     | Ph.D. in 2009 | RPI                       | [alsetlab.github.io](http://alsetlab.github.io)                   |
-| Hantao Cui          | Ph.D. in 2018 | NCSU                      | [cui.eecps.com](http://cui.eecps.com)                             |
-| Wenqi Cui           | Ph.D. in 2024 | NYU                       | [wenqi-cui.github.io](http://wenqi-cui.github.io)                 |
+| Luigi Vanfretti     | Ph.D. in 2009 | Rensselaer Poly. Inst.    | [alsetlab.github.io](http://alsetlab.github.io)                   |
+| Hantao Cui          | Ph.D. in 2018 | North Carolina State U.   | [cui.eecps.com](http://cui.eecps.com)                             |
+| Wenqi Cui           | Ph.D. in 2024 | New York University       | [wenqi-cui.github.io](http://wenqi-cui.github.io)                 |
 | Steven Diamond      | Ph.D. in 2020 | Gridmatic                 | [stevendiamond.me](http://stevendiamond.me)                       |
 | Amelia Wattenberger | -             | GitHub                    | [wattenberger.com](http://wattenberger.com)                       |
 | Matthew Byers       | -             | -                         | [matthewtlbyers.com](http://matthewtlbyers.com)                   |
