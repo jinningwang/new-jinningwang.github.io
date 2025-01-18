@@ -37,7 +37,7 @@ Once your content is ready, you'll need to host your website. This involves uplo
 Finally, register a domain name and configure it to point to your web hosting server. This makes your website accessible through a unique web address.
 
 **One-Stop Solutions.**
-If this process sounds daunting, don't worry! There are services that provide one-stop solutions, such as GitHub Pages, GitLab Pages, and Google Sites. For example, GitHub Pages allows you to create and host a website for free, with a domain like username.github.io. With many ready-to-use templates, GitHub Pages has become a popular choice for rookie website builders.
+If this process sounds daunting, don't worry! There are services that provide one-stop solutions, such as GitHub Pages, Cloudflare Pages, and Google Sites. For example, GitHub Pages allows you to create and host a website for free, with a domain like username.github.io. With many ready-to-use templates, GitHub Pages has become a popular choice for rookie website builders.
 
 **Commercial Services.**
 Additionally, there are commercial services like Wix and WordPress that offer more advanced features and customization options. These platforms provide user-friendly interfaces and a wide range of templates to help you build a professional-looking website with ease.
