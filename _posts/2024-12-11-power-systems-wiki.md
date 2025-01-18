@@ -29,6 +29,7 @@ toc:
   - name: Transmission Expansion and Interconnection
   - name: Uncertainty
   - name: Events
+  - name: Oscillation
   - name: Horizon
   - name: Factors
   - name: Area, Zone, and Region
@@ -413,6 +414,17 @@ Note:
 - In some cases they halt before the sequence results in the interruption of electricity service
 - In many case, cascading outages have resulted in massive disruptions to electricity service: Northeast blackouts in 1965 and 2003, New York City blackout in 1977, two WECC blackouts in 1996, Brazil blackout in 2009, WECC blackout in 2011, etc
 
+## Oscillation
+
+**_Oscillation_** <d-cite key="powerworld2020oscillations"></d-cite> An oscillation is just a repetitive motion that can be either undamped, positively damped (decaying with time) or negatively damped (growing with time).
+
+Types of oscillations include:
+- Transients: Usually high frequency and highly damped
+- Local plant: Usually from 1 to 5 Hz
+- Inter-area oscillations: From 0.15 to 1 Hz
+- Slower dynamics: Such as AGC, less than 0.15 Hz
+- Subsynchronous resonance: 10 to 50 Hz (less than synchronous)
+
 ## Horizon
 
 **_Near-Term Transmission Planning Horizon_** <d-cite key="nerc2024glossary"></d-cite> The transmission planning period that covers Year One through five.
@@ -616,7 +628,8 @@ Note: [snapshot on 01-09-2025](https://github.com/jinningwang/jinningwang.github
 
 2025-01-18
 
-- Add a Preface section
+- Add a Disclaimer section at the beginning
+- Add a section of Oscillation
 
 2025-01-16
 
