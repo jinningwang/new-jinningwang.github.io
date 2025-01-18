@@ -44,6 +44,7 @@ Inspired by a talk titled "Definitions of Smart Grids a Decade Ago – What Has 
 For any suggestions or corrections, please email me at [jinninggm@gmail.com](jinninggm@gmail.com) with the subject line **Suggestion on Power Systems Wiki**. Thank you!
 
 What this wiki does not intend to be:
+
 - A primary reference. Most of the items are **excerpted** from the sources, and original sources should be referred to for more details.
 - Comprehensive. Given my limited attentation, I may have missed some important terminologies. Please feel free to suggest any missing items.
 - Authoritative. Unlike rigorously proven mathematical theories, I consider these terminologies to be a common language that facilitates easy communication in engineering practice.
@@ -402,11 +403,13 @@ As opposed to uncertainty caused by randomness, uncertainty caused by ignorance 
 **_Cascading_** <d-cite key="nerc2024glossary"></d-cite> The uncontrolled successive loss of System Elements triggered by an incident at any location. Cascading results in widespread electric service interruption that cannot be restrained from sequentially spreading beyond an area predetermined by studies.
 
 Note:
+
 - This version is approved by FERC on 1/21/2016.
 - Another version of term "Cascading" is approved by FERC on 3/16/2007 and inactive on 6/30/2016.
 - The term "Cascading Outages" is remanded by FERC on 12/27/2007.
 
-**_Cascading Outage_** <d-cite key="ieee2014cascading"></d-cite> A cascading outage is a sequence of events in which an initial disturbance, or a set of disturbances, triggers a sequence of one or more dependent component outages: 
+**_Cascading Outage_** <d-cite key="ieee2014cascading"></d-cite> A cascading outage is a sequence of events in which an initial disturbance, or a set of disturbances, triggers a sequence of one or more dependent component outages:
+
 - In some cases they halt before the sequence results in the interruption of electricity service
 - In many case, cascading outages have resulted in massive disruptions to electricity service: Northeast blackouts in 1965 and 2003, New York City blackout in 1977, two WECC blackouts in 1996, Brazil blackout in 2009, WECC blackout in 2011, etc
 
