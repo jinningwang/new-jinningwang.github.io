@@ -25,7 +25,7 @@ For any suggestions or corrections, please email me at [jinninggm@gmail.com](mai
 
 <div style="text-align: ;left;">
   <img src="/assets/img/psupdate/data-center-layout.png" alt="Data Center Layout" style="width: 540px; height: auto;">
-  <p><em>Data Center Layout (from <d-cite key="nerc2024datacenter"></d-cite>) </em></p>
+  <p><em>Data Center Layout by NERC in 2024(from <d-cite key="nerc2024datacenter"></d-cite>) </em></p>
 </div>
 
 ## Change Log
