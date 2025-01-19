@@ -27,13 +27,15 @@ Large volume of requests across the continent, concentrated in the mid-Atlantic,
 ## Concerns
 
 Forecasting Considerations <d-cite key="giraldez2024large"></d-cite>:
+
 - There is no formal forecasting model that is used today to forecast large loads, in particular data centers
 - Data informing forecasting is obtained by utilities / ISOs directly from customers and developers seeking to interconnect
 - No standardization in data center consumption requirements, interconnection queue, modeling, etc.
 
 Large Data Center Loads – Key Considerations <d-cite key="shah2024interconnection"></d-cite>:
+
 - Power Quality: Harmonics, Voltage fluctuations/flicker
 - Transient Stability: Voltage recovery, frequency
-- Small Signal Stability: Forced oscillations at low frequencies 
+- Small Signal Stability: Forced oscillations at low frequencies
 - Resonance Stability: Exciting torsional modes of nearby units
 - Other: Ramping rate, ride-through requirements
