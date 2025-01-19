@@ -6,7 +6,7 @@ description: Data centers bring new challenges to power systems
 tags: [news, power-systems, energy, data-center]
 categories: power-systems-update
 thumbnail:
-featured: true
+featured: false
 giscus_comments: true
 bibliography: power-systems.bib
 authors:
