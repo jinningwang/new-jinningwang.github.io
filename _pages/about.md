@@ -29,4 +29,4 @@ Below are some of my actively developed and maintained projects:
 - [AMS](https://github.com/CURENT/ams): An open-source power system scheduling simulator in Python.
 - [Power Systems Wiki](./blog/2024/power-systems-wiki/): A collection of terminologies.
 - [Popular Open Source Libraries for Power System Analysis](https://github.com/jinningwang/best-of-ps)
-- [Power Systems Update](./blog/category/power-systems-update/): A collection of emerging trends.
+- [Power Systems Update](./blog/category/power-systems-update/): A collection of news.
