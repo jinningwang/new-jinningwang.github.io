@@ -8,7 +8,7 @@ categories: blog
 thumbnail:
 featured: true
 giscus_comments: true
-bibliography: power-systems-wiki.bib
+bibliography: power-systems.bib
 authors:
   - name: Jinning Wang
 toc:
